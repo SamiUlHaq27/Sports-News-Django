@@ -1,0 +1,92 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:38:09 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/horseracing&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Preakness Stakes 2022 odds: Betting recap, Belmont Stakes look ahead]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/preakness-stakes-2022-odds-betting-recap-belmont-stakes-look-ahead</link>
+				<guid>https://www.foxsports.com/stories/other/preakness-stakes-2022-odds-betting-recap-belmont-stakes-look-ahead</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Early Voting upset Epicenter to win the Preakness Stakes. Here's a betting recap of the big race and look ahead to the Belmont Stakes.]]>
+				</description>
+				<pubDate>Sun, 22 May 2022 15:20:15 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/05.21.22_Preakness-Stakes_Betting-Recap_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/05.21.22_Preakness-Stakes_Betting-Recap_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Horse racing world stunned as Kentucky Derby winner fails test, Baffert suspended]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/medina-spirit-kentucky-derby-winner-positive-drug-test-bob-baffert</link>
+				<guid>https://www.foxsports.com/stories/other/medina-spirit-kentucky-derby-winner-positive-drug-test-bob-baffert</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Bob Baffert was suspended after news broke on Sunday that Kentucky Derby winner Medina Spirit had failed a drug test.]]>
+				</description>
+				<pubDate>Sun, 09 May 2021 15:22:18 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/baffert-wide-050921.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/baffert-wide-050921.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kentucky Derby 2021: Top moments from the 147th race at Churchill Downs]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/kentucky-derby-churchhill-downs-run-for-the-roses-horse-racing-saturday-may</link>
+				<guid>https://www.foxsports.com/stories/other/kentucky-derby-churchhill-downs-run-for-the-roses-horse-racing-saturday-may</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[It was a day of fancy hats, mint juleps and beautiful horses! Check out the top moments from the Kentucky Derby.]]>
+				</description>
+				<pubDate>Sat, 01 May 2021 16:11:22 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/2.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/2.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[A Historic Preakness Unlike Any Other]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/a-historic-preakness-unlike-any-other</link>
+				<guid>https://www.foxsports.com/stories/other/a-historic-preakness-unlike-any-other</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[FOX Sports takes you behind the scenes of a Triple Crown race with no fans for a result that happens once every 24 years.]]>
+				</description>
+				<pubDate>Sat, 03 Oct 2020 16:38:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/10/10.3.20_Preakness-COVID_IN-Line-3.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/10/128/72/10.3.20_Preakness-COVID_IN-Line-3.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Authentic Wins Kentucky Derby]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/authentic-wins-kentucky-derby-tiz-the-law-bob-baffert-thousand-words</link>
+				<guid>https://www.foxsports.com/stories/other/authentic-wins-kentucky-derby-tiz-the-law-bob-baffert-thousand-words</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[It was a wild day at the Kentucky Derby – one that turned out to be wildly successful for the legendary Bob Baffert.]]>
+				</description>
+				<pubDate>Sat, 05 Sep 2020 19:40:17 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/09/GettyImages-1270863494.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/09/128/72/GettyImages-1270863494.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:39:31 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/winter,fs/summer&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Diggins wins silver ahead of Closing Ceremony]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-closing-ceremony-day-16-top-moments</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-closing-ceremony-day-16-top-moments</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[That's a wrap on the 2022 Winter Olympics! Here are some of the top moments from Day 16 and the Closing Ceremony.]]>
+				</description>
+				<pubDate>Sun, 20 Feb 2022 10:03:54 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.20.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.20.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Elana Meyers Taylor makes history on Day 15]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-elana-meyers-taylor-history-day-15-beijing</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-elana-meyers-taylor-history-day-15-beijing</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Elana Meyers Taylor earned another medal, and did so in historic fashion. Here are the highlights from Day 15 in Beijing.]]>
+				</description>
+				<pubDate>Sat, 19 Feb 2022 11:28:45 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.19.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.19.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Eileen Gu, Timothy LeDuc make history on Day 14]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-eileen-gu-timothy-leduc-make-history-on-day-14</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-eileen-gu-timothy-leduc-make-history-on-day-14</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[It was another monumental day at the Winter Games on Friday. Here are some of the biggest moments and highlights from Day 14.]]>
+				</description>
+				<pubDate>Fri, 18 Feb 2022 11:22:49 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.18.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.18.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Valieva lands 4th, U.S. women's hockey earns silver on Day 13]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-valieva-lands-4th-u-s-womens-hockey-earns-silver-on-day-13</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-valieva-lands-4th-u-s-womens-hockey-earns-silver-on-day-13</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Kamila Valieva finished 4th, while the U.S. women's hockey team settled for silver despite a rally vs. Canada on a wild Day 13.]]>
+				</description>
+				<pubDate>Thu, 17 Feb 2022 08:46:25 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/dc0f972f-2.8.22_2022-Winter-Olympics-Day-4_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/dc0f972f-2.8.22_2022-Winter-Olympics-Day-4_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Olympic figure skating continues under cloud of suspicion]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/olympic-figure-skating-continues-under-cloud-of-suspicion</link>
+				<guid>https://www.foxsports.com/stories/olympics/olympic-figure-skating-continues-under-cloud-of-suspicion</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Even if she wins, Russian figure skater Kamila Valieva can't escape the tarnish of her failed drug test, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Wed, 16 Feb 2022 14:49:28 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.16.22_Kamila-Valieva_olympics_EDIT-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.16.22_Kamila-Valieva_olympics_EDIT-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: U.S. men's hockey team stunned in quarters]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-u-s-mens-hockey-team-stunned-in-quarters</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-u-s-mens-hockey-team-stunned-in-quarters</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. men's hockey team is out of the Olympics after a stunning loss in the quarters. Here are the top moments from Day 12.]]>
+				</description>
+				<pubDate>Wed, 16 Feb 2022 08:10:42 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.16.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.16.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Megan Nick earns bronze on Day 11]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-megan-nick-earns-bronze-on-day-11</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-megan-nick-earns-bronze-on-day-11</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The Winter Olympics are in full swing as the U.S. collected more medals on Day 11. Here are the top moments!]]>
+				</description>
+				<pubDate>Tue, 15 Feb 2022 13:30:07 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.15.22_2022-Winter-Olympics-Day-11_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.15.22_2022-Winter-Olympics-Day-11_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Kallie Humphries earns gold for U.S. on Day 10]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-kallie-humphries-earns-gold-us-day-10</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-kallie-humphries-earns-gold-us-day-10</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. made history in bobsled, and the women's hockey team reached the gold-medal game on Day 10 at the Winter Games.]]>
+				</description>
+				<pubDate>Mon, 14 Feb 2022 10:39:58 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.14.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.14.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Erin Jackson becomes first black woman to medal in speed skating]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-9-erin-jackson-us-mens-hockey-curling-monobob</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-9-erin-jackson-us-mens-hockey-curling-monobob</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Erin Jackson made Olympics history in women's speed skating. Here are the must-see moments from Day 9 of the Winter Games.]]>
+				</description>
+				<pubDate>Sun, 13 Feb 2022 13:14:09 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.13.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.13.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics Day 8: Jacobellis, Baumgartner win gold]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-8-makes-lindsey-jacobellis-nick-baumgartner-u-s-mens-hockey-canada</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-8-makes-lindsey-jacobellis-nick-baumgartner-u-s-mens-hockey-canada</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. added more gold to its medal count on Saturday. Here are the highlights from Day 8 at the Winter Games.]]>
+				</description>
+				<pubDate>Sat, 12 Feb 2022 11:12:54 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.12.22_2022-Winter-Olympics_16x9-final.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.12.22_2022-Winter-Olympics_16x9-final.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Shaun White misses medal in farewell ride]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-shaun-white-misses-medal-in-farewell-ride</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-shaun-white-misses-medal-in-farewell-ride</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Shaun White took his final Olympic ride and USA hockey dominated in Day 7. Here are Friday's highlights at the Beijing Games.]]>
+				</description>
+				<pubDate>Fri, 11 Feb 2022 11:15:21 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.11.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.11.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Nathan Chen, Chloe Kim strike gold]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-nathan-chen-chloe-kim-strike-gold</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-nathan-chen-chloe-kim-strike-gold</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Nathan Chen won gold in figure skating, while Chloe Kim secured her second straight gold medal in snowboard halfpipe on Day 6.]]>
+				</description>
+				<pubDate>Thu, 10 Feb 2022 09:54:17 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.10.22_Olympics-roundup_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.10.22_Olympics-roundup_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Jacobellis secures USA's first gold]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-5-mikaela-shiffrin-lindsey-jacobellis-gold-medal</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-day-5-mikaela-shiffrin-lindsey-jacobellis-gold-medal</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[It was an up and down showing for the U.S on Day 5. Here are the top moments from the Beijing Games.]]>
+				</description>
+				<pubDate>Wed, 09 Feb 2022 09:43:29 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.9.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.9.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Mikaela Shiffrin's stumbles magnified by the Olympics lens]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/mikaela-shiffrins-stumbles-magnified-by-the-olympics-lens</link>
+				<guid>https://www.foxsports.com/stories/olympics/mikaela-shiffrins-stumbles-magnified-by-the-olympics-lens</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Mikaela Shiffrin's stumble just shows how the unpredictable nature of sports is magnified at the Olympics, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Tue, 08 Feb 2022 22:45:06 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.9.22_-Mikaela-Shiffrin_EDIT-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.9.22_-Mikaela-Shiffrin_EDIT-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Nathan Chen sets world record on Day 4]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-nathan-chen-sets-world-record-on-day-4</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-nathan-chen-sets-world-record-on-day-4</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Team USA's Nathan Chen was a force to be reckoned with on the ice. Here are the highlights from Day 4 of the Winter Olympics.]]>
+				</description>
+				<pubDate>Tue, 08 Feb 2022 09:24:48 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.8.22_2022-Winter-Olympics-Day-4_16x9-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.8.22_2022-Winter-Olympics-Day-4_16x9-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: USA figure skaters shine on Day 3]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-usa-figure-skaters-shine-on-day-3-mikaela-shiffrin-team-usa</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-usa-figure-skaters-shine-on-day-3-mikaela-shiffrin-team-usa</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Figure skating and Alpine skiing highlighted Monday's events. Here are the highlights from Day 3 at the Beijing Games.]]>
+				</description>
+				<pubDate>Mon, 07 Feb 2022 09:47:22 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.7.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.7.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: Team USA snags two medals on Day 2]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-team-usa-snags-two-medals-on-day-2</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-team-usa-snags-two-medals-on-day-2</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Team USA is on the board with its first two medals of the Winter Games. Here are some highlights from Day 2 at the Olympics.]]>
+				</description>
+				<pubDate>Sun, 06 Feb 2022 10:44:41 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.6.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.6.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Winter Olympics: U.S. women's hockey rules ice on Day 1]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2022-winter-olympics-u-s-womens-hockey-rules-ice-on-day-1</link>
+				<guid>https://www.foxsports.com/stories/olympics/2022-winter-olympics-u-s-womens-hockey-rules-ice-on-day-1</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[U.S. women's hockey ruled the ice, while the first medals were handed out at the Winter Olympics. See the top moments from Day 1.]]>
+				</description>
+				<pubDate>Sat, 05 Feb 2022 11:08:49 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.5.22_2022-Winter-Olympics_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.5.22_2022-Winter-Olympics_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Thompson-Herah runs 10.54, Richardson finishes ninth at Prefontaine]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/shacarri-richardson-elaine-thompson-herah-prefontaine-classic-women-100-meters</link>
+				<guid>https://www.foxsports.com/stories/other/shacarri-richardson-elaine-thompson-herah-prefontaine-classic-women-100-meters</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Sha'Carri Richardson didn't have a glorious return at the Prefontaine Classic, while Elaine Thompson-Herah dominated – again.]]>
+				</description>
+				<pubDate>Sat, 21 Aug 2021 15:21:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.21.21_Prefontaine-Classic-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.21.21_Prefontaine-Classic-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Did Kevin Durant's sensational run to Olympic gold solidify him as world's best player?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/kevin-durant-brooklyn-nets-olympic-gold-medal-lebron-james-giannis-antetokounmpo</link>
+				<guid>https://www.foxsports.com/stories/nba/kevin-durant-brooklyn-nets-olympic-gold-medal-lebron-james-giannis-antetokounmpo</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[Kevin Durant made a statement in Tokyo. Was it enough to place him atop the hoops hierarchy? The debate raged on Monday.]]>
+				</description>
+				<pubDate>Mon, 09 Aug 2021 12:49:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.9.21_Olympic-Sized-Leap-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.9.21_Olympic-Sized-Leap-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USA passes China in gold medal count on final day of Tokyo Olympics]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/olympics-women-basketball-usa-track-and-field</link>
+				<guid>https://www.foxsports.com/stories/olympics/olympics-women-basketball-usa-track-and-field</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. took the gold medal lead on the final day of the Olympic Games in Tokyo. Here are the highlights from Day 16.]]>
+				</description>
+				<pubDate>Sun, 08 Aug 2021 10:49:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.8.21_Olympic-Roundup-Day-16-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.8.21_Olympic-Roundup-Day-16-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[U.S. women's basketball team wins seventh straight gold medal]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/united-states-womens-basketball-team-wins-seventh-straight-gold-medal</link>
+				<guid>https://www.foxsports.com/stories/olympics/united-states-womens-basketball-team-wins-seventh-straight-gold-medal</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Led by the ageless Sue Bird and Diana Taurasi, the U.S. women's basketball team won its seventh straight gold medal.]]>
+				</description>
+				<pubDate>Sat, 07 Aug 2021 21:21:19 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.7.21_USA-Basketball-Gold-medal-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.7.21_USA-Basketball-Gold-medal-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Allyson Felix breaks Carl Lewis' record, USA women win water polo gold on Day 15]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/tokyo-summer-games-highlights-top-moments-day-15-saturday-august-7-team-usa-us-medal-count</link>
+				<guid>https://www.foxsports.com/stories/olympics/tokyo-summer-games-highlights-top-moments-day-15-saturday-august-7-team-usa-us-medal-count</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Allyson Felix is officially the track GOAT, and USA women's water polo is golden once again. Here are Day 15's highlights.]]>
+				</description>
+				<pubDate>Sat, 07 Aug 2021 09:45:17 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.7.21_Olympic-recap_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.7.21_Olympic-recap_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Gritty defense and Kevin Durant carry U.S. to Olympic basketball gold]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/united-states-france-kevin-durant-tokyo-olympics-basketball-gold-medal-nba</link>
+				<guid>https://www.foxsports.com/stories/olympics/united-states-france-kevin-durant-tokyo-olympics-basketball-gold-medal-nba</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. men's basketball team needed gritty defense and a whole lot of Kevin Durant to edge France for an Olympic gold medal.]]>
+				</description>
+				<pubDate>Sat, 07 Aug 2021 00:12:17 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.6.21_USA-Basketball-Gold-medal-16x9-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.6.21_USA-Basketball-Gold-medal-16x9-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tokyo Olympics: Top moments from U.S. vs. France gold medal basketball game]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/tokyo-games-gold-medal-mens-basketball-top-moments-highlights-us-team-usa-france-kevin-durant-devin-booker</link>
+				<guid>https://www.foxsports.com/stories/olympics/tokyo-games-gold-medal-mens-basketball-top-moments-highlights-us-team-usa-france-kevin-durant-devin-booker</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. men's basketball team secured its fourth consecutive gold medal after defeating France, 87-82. See the highlights.]]>
+				</description>
+				<pubDate>Fri, 06 Aug 2021 22:15:11 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.6.21_gold-medal-basketball-top-moments_men_olympics-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.6.21_gold-medal-basketball-top-moments_men_olympics-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Allyson Felix adds to legacy, USA claims women's beach volleyball gold on Day 14]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/tokyo-olympics-united-states-volleyball-basketball-allyson-felix</link>
+				<guid>https://www.foxsports.com/stories/olympics/tokyo-olympics-united-states-volleyball-basketball-allyson-felix</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[April Ross and Alix Klineman win gold in beach volleyball, while Allyson Felix adds to her legacy on Day 14 of the Olympics.]]>
+				</description>
+				<pubDate>Fri, 06 Aug 2021 12:19:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.6.21_Olympics-Roundup-Day-14-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.6.21_Olympics-Roundup-Day-14-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[After years of frustration, Gregg Popovich takes another shot at golden moment]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/gregg-popovich-team-usa-basketball-olympics-gold-medal-game-yaron-weitzman</link>
+				<guid>https://www.foxsports.com/stories/olympics/gregg-popovich-team-usa-basketball-olympics-gold-medal-game-yaron-weitzman</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[Gregg Popovich has a rocky past with USA basketball, but an Olympic gold would fix all that, Yaron Weitzman writes.]]>
+				</description>
+				<pubDate>Fri, 06 Aug 2021 07:21:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/08.05.21_Team-USA-coach-Gregg-Popovich_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/08.05.21_Team-USA-coach-Gregg-Popovich_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Team USA makes history with three inaugural Olympic medals on Day 13]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/tokyo-summer-games-day-13-top-best-moments-highlights-team-usa-us-basketball-baseball-uswnt-harrison-holloway-crouser-juneau</link>
+				<guid>https://www.foxsports.com/stories/olympics/tokyo-summer-games-day-13-top-best-moments-highlights-team-usa-us-basketball-baseball-uswnt-harrison-holloway-crouser-juneau</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. continues to lead all countries in total medals after Day 13 of the Tokyo Olympics. Here's the latest from Team USA.]]>
+				</description>
+				<pubDate>Thu, 05 Aug 2021 10:12:40 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.5.21_Olympic-recap_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.5.21_Olympic-recap_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[What's next for USWNT after disappointing showing at Olympics?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/uswnt-bronze-medal-tokyo-olympics-whats-next-doug-mcintyre</link>
+				<guid>https://www.foxsports.com/stories/soccer/uswnt-bronze-medal-tokyo-olympics-whats-next-doug-mcintyre</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[The USWNT regrouped to win the bronze, but a team rebuild is needed to recapture world dominance, Doug McIntyre writes.]]>
+				</description>
+				<pubDate>Thu, 05 Aug 2021 06:55:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/us_women_soccer16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/us_women_soccer16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[How the U.S. men's basketball program can return to Olympic dominance]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/u-s-mens-basketball-tokyo-olympics-kevin-durant-damian-lillard</link>
+				<guid>https://www.foxsports.com/stories/nba/u-s-mens-basketball-tokyo-olympics-kevin-durant-damian-lillard</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[The best way for the U.S. men’s hoops team to bounce back would be if this campaign doesn't get a perfect ending, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Wed, 04 Aug 2021 15:50:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/477_Editorial_StoryCard_1920x1080_Olympics_TeamUSA.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/477_Editorial_StoryCard_1920x1080_Olympics_TeamUSA.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

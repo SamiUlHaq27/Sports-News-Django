@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:38:30 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/korn-ferry-tour,fs/lpga-tour,fs/pga-tour&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Rory McIlroy storms back to win FedEx Cup and $18 million]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/rory-mcilroy-storms-from-6-back-to-win-fedex-cup-and-18-million</link>
+				<guid>https://www.foxsports.com/stories/golf/rory-mcilroy-storms-from-6-back-to-win-fedex-cup-and-18-million</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Rory McIlroy rallied from six shots behind to win the Tour Championship and capture the FedEx Cup for the third time Sunday.]]>
+				</description>
+				<pubDate>Sun, 28 Aug 2022 19:07:27 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/mcilroy16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/mcilroy16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Cam Smith among PGA players reportedly defecting to LIV Golf]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/cam-smith-among-pga-players-reportedly-defecting-to-liv-golf</link>
+				<guid>https://www.foxsports.com/stories/golf/cam-smith-among-pga-players-reportedly-defecting-to-liv-golf</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Cameron Smith, the world's No. 2-ranked player, is reportedly among a new group of PGA Tour players set to join LIV Golf.]]>
+				</description>
+				<pubDate>Sat, 27 Aug 2022 16:46:12 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/cam-smith-wide-082722.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/cam-smith-wide-082722.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Lee Westwood rips new-look PGA Tour as 'copy' of LIV Golf]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/lee-westwood-rips-new-look-pga-tour-as-copy-of-liv-golf</link>
+				<guid>https://www.foxsports.com/stories/golf/lee-westwood-rips-new-look-pga-tour-as-copy-of-liv-golf</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Former world No. 1 Lee Westwood called PGA Tour players "hypocrites," saying its new plan merely copies LIV Golf's model.]]>
+				</description>
+				<pubDate>Fri, 26 Aug 2022 11:54:56 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/westwood-wide-082622.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/westwood-wide-082622.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top PGA Tour players to commit to 20-event big money slate]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/top-pga-tour-players-to-commit-to-20-event-big-money-slate</link>
+				<guid>https://www.foxsports.com/stories/golf/top-pga-tour-players-to-commit-to-20-event-big-money-slate</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[The PGA announced a new 20-tournament schedule that will feature its top players.]]>
+				</description>
+				<pubDate>Wed, 24 Aug 2022 12:30:14 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/rorym-8_24.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/rorym-8_24.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods, Rory McIlory teaming up to create PGA events]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/tiger-woods-rory-mcilory-reportedly-team-up-to-create-events-for-pga-tour</link>
+				<guid>https://www.foxsports.com/stories/golf/tiger-woods-rory-mcilory-reportedly-team-up-to-create-events-for-pga-tour</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods and Rory McIlroy are creating a series of one-day events for the PGA Tour amid the emergence of LIV Golf.]]>
+				</description>
+				<pubDate>Mon, 22 Aug 2022 17:23:15 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.22.22_Tiger-Woods-Rory-McIlroy-team-up-with-PGA-Tour-to-create-oneday-competitions_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.22.22_Tiger-Woods-Rory-McIlroy-team-up-with-PGA-Tour-to-create-oneday-competitions_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Is It Sports? PGA Tour-LIV Golf feud providing plenty of drama]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/is-it-sports-pga-tour-liv-golf-feud-providing-plenty-of-drama</link>
+				<guid>https://www.foxsports.com/stories/golf/is-it-sports-pga-tour-liv-golf-feud-providing-plenty-of-drama</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[LIV Golf has stirred up a lot of controversy in its ongoing battle with the PGA Tour. But which aspects of the feud are Sports? Charlotte Wilder decides.]]>
+				</description>
+				<pubDate>Wed, 17 Aug 2022 16:23:23 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.15.22_Is-it-sports_A-look-at-LIV-gossip_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.15.22_Is-it-sports_A-look-at-LIV-gossip_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods to meet with top players against LIV Golf]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/tiger-woods-to-meet-with-top-players-against-liv-golf</link>
+				<guid>https://www.foxsports.com/stories/golf/tiger-woods-to-meet-with-top-players-against-liv-golf</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods is expected to lead a meeting Tuesday with top golfers regarding the direction of the PGA Tour and the threat of LIV Golf.]]>
+				</description>
+				<pubDate>Tue, 16 Aug 2022 11:44:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/Woods.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/Woods.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Federal judge denies LIV golfers bid for PGA Tour postseason]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/federal-judge-denies-liv-golfers-bid-for-pga-tour-postseason</link>
+				<guid>https://www.foxsports.com/stories/golf/federal-judge-denies-liv-golfers-bid-for-pga-tour-postseason</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Taylor Gooch, Matt Jones and Hudson Swafford are the three golfers that were suspended on Tuesday.]]>
+				</description>
+				<pubDate>Tue, 09 Aug 2022 17:28:49 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/liv-8_9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/liv-8_9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Will LIV lure more PGA stars away after playoffs?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/will-liv-lure-more-pga-stars-away-after-playoffs</link>
+				<guid>https://www.foxsports.com/stories/golf/will-liv-lure-more-pga-stars-away-after-playoffs</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Deep pockets and massive lawsuits continue to loom large over golf's identity crisis, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 08 Aug 2022 11:57:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.08.22_PGAvLIV_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.08.22_PGAvLIV_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stenson wins LIV Golf event, earns $4 million in debut]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/stenson-wins-liv-golf-event-earns-4-million-in-debut</link>
+				<guid>https://www.foxsports.com/stories/golf/stenson-wins-liv-golf-event-earns-4-million-in-debut</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Henrik Stenson won the LIV Golf Invitational at Bedminster and picked up more than $4 million for three days work.]]>
+				</description>
+				<pubDate>Sun, 31 Jul 2022 18:42:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.1.22_StensonWinsLIV_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.1.22_StensonWinsLIV_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LIV Golf announces massive prize money, 14-event 2023 schedule]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/liv-golf-announces-massive-prize-money-14-event-schedule-for-2023</link>
+				<guid>https://www.foxsports.com/stories/golf/liv-golf-announces-massive-prize-money-14-event-schedule-for-2023</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Along with the 48-man field, no-cut events worth $25 million in prize money, LIV Golf Investments has pumped $300 million into the Asian Tour for “International Series” events.]]>
+				</description>
+				<pubDate>Wed, 27 Jul 2022 13:51:33 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1687c053-LIV16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/1687c053-LIV16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Quiet period in sports? It depends where you look]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</link>
+				<guid>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Aside from the MLB All-Star Game, it seems quiet in sports. You have to know where to look, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 18 Jul 2022 13:40:11 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.18.22_EuroSport_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.18.22_EuroSport_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Cameron Smith rallies to beat Rory McIlroy at British Open]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/cameron-smith-rallies-to-beat-rory-mcilroy-at-british-open</link>
+				<guid>https://www.foxsports.com/stories/golf/cameron-smith-rallies-to-beat-rory-mcilroy-at-british-open</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Cameron Smith etched his name into the history books at the Old Course, storming back to win the British Open.]]>
+				</description>
+				<pubDate>Sun, 17 Jul 2022 12:17:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/smith-7_17.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/smith-7_17.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Open Championship 2022 odds: How to bet final round, best bets]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/odds-open-championship-how-to-bet</link>
+				<guid>https://www.foxsports.com/stories/golf/odds-open-championship-how-to-bet</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Here's a look at the final round of the Open Championship, with picks from our expert at FOX Bet.]]>
+				</description>
+				<pubDate>Sat, 16 Jul 2022 19:03:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.16.22_HowToBetFinalRoundofOpen_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.16.22_HowToBetFinalRoundofOpen_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods shoots 75 in likely final round at St. Andrews]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/tiger-woods-shoots-75-in-likely-final-round-st-andrews</link>
+				<guid>https://www.foxsports.com/stories/golf/tiger-woods-shoots-75-in-likely-final-round-st-andrews</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods may have played his last competitive round at The Open on the Old Course, as he missed the cut Friday.]]>
+				</description>
+				<pubDate>Fri, 15 Jul 2022 10:27:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/tiger-wide-071522.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/tiger-wide-071522.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods toils to 6-over 78 in first round of British Open]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/tiger-woods-toils-to-6-over-78-in-first-round-of-british-open</link>
+				<guid>https://www.foxsports.com/stories/golf/tiger-woods-toils-to-6-over-78-in-first-round-of-british-open</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods struggled mightily in the first round of The Open, shooting 6-over par. He is now in danger of missing the cut.]]>
+				</description>
+				<pubDate>Thu, 14 Jul 2022 14:39:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/tiger-7_14.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/tiger-7_14.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Open Championship 2022: LIV Golf brings angst to sport's home]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/open-championship-2022-liv-golf-brings-angst-to-sport-home</link>
+				<guid>https://www.foxsports.com/stories/golf/open-championship-2022-liv-golf-brings-angst-to-sport-home</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Controversy around LIV Golf is even more jarring at St. Andrews, the historic site of the Open Championship, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Thu, 14 Jul 2022 12:36:49 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.14.22_LIVDiscontent_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.14.22_LIVDiscontent_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Is The Open Tiger Woods' last and best shot to win a major? | UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c7e4fd180012a3</link>
+				<guid>https://www.foxsports.com/watch/play-5c7e4fd180012a3</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods is at The Open as he continues his return to golf. He's not the favorite to win the tournament, but he is still a factor. A sportsbook leading golf trader said quote: 'The Tiger appeal is always going to be there. Truth be told, his natural odds are probably more like 125-1. You just have to mitigate some liability by keeping his number lower. Nonetheless, you're going to have enormous liability because people want the Cinderella story.' Shannon Sharpe explains Tiger's appeal in and out of sports betting.]]>
+				</description>
+				<pubDate>Thu, 14 Jul 2022 16:31:17 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c7e4fd180012a3--tiger-1657814853325.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c7e4fd180012a3--tiger-1657814853325.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The Open Championship 2022 odds: British Open best bets, Tiger Woods]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/the-open-championship-2022-odds-british-open-best-bets-tiger-woods</link>
+				<guid>https://www.foxsports.com/stories/golf/the-open-championship-2022-odds-british-open-best-bets-tiger-woods</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[The Open Championship, also known as the British Open, is here. Find out which golfers have the best odds at FOX Bet to win the top prize.]]>
+				</description>
+				<pubDate>Wed, 13 Jul 2022 15:28:33 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.06.2022_How-to-Bet-British-Open_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.06.2022_How-to-Bet-British-Open_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Open Championship 2022 odds: How to bet Tiger Woods at Open]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/odds-how-to-bet-tiger-woods</link>
+				<guid>https://www.foxsports.com/stories/golf/odds-how-to-bet-tiger-woods</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods is seeking his fourth Open Championship title, and he's a huge liability for sportsbooks. Read his odds to win this week's event.]]>
+				</description>
+				<pubDate>Wed, 13 Jul 2022 10:17:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.12.22_TigerOpen_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.12.22_TigerOpen_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods says LIV players 'turned their backs' on the PGA | THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c6e139bc0014e3</link>
+				<guid>https://www.foxsports.com/watch/play-5c6e139bc0014e3</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Tiger Woods has offered his sharpest criticism yet to the golfers who have abandoned the PGA status quo for the incentive heave LIV tour. During a press conference, Tiger said players like Greg Norman have turned their back on what's allowed them to get to this position. But while Colin Cowherd is normally a big Tiger supporter, watch as he explains why Tiger may be a bit of hypocrite, and why he stands to gain a lot from players leaving the PGA for the LIV tour.]]>
+				</description>
+				<pubDate>Tue, 12 Jul 2022 18:14:36 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c6e139bc0014e3--0712_Tiger-1657649501718.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c6e139bc0014e3--0712_Tiger-1657649501718.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tiger Woods: LIV players 'turned their back' on PGA]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/tiger-woods-liv-players-turned-their-back-on-pga</link>
+				<guid>https://www.foxsports.com/stories/golf/tiger-woods-liv-players-turned-their-back-on-pga</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[After Tiger Woods' harshest critique of LIV Golf yet, it's clear the PGA could use a stronger presence from its star.]]>
+				</description>
+				<pubDate>Tue, 12 Jul 2022 10:28:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/tiger-wide-071222.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/tiger-wide-071222.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Report: DOJ inquiring about antitrust in PGA-LIV dispute]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/report-doj-inquiring-about-antitrust-in-pga-liv-dispute</link>
+				<guid>https://www.foxsports.com/stories/golf/report-doj-inquiring-about-antitrust-in-pga-liv-dispute</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[The U.S. Department of Justice has opened an anti-trust probe against the PGA Tour amid its battle with the LIV Golf tour.]]>
+				</description>
+				<pubDate>Mon, 11 Jul 2022 17:42:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/tour-711.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/tour-711.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Brooks Koepka on joining LIV: 'Opinions change']]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/brooks-koepka-on-joining-liv-series-opinions-change</link>
+				<guid>https://www.foxsports.com/stories/golf/brooks-koepka-on-joining-liv-series-opinions-change</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Koepka was once an outspoken critic of the fledgling series that seeks to challenge the PGA Tour.]]>
+				</description>
+				<pubDate>Tue, 28 Jun 2022 19:54:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/brooks16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/brooks16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LIV Golf heads to Oregon, where local officials aren't happy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/liv-golf-heads-to-oregon-where-local-officials-arent-happy</link>
+				<guid>https://www.foxsports.com/stories/golf/liv-golf-heads-to-oregon-where-local-officials-arent-happy</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Saudi Arabia-backed LIV Golf is getting a chilly reception in Oregon, its first stop in the United States.]]>
+				</description>
+				<pubDate>Sun, 26 Jun 2022 16:59:58 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/0626_Mickelson_horiz.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/0626_Mickelson_horiz.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LIV golfers banned from Euro events, including Scottish Open]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/liv-golfers-banned-from-euro-events-including-scottish-open</link>
+				<guid>https://www.foxsports.com/stories/golf/liv-golfers-banned-from-euro-events-including-scottish-open</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Players who took part in the inaugural LIV event this month were fined and suspended from the Scottish Open, Barbasol Championship and Barracuda Championship.]]>
+				</description>
+				<pubDate>Fri, 24 Jun 2022 08:55:05 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/a8eb701a-koepka16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/a8eb701a-koepka16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LIV: Brooks Koepka latest golfer joining Saudi series]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/liv-brooks-koepka-latest-golfer-joining-saudi-series</link>
+				<guid>https://www.foxsports.com/stories/golf/liv-brooks-koepka-latest-golfer-joining-saudi-series</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[A person briefed on Koepka’s decision told the AP said he still would be able to compete on the PGA Tour until he hits a shot on the LIV Golf circuit.]]>
+				</description>
+				<pubDate>Tue, 21 Jun 2022 08:18:34 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/koepka16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/koepka16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[U.S. Open 2022: Matt Fitzpatrick hangs on to win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/u-s-open-2022-matt-fitzpatrick-hangs-on-to-win</link>
+				<guid>https://www.foxsports.com/stories/golf/u-s-open-2022-matt-fitzpatrick-hangs-on-to-win</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[Fitzpatrick shot a 2-under 68 at The Country Club to finish the tournament at 6-under 274 and beat Will Zalatoris and Scottie Scheffler by one.]]>
+				</description>
+				<pubDate>Sun, 19 Jun 2022 16:21:38 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/16x9-Fitzpatrick.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/16x9-Fitzpatrick.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[PGA odds: U.S. Open final round lines and best bets]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/how-to-bet-u-s-open-final-round</link>
+				<guid>https://www.foxsports.com/stories/golf/how-to-bet-u-s-open-final-round</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[The drama is heating up at the U.S. Open! Our betting expert at FOX Bet offers up us his best bets for the final round.]]>
+				</description>
+				<pubDate>Sat, 18 Jun 2022 18:55:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.18.22_How-to-Bet-U.S.-Open-final-round_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.18.22_How-to-Bet-U.S.-Open-final-round_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[U.S. Open 2022: LIV Golf could force PGA to reassess traditions]]>
+				</title>
+				<link>https://www.foxsports.com/stories/golf/u-s-open-2022-liv-golf-could-force-pga-to-buck-tradition</link>
+				<guid>https://www.foxsports.com/stories/golf/u-s-open-2022-liv-golf-could-force-pga-to-buck-tradition</guid>
+				<category>golf</category>
+				<description>
+				    <![CDATA[LIV isn't going away, so maybe it's time for the PGA to make some big changes of its own, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Thu, 16 Jun 2022 14:32:26 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.16.22_LIVUSOpen_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.16.22_LIVUSOpen_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

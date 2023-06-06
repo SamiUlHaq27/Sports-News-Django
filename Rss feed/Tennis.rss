@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:38:16 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/atp,fs/wta&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Serena and Venus Williams reunite for doubles at US Open]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/serena-and-venus-williams-reunite-for-doubles-at-us-open</link>
+				<guid>https://www.foxsports.com/stories/tennis/serena-and-venus-williams-reunite-for-doubles-at-us-open</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Serena and Venus Williams will play in women's doubles at the US Open, Serena's final tournament.]]>
+				</description>
+				<pubDate>Sat, 27 Aug 2022 14:10:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/williams-827.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/williams-827.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Novak Djokovic officially out of US Open due to vaccination status]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/novak-djokovic-officially-out-of-us-open-covid-19-vaccine</link>
+				<guid>https://www.foxsports.com/stories/tennis/novak-djokovic-officially-out-of-us-open-covid-19-vaccine</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Novak Djokovic has not received the COVID-19 vaccine, making him ineligible to enter the United States and play in the US Open.]]>
+				</description>
+				<pubDate>Thu, 25 Aug 2022 09:48:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/GettyImages-1237709428.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/128/72/GettyImages-1237709428.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Serena Williams' US Open goodbye will be a swan song to savor]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/serena-williams-us-open-goodbye-will-be-swan-song-to-savor</link>
+				<guid>https://www.foxsports.com/stories/tennis/serena-williams-us-open-goodbye-will-be-swan-song-to-savor</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[A run by Serena Williams at the US Open is unlikely, but her Hollywood story has already been written, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Thu, 11 Aug 2022 13:10:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/9fa2c5a3-08.9.22_Serena-Williams_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/9fa2c5a3-08.9.22_Serena-Williams_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Quiet period in sports? It depends where you look]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</link>
+				<guid>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Aside from the MLB All-Star Game, it seems quiet in sports. You have to know where to look, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 18 Jul 2022 13:40:11 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.18.22_EuroSport_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.18.22_EuroSport_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Djokovic topples Kyrgios, wins seventh Wimbledon title]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/novak-djokovic-topples-nick-kyrgios-wins-seventh-wimbledon-title</link>
+				<guid>https://www.foxsports.com/stories/tennis/novak-djokovic-topples-nick-kyrgios-wins-seventh-wimbledon-title</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Novak Djokovic overcame an early deficit on Sunday to win his fourth-straight Wimbledon and seventh overall.]]>
+				</description>
+				<pubDate>Sun, 10 Jul 2022 09:52:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/djoker-710_square.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/djoker-710_square.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Elena Rybakina wins Wimbledon women’s final for 1st Slam]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/elena-rybakina-wins-wimbledon-womens-final-for-1st-slam</link>
+				<guid>https://www.foxsports.com/stories/tennis/elena-rybakina-wins-wimbledon-womens-final-for-1st-slam</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Elena Rybakina, making her debut in a Grand Slam title match, rallied to beat Ons Jabeur at Wimbledon on Saturday.]]>
+				</description>
+				<pubDate>Sat, 09 Jul 2022 10:45:51 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/Wimbledon2.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/Wimbledon2.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Rafael Nadal pulls out of Wimbledon before semi due to injury]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/rafael-nadal-pulls-out-of-wimbledon-before-semi-due-to-injury</link>
+				<guid>https://www.foxsports.com/stories/tennis/rafael-nadal-pulls-out-of-wimbledon-before-semi-due-to-injury</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Rafael Nadal withdrew from Wimbledon ahead of his semifinal match vs. Nick Kyrgios because of a torn abdominal muscle.]]>
+				</description>
+				<pubDate>Thu, 07 Jul 2022 11:56:40 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/nadal-wide-070722.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/nadal-wide-070722.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Wimbledon 2022: Rafael Nadal battles injury to win 5-set thriller]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/wimbledon-rafael-nadal-battles-injury-to-win-5-set-thriller</link>
+				<guid>https://www.foxsports.com/stories/tennis/wimbledon-rafael-nadal-battles-injury-to-win-5-set-thriller</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Rafael Nadal got past Taylor Fritz in a thrilling tiebreaker to advance to the Wimbledon semifinals.]]>
+				</description>
+				<pubDate>Wed, 06 Jul 2022 12:48:47 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.06.2022_RAFAEL-NADAL-battles-injury-to-win_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.06.2022_RAFAEL-NADAL-battles-injury-to-win_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Wimbledon 2022: Nick Kyrgios, the bad boy of tennis, is on a roll]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/wimbledon-2022-tennis-bad-boy-nick-kyrgios-is-on-a-roll</link>
+				<guid>https://www.foxsports.com/stories/tennis/wimbledon-2022-tennis-bad-boy-nick-kyrgios-is-on-a-roll</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Love him or hate him, Nick Kyrgios, the self-styled bad boy of tennis, is appointment viewing, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Wed, 06 Jul 2022 12:21:40 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.05.22_NickKyrgios_Horizontal-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.05.22_NickKyrgios_Horizontal-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The radical hope of Serena Williams on Centre Court]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/the-radical-hope-of-serena-williams-on-centre-court</link>
+				<guid>https://www.foxsports.com/stories/tennis/the-radical-hope-of-serena-williams-on-centre-court</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Even with the odds stacked against her, Serena Williams continues to show up, an inspirational act of perseverance, Charlotte Wilder writes.]]>
+				</description>
+				<pubDate>Wed, 29 Jun 2022 13:56:17 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.28.22_Wimbledons-non-youth-movement_16x9_V2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.28.22_Wimbledons-non-youth-movement_16x9_V2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Is tennis' greatest chapter coming to an end?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/wimbledon-serena-nadal-federer-djokovic</link>
+				<guid>https://www.foxsports.com/stories/tennis/wimbledon-serena-nadal-federer-djokovic</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Serena Williams, Rafael Nadal, Roger Federer and Novak Djokovic have spoiled tennis fans for the last two decades, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Wed, 29 Jun 2022 12:01:14 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.29.22_TennisOldGuard_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.29.22_TennisOldGuard_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Wimbledon: Serena Williams loses first match in a year]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/wimbledon-serena-williams-loses-first-match-in-a-year</link>
+				<guid>https://www.foxsports.com/stories/tennis/wimbledon-serena-williams-loses-first-match-in-a-year</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Serena Williams fell to Harmony Tan in the first round of Wimbledon in her first singles match since her injury last year.]]>
+				</description>
+				<pubDate>Tue, 28 Jun 2022 15:49:47 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/serena-wide-062822.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/serena-wide-062822.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Wimbledon marks Serena's return to competition]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/wimbledon-marks-serenas-return-to-singles-competition</link>
+				<guid>https://www.foxsports.com/stories/tennis/wimbledon-marks-serenas-return-to-singles-competition</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[The grass-court Grand Slam tournament marks the return of Serena Williams to singles play after a year away.]]>
+				</description>
+				<pubDate>Mon, 27 Jun 2022 15:04:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.27.2022_Winbledon-marks-serenas-return_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.27.2022_Winbledon-marks-serenas-return_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Title IX stories: Ash Barty and the power of walking away]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/title-ix-stories-ash-barty-and-the-power-of-walking-away</link>
+				<guid>https://www.foxsports.com/stories/tennis/title-ix-stories-ash-barty-and-the-power-of-walking-away</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[As the 50th anniversary of Title IX nears, we honor Ash Barty, a star who took control of her own destiny, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 20 Jun 2022 11:25:47 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/05.11.22_Title-IX_Ash-Barty_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/05.11.22_Title-IX_Ash-Barty_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Naomi Osaka pulls out of Wimbledon with Achilles issue]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/naomi-osaka-pulls-out-of-wimbledon-with-achilles-issue</link>
+				<guid>https://www.foxsports.com/stories/tennis/naomi-osaka-pulls-out-of-wimbledon-with-achilles-issue</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Naomi Osaka will miss the second Grand Slam tournament of the season as she battles a lingering Achilles problem.]]>
+				</description>
+				<pubDate>Sat, 18 Jun 2022 09:21:39 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/naomi-618.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/naomi-618.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Serena Williams gets Wimbledon wild-card berth after year-long absence]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/serena-williams-gets-wimbledon-wild-card-berth-after-year-long-absence</link>
+				<guid>https://www.foxsports.com/stories/tennis/serena-williams-gets-wimbledon-wild-card-berth-after-year-long-absence</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Main-draw play at Wimbledon begins on June 27. Williams has not competed anywhere since getting injured during the first set of her first-round match at the All England Club in 2021.]]>
+				</description>
+				<pubDate>Tue, 14 Jun 2022 08:32:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/serena16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/serena16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Nadal reaches French Open final after Zverev is injured]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/nadal-reaches-french-open-final-after-zverev-is-injured</link>
+				<guid>https://www.foxsports.com/stories/tennis/nadal-reaches-french-open-final-after-zverev-is-injured</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Rafael Nadal has advanced to the French Open final after Alexander Zverev fell during a point and injured his right ankle.]]>
+				</description>
+				<pubDate>Fri, 03 Jun 2022 10:30:36 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/nadal-wide-060322.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/nadal-wide-060322.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Nadal overcomes Djokovic in French Open thriller]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/rafael-nadal-overcomes-novak-djokovic-in-french-open-thriller</link>
+				<guid>https://www.foxsports.com/stories/tennis/rafael-nadal-overcomes-novak-djokovic-in-french-open-thriller</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Rafael Nadal moved a step closer to his 22nd major title by defeating Novak Djokovic in the French Open quarters on Tuesday.]]>
+				</description>
+				<pubDate>Tue, 31 May 2022 16:34:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/nadal-531.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/nadal-531.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LeBron, Tiger, Serena, Phelps make up Sharpe's Mount Rushmore of sports]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/lebron-tiger-serena-phelps-make-up-sharpes-mount-rushmore-of-sports</link>
+				<guid>https://www.foxsports.com/stories/nba/lebron-tiger-serena-phelps-make-up-sharpes-mount-rushmore-of-sports</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[Shannon Sharpe lists his Mount Rushmore of professional athletes, featuring Serena Williams and LeBron James.]]>
+				</description>
+				<pubDate>Sat, 09 Apr 2022 13:48:20 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/4.9.22_Shannons-Mt.-Rushmore_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/4.9.22_Shannons-Mt.-Rushmore_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World No. 1 Ash Barty announces her retirement at 25]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/world-no-1-ash-barty-announces-her-retirement-at-25</link>
+				<guid>https://www.foxsports.com/stories/tennis/world-no-1-ash-barty-announces-her-retirement-at-25</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Three-time Grand Slam winner Ash Barty announced her retirement from tennis at the age of 25, stunning the tennis world.]]>
+				</description>
+				<pubDate>Tue, 22 Mar 2022 21:54:36 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/barty-wide-032222.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/barty-wide-032222.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Rafael Nadal makes history, wins 21st grand slam]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/rafael-nadal-makes-history-wins-21st-grand-slam</link>
+				<guid>https://www.foxsports.com/stories/tennis/rafael-nadal-makes-history-wins-21st-grand-slam</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Rafael Nadal became the first man to win 21 majors with his epic comeback win over Daniil Medvedev in the Aussie Open final.]]>
+				</description>
+				<pubDate>Sun, 30 Jan 2022 09:40:21 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/nadal-130.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/128/72/nadal-130.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Rafael Nadal, not Novak Djokovic, looks to make history in Australia]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/rafael-nadal-not-novak-djokovic-looks-to-make-history-in-australia</link>
+				<guid>https://www.foxsports.com/stories/tennis/rafael-nadal-not-novak-djokovic-looks-to-make-history-in-australia</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[With both Novak Djokovic and Roger Federer sidelined, Rafael Nadal has a chance to make history by winning the Aussie Open.]]>
+				</description>
+				<pubDate>Sat, 29 Jan 2022 09:37:09 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1.28.22_Nadal-not-Djokovic-headed-for-history_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/128/72/1.28.22_Nadal-not-Djokovic-headed-for-history_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Venus and Serena Williams join 'Club Shay Shay' ahead of 'King Richard' movie release]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/venus-serena-williams-club-shay-shay-shannon-sharpe-king-richa</link>
+				<guid>https://www.foxsports.com/stories/tennis/venus-serena-williams-club-shay-shay-shannon-sharpe-king-richa</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[The Williams sisters joined Shannon Sharpe on Club Shay Shay to discuss "King Richard," the upcoming film about their lives.]]>
+				</description>
+				<pubDate>Thu, 18 Nov 2021 14:06:16 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/11.18.21_CSS-Venus-Serena_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/128/72/11.18.21_CSS-Venus-Serena_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[US Open: We might never see a better story in tennis ... or any sport]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/us-open-tennis-emma-raducanu-leylah-fernandez-martin-rogers-newsletter</link>
+				<guid>https://www.foxsports.com/stories/tennis/us-open-tennis-emma-raducanu-leylah-fernandez-martin-rogers-newsletter</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[What Emma Raducanu and Leylah Fernandez accomplished in the US Open is unprecedented, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 13 Sep 2021 17:04:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/545_Newsletter_1920x1080_Tennis_USOpen.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/545_Newsletter_1920x1080_Tennis_USOpen.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Novak Djokovic misses 'Calendar Slam,' falls to Daniil Medvedev in US Open final]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/novak-djokovic-daniil-medvedev-top-moments-from-us-open-mens-singles-final-russia-serbia</link>
+				<guid>https://www.foxsports.com/stories/tennis/novak-djokovic-daniil-medvedev-top-moments-from-us-open-mens-singles-final-russia-serbia</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Novak Djokovic will have to wait to make history, after falling in the US Open men's final to Daniil Medvedev on Sunday.]]>
+				</description>
+				<pubDate>Sun, 12 Sep 2021 15:57:57 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/daniil-912.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/daniil-912.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Emma Raducanu defeats Leylah Fernandez in US Open women's singles final]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/leylah-fernandez-emma-raducanu-top-moments-us-open-womens-singles-final-great-britain-canada</link>
+				<guid>https://www.foxsports.com/stories/tennis/leylah-fernandez-emma-raducanu-top-moments-us-open-womens-singles-final-great-britain-canada</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Britain's Emma Raducanu defeated Canada's Leylah Fernandez in a thrilling US Open women's final. Here are the top moments!]]>
+				</description>
+				<pubDate>Sat, 11 Sep 2021 15:46:48 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/9.11.21_Emma-Raducanu-Wins-US-Open-Final-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/9.11.21_Emma-Raducanu-Wins-US-Open-Final-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Novak Djokovic is knocking on the door of tennis history]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/novak-djokovic-tennis-us-open-calendar-year-grand-slam-martin-rogers-newsletter</link>
+				<guid>https://www.foxsports.com/stories/tennis/novak-djokovic-tennis-us-open-calendar-year-grand-slam-martin-rogers-newsletter</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[If Novak Djokovic wins the US Open, he'll be the first man since 1969 to clinch a calendar Grand Slam. Martin Rogers has the story.]]>
+				</description>
+				<pubDate>Fri, 10 Sep 2021 20:12:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/9.7.21_novak-djokovic_tennis_EDIT-16x9-2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/9.7.21_novak-djokovic_tennis_EDIT-16x9-2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Emmanuel Acho reacts to Naomi Osaka's decision to step away from tennis after U.S. Open I SPEAK FOR YOURSELF]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1942770755551</link>
+				<guid>https://www.foxsports.com/watch/1942770755551</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Naomi Osaka was upset in the third round of the U.S. Open on Friday by Leylah Fernandez. During the match, Osaka smashed her racket and threw it at another point. The loss follows Osaka withdrawing from the French Open in May after saying she wouldn't participate in press conferences, citing her mental health. After the loss, Osaka said quote: 'Honestly, I don't know.' Emmanuel Acho reacts to Osaka's decision to temporarily step away from tennis.]]>
+				</description>
+				<pubDate>Mon, 06 Sep 2021 21:11:22 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/355/586/0906_SFY.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/355/586/128/72/0906_SFY.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Roger Federer's injury shows time waits for no one, except Tom Brady]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/tom-brady-tampa-bay-buccaneers-nfl-roger-federer-tennis-injury</link>
+				<guid>https://www.foxsports.com/stories/nfl/tom-brady-tampa-bay-buccaneers-nfl-roger-federer-tennis-injury</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Heading into his 22nd NFL season, Tom Brady is making the impossible seem possible — kind of, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 16 Aug 2021 17:55:07 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.16.21_Tom-vs.-time_NFL_EDIT-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.16.21_Tom-vs.-time_NFL_EDIT-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Roger Federer to undergo knee surgery but says he'll attempt comeback]]>
+				</title>
+				<link>https://www.foxsports.com/stories/tennis/roger-federer-out-for-many-months-whats-next-is-this-it-retirement-end-competition-knee-surgery</link>
+				<guid>https://www.foxsports.com/stories/tennis/roger-federer-out-for-many-months-whats-next-is-this-it-retirement-end-competition-knee-surgery</guid>
+				<category>tennis</category>
+				<description>
+				    <![CDATA[Roger Federer says he will undergo knee surgery and expects to miss "many months." Is this the end of a legendary career?]]>
+				</description>
+				<pubDate>Sun, 15 Aug 2021 15:45:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/glimmer_of_hope16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/glimmer_of_hope16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

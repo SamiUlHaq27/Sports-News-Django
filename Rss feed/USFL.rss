@@ -1,0 +1,468 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:34:32 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/nfl&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[NFL odds Week 6: Mahomes a home underdog for first time, best betting trends]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-odds-week-6-mahomes-a-home-underdog-for-first-time-best-betting-trends</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-odds-week-6-mahomes-a-home-underdog-for-first-time-best-betting-trends</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[NFL Week 6 is here! Check out why you should place your wager on the Chiefs this week, and more betting trends.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 17:13:18 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/02/0526cabb-0118_ftf_mahomes_1280x720_1428245571816-4.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/02/128/72/0526cabb-0118_ftf_mahomes_1280x720_1428245571816-4.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Are the Giants underutilizing Saquon Barkley as a pass catcher?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/new-york-giants-underutilizing-saquon-barkley-as-pass-catcher</link>
+				<guid>https://www.foxsports.com/stories/nfl/new-york-giants-underutilizing-saquon-barkley-as-pass-catcher</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[With their wideouts struggling to make an impact, the Giants' best option might be deploying Saquon Barkley more in the passing game.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:39:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/GettyImages-1431988794.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/GettyImages-1431988794.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL odds Week 6: Early lines for every game]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-odds-week-6-early-lines</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-odds-week-6-early-lines</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Here's a look at all the point spreads, moneylines and total Over/Unders at FOX Bet for the Week 6 NFL games.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:25:31 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.10.22_NFL-odds-Week-6_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.10.22_NFL-odds-Week-6_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Chiefs are home underdogs for the first time with Patrick Mahomes, vs. Bills in Week 6 | SPEAK]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f65ea701000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f65ea701000b87</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Emmanuel Acho, Joy Taylor, David Helman and LeSean McCoy determine how much Buffalo Bills QB Josh Allen has to prove against Kansas City Chiefs QB Patrick Mahomes when the two sides meet in Week 6. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 22:06:14 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f65ea701000b87--Chiefs_Mahomes-1665612302453.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f65ea701000b87--Chiefs_Mahomes-1665612302453.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Dolphins' Tua Tagovailoa returns to practice, won't play vs. Vikings]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/dolphins-tua-tagovailoa-returns-to-practice-wont-play-vs-vikings</link>
+				<guid>https://www.foxsports.com/stories/nfl/dolphins-tua-tagovailoa-returns-to-practice-wont-play-vs-vikings</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Miami Dolphins head coach Mike McDaniel said that he won't play quarterback Tua Tagovailoa in Week 6; Skylar Thompson will start.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:03:37 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/3acaad3d-Tua.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/128/72/3acaad3d-Tua.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Do the Eagles have the highest ceiling in the NFC? | SPEAK]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f65ac5d6000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f65ac5d6000b87</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[LeSean McCoy argues that the Dallas Cowboys do not have the highest ceiling in the NFC but their division rivals the Philadelphia Eagles do. McCoy explains that through five weeks into the season the Eagles are just starting to come together as a team and will be even more dangerous later in the season. Watch as McCoy makes his argument for the Eagles over the Cowboys ahead of Sunday's matchup.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 22:01:53 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f65ac5d6000b87--SPEAK_Eagles-1665609661190.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f65ac5d6000b87--SPEAK_Eagles-1665609661190.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Mike Tomlin takes blame for Steelers' woes, now he must have urgency]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/mike-tomlin-takes-blame-for-steelers-woes-now-he-must-have-urgency</link>
+				<guid>https://www.foxsports.com/stories/nfl/mike-tomlin-takes-blame-for-steelers-woes-now-he-must-have-urgency</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The Pittsburgh Steelers are in a bad spot, and with a challenging schedule ahead, it's time for them to act with urgency.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 14:35:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/DCEE9376-A126-4C72-AFC5-D2CFEAD8ED58.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/DCEE9376-A126-4C72-AFC5-D2CFEAD8ED58.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Underdog Chiefs return on top of Nick's tiers heading into Week 6 | FIRST THINGS FIRST]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f65b2960000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f65b2960000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Nick Wright reveals his NFL tiers heading into Week 6, including how his Kansas City Chiefs return on top as underdogs over the Buffalo Bills and undefeated Philadelphia Eagles. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 21:26:46 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f65b2960000711--ftf-1665609778515.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f65b2960000711--ftf-1665609778515.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Is Patrick Mahomes vs. Josh Allen the NFL's new Brady-Manning rivalry? | FIRST THINGS FIRST]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f65904a9000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f65904a9000b87</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Nick Wright sounds off on Buffalo Bills QB Josh Allen for comparing his rivalry with Patrick Mahomes and the Kansas City Chiefs to Tom Brady vs. Peyton Manning. Greg Jennings, Chris Broussard and Kevin Wildes weigh in on Allen’s comments.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 21:03:07 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f65904a9000b87--1CHIEFS-BILLS_copy-1665608566917.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f65904a9000b87--1CHIEFS-BILLS_copy-1665608566917.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL odds Week 6: Fade the Boys, watch the Jets go Over, other best bets]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-odds-fade-the-boys-watch-the-jets-go-over-and-other-best-bets</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-odds-fade-the-boys-watch-the-jets-go-over-and-other-best-bets</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Read for FOX Sports betting analyst Jason McIntyre's best bets for Week 6 of the NFL season, including how he is betting Cowboys-Eagles.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 13:07:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.12.22_JMACs-NFL-Picks_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.12.22_JMACs-NFL-Picks_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL odds Week 6: How to bet Jets-Packers, pick]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-odds-how-to-bet-jets-packers</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-odds-how-to-bet-jets-packers</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Here's everything you need to know about the Jets-Packers, from the point spread, moneyline, total Over/Under and expert pick from Jason McIntyre.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 12:55:11 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.10.21_Cool-The-Jets-zach-wilson_NFL_square.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.10.21_Cool-The-Jets-zach-wilson_NFL_square.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL odds Week 6: How to bet Cowboys-Eagles, pick]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-odds-how-to-bet-cowboys-eagles</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-odds-how-to-bet-cowboys-eagles</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Here's everything you need to know about Cowboys-Eagles, from the point spread, moneyline, total Over/Under and expert pick from Jason McIntyre.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 12:48:09 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/hurts-5_19.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/hurts-5_19.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFC West Stock Watch: Tariq Woolen an ‘Avatar’; Jeff Wilson pacing 49ers' rushing attack]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfc-west-stock-watch-seahawks-tariq-woolen-an-avatar-jeff-wilson-pacing-49ers-backfield</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfc-west-stock-watch-seahawks-tariq-woolen-an-avatar-jeff-wilson-pacing-49ers-backfield</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The Seahawks have found a gem in rookie cornerback Tariq Woolen, while the 49ers haven't missed a beat with Jeff Wilson Jr. at running back.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 11:49:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_NFC-West-Stock-Watch2_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_NFC-West-Stock-Watch2_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sauce Gardner, Jets’ revamped secondary ready for bigger tests]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/sauce-gardner-jets-revamped-secondary-ready-for-bigger-tests</link>
+				<guid>https://www.foxsports.com/stories/nfl/sauce-gardner-jets-revamped-secondary-ready-for-bigger-tests</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[After wiping out the Dolphins last week, rookie corner Sauce Gardner leads the Jets into Green Bay to take on Aaron Rodgers.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 11:39:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/Sauce-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/Sauce-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Are Packers still Super Bowl contenders despite early struggles? | THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f64452e3000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f64452e3000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The Green Bay Packers are 3-2 after a Week 5 big loss to the New York Giants in London. Aaron Rodgers and Matt LaFleur are struggling offensively with a depleted WR core. Colin Cowherd reveals his Super Bowl Bowl heading into Week 6, including why the Packers are not in it.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 17:55:48 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f64452e3000711--gb-1665595227161.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f64452e3000711--gb-1665595227161.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Why Dak Prescott is not an 'A' graded quarterback | THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f640afc8000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f640afc8000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Dak Prescott is reportedly gripping a football now, but the Dallas Cowboys are prepared to start Cooper Rush against the Philadelphia Eagles in Week 6. This is not the first time Dak suffered an injury that kept him out for weeks, which raises the question on whether the QB is replaceable. Colin Cowherd weighs in, including why the team should not only start Rush but how Dak compares to Kirk Cousins.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 17:38:40 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f640afc8000711--dak-1665595318099.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f640afc8000711--dak-1665595318099.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Davante Adams charged with misdemeanor assault for shoving photographer | THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f644769c000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f644769c000b87</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Davante Adams has been reportedly charged with misdemeanor assault after shoving a credentialed media member after the Las Vegas Raiders' 30-29 loss to the Kansas City Chiefs. Colin Cowherd reacts to the news.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 17:33:34 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f644769c000b87--herd-1665595399685.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f644769c000b87--herd-1665595399685.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Davante Adams charged with assault for shoving photographer]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/davante-adams-charged-with-assault-for-shoving-photographer</link>
+				<guid>https://www.foxsports.com/stories/nfl/davante-adams-charged-with-assault-for-shoving-photographer</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Las Vegas Raiders WR Davante Adams was charged with misdemeanor assault after shoving a photographer following a loss to the Chiefs.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 09:34:01 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/Davante-Adams-Raiders.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/Davante-Adams-Raiders.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ron Rivera apologizes for publicly criticizing Commanders QB Carson Wentz | UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f63d17ce000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f63d17ce000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The Washington Commanders coach Ron Rivera apologized to his QB Carson Wentz after he said the quarterback was why their team was 1-4 compared to how well the rest of the NFC East was playing. Rivera said he had a nice conversation with Wentz and they are ready to roll vs. the Chicago Bears on Thursday Night Football. Skip Bayless and Shannon Sharpe discuss the Commanders.
+]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 16:15:28 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f63d17ce000711--1012_WASH_site-1665590982381.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f63d17ce000711--1012_WASH_site-1665590982381.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Should Dak Prescott start over Cooper Rush vs. Eagles, even if healthy? | UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f63a21fa000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f63a21fa000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Dak Prescott can now grip the football and will begin throwing today. The quarterback has not played or practiced since injuring his thumb in Week 1. Cooper Rush is 4-0 since stepping in for Dak as the starting quarterback, and the Dallas Cowboys head to Philadelphia to take on the undefeated Eagles on Sunday Night Football. Skip Bayless explains why Dak should not start in Week 6, even if he was healthy.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:45:36 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f63a21fa000711--cowboys-1665588099818.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f63a21fa000711--cowboys-1665588099818.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Baker Mayfield's challenge? Getting others to believe in him again]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/baker-mayfields-challenge-getting-others-to-believe-in-him-again</link>
+				<guid>https://www.foxsports.com/stories/nfl/baker-mayfields-challenge-getting-others-to-believe-in-him-again</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[If this is the beginning of the end for Baker Mayfield in Carolina, it is hard to see where there would be an obvious landing spot next.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 08:42:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_BakerMayfieldNewsletter_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_BakerMayfieldNewsletter_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[FOX Bet Super 6: $100,000 at stake in NFL Sunday Challenge Week 6]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/fox-bet-super-6-100000-at-stake-in-nfl-sunday-challenge-week-6</link>
+				<guid>https://www.foxsports.com/stories/nfl/fox-bet-super-6-100000-at-stake-in-nfl-sunday-challenge-week-6</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Find out how predicting the outcome of the Cowboys-Eagles game could make you $100,000 richer playing FOX Bet Super 6 NFL Sunday Challenge!]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 08:30:30 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_FOX-Bet-Super-6-NFL-Sunday-Challenge-Week-6_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_FOX-Bet-Super-6-NFL-Sunday-Challenge-Week-6_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Riddle Me This: Craig Carton & Greg Jennings play NFL Trivia | THE CARTON SHOW]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f632acb0000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f632acb0000711</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[In a new segment, Craig Carton quizzes Greg Jennings and Cody Decker on the NFL knowledge as the three play Riddle Me This. Watch to see whether Greg or Cody come out on top as they try to solve Craig's riddles. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 14:56:56 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f632acb0000711--1012_Riddle-1665585920737.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f632acb0000711--1012_Riddle-1665585920737.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[1-4 Raiders have Craig Carton hitting the panic button | THE CARTON SHOW]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6306df8000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f6306df8000b87</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The Las Vegas Raiders fell to 3-2 after losing a close game against the Kansas City Chiefs. Craig Carton breaks down thy their shaky offense, and their inability to get ahead in matchups means it's time for Vegas to hit the panic button. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 14:51:01 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6306df8000b87--1012_Raiders-1665585897998.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6306df8000b87--1012_Raiders-1665585897998.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Dat Dude's Football Show Trailer]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5d90414000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f5d90414000040</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Join Marcellus Wiley as he talks ALL things football. Dat Dude is the voice of truth during the NFL season. He will be giving you plenty of Wileyisms and exploring the stories that matter from a dude who has been in the locker room.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 00:04:59 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5d90414000040--wileytrailer0-1665533028324.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5d90414000040--wileytrailer0-1665533028324.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Bills air it out; let Kyler Murray cook; where it goes wrong for Packers]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/bills-air-it-out-let-kyler-murray-cook-where-it-goes-wrong-for-packers</link>
+				<guid>https://www.foxsports.com/stories/nfl/bills-air-it-out-let-kyler-murray-cook-where-it-goes-wrong-for-packers</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Warren Sharp breaks down Josh Allen's deep ball and what's holding the Cardinals' and Packers' offenses back.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 16:09:40 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_Warren-Sharps-Betting-Edges_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_Warren-Sharps-Betting-Edges_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL Writer David Helman reacts to Davante Adams incident after MNF | SPEAK]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5dc0e070014ab</link>
+				<guid>https://www.foxsports.com/watch/play-5f5dc0e070014ab</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[NFL Writer David Helman gives his thoughts on the Las Vegas Raiders WR Davante Adams push incident following the loss to the Kansas City Chiefs. Helman gives his personal insight on being on the sideline during NFL games and discusses whether or not Adams should face punishment. ]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 22:37:01 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5dc0e070014ab--davante_speak-1665526553792.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5dc0e070014ab--davante_speak-1665526553792.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Eagles eclipse Chiefs in Colin Cowherd's 'Herd Hierarchy']]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/eagles-eclipse-chiefs-in-colin-cowherds-herd-hierarchy</link>
+				<guid>https://www.foxsports.com/stories/nfl/eagles-eclipse-chiefs-in-colin-cowherds-herd-hierarchy</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Colin Cowherd lists his top-10 NFL teams going into Week 6 in the latest "Herd Hierarchy."]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 14:58:13 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_Herd-Hierarchy-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_Herd-Hierarchy-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Where Travis Kelce stands among the greatest tight ends of all time]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/where-travis-kelce-stands-among-the-greatest-tight-ends-of-all-time</link>
+				<guid>https://www.foxsports.com/stories/nfl/where-travis-kelce-stands-among-the-greatest-tight-ends-of-all-time</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Travis Kelce had a GOAT-caliber outing Monday night. Does he have a chance to be considered the greatest when his career's over?]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 14:45:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/Kelce.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/Kelce.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jaguars go as Trevor Lawrence goes; Colts WR Alec Pierce excels: AFC South takeaways]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/jaguars-go-as-trevor-lawrence-goes-colts-wr-alec-pierce-excels-afc-south-takeaways</link>
+				<guid>https://www.foxsports.com/stories/nfl/jaguars-go-as-trevor-lawrence-goes-colts-wr-alec-pierce-excels-afc-south-takeaways</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[What's behind the Jaguars' inconsistency and the Titans' winning streak? And who's the rookie receiver turning heads in Indy? A look at the AFC South.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 14:44:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/Jags-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/Jags-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

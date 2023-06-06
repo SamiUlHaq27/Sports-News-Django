@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:39:30 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/soccer,soccer/epl/league/1,soccer/mls/league/5,soccer/ucl/league/7,soccer/europa/league/8,soccer/wc/league/12,soccer/euro/league/13,soccer/wwc/league/14,soccer/nwsl/league/20,soccer/cwc/league/26,soccer/gold_cup/league/32,soccer/unl/league/67&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Champions League: 5 things we learned from Matchday 4]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/champions-league-5-things-we-learned-from-matchday-4</link>
+				<guid>https://www.foxsports.com/stories/soccer/champions-league-5-things-we-learned-from-matchday-4</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[FC Barcelona live, Mohamed Salah shines and three more of Doug McIntyre's takeaways from Champions League Matchday 4.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 19:49:44 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.12.22_Things-We-Learned-from-Champions-League_soccer-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.12.22_Things-We-Learned-from-Champions-League_soccer-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Has Gregg Berhalter LOST the USMNT squad ahead of the 2022 FIFA World Cup? | SOTU]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66f7fe7000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f66f7fe7000711</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Alexi Lalas and David Mosse break down whether Gregg Berhalter lost the USMNT squad ahead of the 2022 FIFA World Cup.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 02:43:07 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66f7fe7000711--berhatler_squad-1665624753864.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66f7fe7000711--berhatler_squad-1665624753864.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Is Jürgen Klopp, Liverpool facing a MUST-WIN match vs. Man City? | SOTU]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66e7f22000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f66e7f22000711</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Alexi Lalas and David Mosse  break down whether Jürgen Klopp and Liverpool are facing a must-win match vs. Manchester City.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 02:37:59 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66e7f22000711--Liverpool-1665628657661.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66e7f22000711--Liverpool-1665628657661.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Can Leed United's Jesse Marsch and Brenden Aaronson SHOCK THE WORLD vs. Arsenal? | SOTU]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66e9746000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f66e9746000711</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Alexi Lalas and David Mosse analyze if Leeds United can pull of an upset against the first-place Arsenal squad.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 02:37:11 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66e9746000711--leeds_uni-1665628616133.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66e9746000711--leeds_uni-1665628616133.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Christian Pulisic: No. 39 | Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6717e0c000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f6717e0c000711</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[USMNT's Christian Pulisic is known for his finishing, technical ability, speed and earns the 39th spot on Stu Holden’s Top 50 Players in the 2022 FIFA Men’s World Cup.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:29:41 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6717e0c000711--pulisic-1665624527684.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6717e0c000711--pulisic-1665624527684.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Bend It Like Grosso: No. 39 | Most Memorable Moments in World Cup History]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f670221f000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f670221f000b87</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Check out the 39th-most memorable moment in FIFA World Cup history, which took place in 2006 when Fabio Grosso scored a beautiful goal for Italy in their matchup against Germany.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:17:21 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f670221f000b87--grosso-1665623804336.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f670221f000b87--grosso-1665623804336.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[David Beckham sent off: No. 40 | Most Memorable Moments in World Cup History]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66bd20b000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f66bd20b000711</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Check out the 40th-most memorable moment in FIFA World Cup history, which took place in 1998 when David Beckham was sent off with a red card in England's matchup against Argentina.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 00:29:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66bd20b000711--dave-1665620901854.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66bd20b000711--dave-1665620901854.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Netherland's Memphis Depay: No. 40 | Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f665da13000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f665da13000b87</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Netherland’s Memphis Depay is known for his finishing, technical ability, confidence and earns the 40th spot on Stu Holden’s Top 50 Players in the 2022 FIFA Men’s World Cup.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 23:50:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f665da13000b87--depay-1665616720809.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f665da13000b87--depay-1665616720809.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: Fabio Grosso bends it vs. Germany]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-fabio-grosso-bends-it-vs-germany</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-fabio-grosso-bends-it-vs-germany</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Fabio Grosso's curler sent Italy to the final in No. 39 of our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:38:45 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_39_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_39_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USMNT Stock Watch: Gio Renya, Antonee Robinson return from injury]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/usmnt-stock-watch-gio-renya-antonee-robinson-return-from-injury</link>
+				<guid>https://www.foxsports.com/stories/soccer/usmnt-stock-watch-gio-renya-antonee-robinson-return-from-injury</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[The USMNT's World Cup roster is starting to take shape with star players returning from injury. Doug McIntyre recaps the week in club soccer.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 17:44:49 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.11.22_Plane-to-Qatar_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.11.22_Plane-to-Qatar_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top 50 players at 2022 World Cup, No. 40: Memphis Depay]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-no-40-memphis-depay</link>
+				<guid>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-no-40-memphis-depay</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Memphis Depay will be the focal point of the Netherlands' attack at the 2022 World Cup.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 16:47:24 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/09.21.22_Top-50-World-Cup-Players_40_MEMPHIS-DEPAY_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/09.21.22_Top-50-World-Cup-Players_40_MEMPHIS-DEPAY_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USWNT lose to England, Spain: 3 takeaways from winless window]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/uswnt-lose-to-england-spain-3-takeaways-from-winless-window</link>
+				<guid>https://www.foxsports.com/stories/soccer/uswnt-lose-to-england-spain-3-takeaways-from-winless-window</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[The USWNT had a lot to deal with on and off the pitch in this month's window. Doug McIntyre's looks back at the last two matches.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 15:07:19 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/rapinoe1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/rapinoe1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: David Beckham sees red vs. Argentina]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-david-beckham-sees-red-vs-argentina</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-david-beckham-sees-red-vs-argentina</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[David Beckham's red could have been the difference for England in No. 40 of our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 14:48:23 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_40_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_40_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Why Columbus Crew's firing of Caleb Porter shouldn't come as 'no surprise' - Alexi Lalas | SOTU]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f570ffe00014ab</link>
+				<guid>https://www.foxsports.com/watch/play-5f570ffe00014ab</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Alexi Lalas and David Mosse explain why the Columbus Crew sacking Caleb Porter shouldn't be seen as a surprise.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 04:35:27 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f570ffe00014ab--caleb_porter-1665462893701.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f570ffe00014ab--caleb_porter-1665462893701.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USMNT's Weston McKennie: No. 41 | Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5660351000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f5660351000040</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[USMNT's Weston McKennie is known for his physicality, technical ability, aerial ability and earns the 41st spot on Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 01:20:02 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5660351000040--mckennie-1665450810683.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5660351000040--mckennie-1665450810683.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The Shootout Curse Begins: No. 41 | Most Memorable Moments in World Cup History]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f56545840014ab</link>
+				<guid>https://www.foxsports.com/watch/play-5f56545840014ab</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Check out the 41st-most memorable moment in FIFA World Cup history, which took place in 1990 when the "shootout curse" began for England in their match against Germany.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 00:41:34 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f56545840014ab--snap-1665448811024.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f56545840014ab--snap-1665448811024.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: England start penalty woes]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-england-start-penalty-woes</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-england-start-penalty-woes</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[England's misfortune from the penalty spot all started with No. 41 of our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 15:53:20 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_41_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_41_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top 50 players at 2022 World Cup, No. 41: Weston McKennie]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-weston-mckennie</link>
+				<guid>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-weston-mckennie</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Weston McKennie is the engine that makes the USMNT go, Stu Holden says.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 15:33:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/09.16.22_Top-50-World-Cup-Players_41_WESTON-MCKENNIE_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/09.16.22_Top-50-World-Cup-Players_41_WESTON-MCKENNIE_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stu Holden's top 50 players at World Cup 2022]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/stu-holdens-top-50-players-at-world-cup-2022</link>
+				<guid>https://www.foxsports.com/stories/soccer/stu-holdens-top-50-players-at-world-cup-2022</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[FOX Sports soccer analyst Stu Holden counts down his picks for the 50 best players at the 2022 World Cup in Qatar.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 14:26:13 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/Stus-Top-50-World-Cup-Players-Landing-Page_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/Stus-Top-50-World-Cup-Players-Landing-Page_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 FIFA World Cup will make the holiday season the most wonderful time of the year]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f54e01250014ab</link>
+				<guid>https://www.foxsports.com/watch/play-5f54e01250014ab</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Jon Hamm as Santa Claus, Tom Brady, Mariah Carey and Ellie Kemper get you ready for the 2022 FIFA World Cup featuring the US Men’s National team including Christian Pulisic. The most wonderful time of the year starts November 20th on FOX.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 20:27:18 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f54e01250014ab--Thumbnail_1-1665433425563.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f54e01250014ab--Thumbnail_1-1665433425563.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[How to watch the 2022 World Cup on FOX: Times, channels, full match schedule]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/how-to-watch-the-2022-world-cup-on-fox-times-channels-full-match-schedule</link>
+				<guid>https://www.foxsports.com/stories/soccer/how-to-watch-the-2022-world-cup-on-fox-times-channels-full-match-schedule</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Here's how to watch the 2022 FIFA World Cup live on FOX Sports.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 10:12:12 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.07.22_How-to-Watch-World-Cup-Full-Schedule-Guide_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.07.22_How-to-Watch-World-Cup-Full-Schedule-Guide_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup: 101 most memorable tournament moments]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cup-101-most-memorable-tournament-moments</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cup-101-most-memorable-tournament-moments</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[In anticipation of the 2022 World Cup in Qatar, see all 101 of the most memorable moments in the tournament's rich history.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 02:47:06 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.29.22_WC-101-landing-page-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.29.22_WC-101-landing-page-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top 50 players at 2022 World Cup, No. 42: Gareth Bale]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-gareth-bale</link>
+				<guid>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-gareth-bale</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Gareth Bale can continue Wales' recent international success at his first World Cup, Stu Holden writes.]]>
+				</description>
+				<pubDate>Mon, 10 Oct 2022 00:11:16 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/09.16.22_Top-50-World-Cup-Players_42_GARETH-BALE_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/09.16.22_Top-50-World-Cup-Players_42_GARETH-BALE_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top 50 players at 2022 World Cup, No. 43: Édouard Mendy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-edouard-mendy</link>
+				<guid>https://www.foxsports.com/stories/soccer/top-50-players-at-2022-world-cup-edouard-mendy</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Édouard Mendy will be one of the best goalkeepers at the 2022 World Cup in Qatar, Stu Holden says.]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 23:50:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/09.16.22_Top-50-World-Cup-Players_43_EDOUARD-MENDY_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/09.16.22_Top-50-World-Cup-Players_43_EDOUARD-MENDY_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: North Korea upsets Italy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-north-korea-upsets-italyworld-cups-101-most-memorable-moments-north-korea-upsets-italy</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-north-korea-upsets-italyworld-cups-101-most-memorable-moments-north-korea-upsets-italy</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[North Korea knocked out Italy in No. 42 of our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 22:02:57 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_42_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_42_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: Rijkaard spits at Voller]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-rijkaard-spits-at-voller</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-rijkaard-spits-at-voller</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Frank Rijkaard earned his red card in No. 43 of our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 21:26:20 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_43_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_43_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLS Decision Day: Philadelphia Union win East, playoff bracket is set]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/mls-decision-day-philadelphia-union-win-east-playoff-bracket-is-set</link>
+				<guid>https://www.foxsports.com/stories/soccer/mls-decision-day-philadelphia-union-win-east-playoff-bracket-is-set</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Doug McIntyre recaps all of the action from MLS Decision Day.]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 19:27:50 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/MLSDecisionDay.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/MLSDecisionDay.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Wales' Gareth Bale: No. 42 | Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f4d8173e000277</link>
+				<guid>https://www.foxsports.com/watch/play-5f4d8173e000277</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Wales' Gareth Bale is known for his technical ability, speed, finishing and he earns the 42nd spot on Stu Holden's Top 50 Players in the 2022 FIFA Men's World Cup.]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 23:06:55 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f4d8173e000277--gareth_bale-1665356806048.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f4d8173e000277--gareth_bale-1665356806048.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[North Korea makes history: No. 42 | Most Memorable Moments in World Cup History]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f4b8f902001445</link>
+				<guid>https://www.foxsports.com/watch/play-5f4b8f902001445</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Check out the 42nd-most memorable moment in FIFA World Cup history, which took place in 1966. North Korea became the first asian team to progress past the first round. ]]>
+				</description>
+				<pubDate>Sun, 09 Oct 2022 17:22:27 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f4b8f902001445--snap-1665336126572.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f4b8f902001445--snap-1665336126572.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[World Cup's 101 Most Memorable Moments: Argentina 6, Peru 0]]>
+				</title>
+				<link>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-argentina-6-peru-0</link>
+				<guid>https://www.foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-argentina-6-peru-0</guid>
+				<category>soccer</category>
+				<description>
+				    <![CDATA[Argentina routed Peru 6-0 in 1978, but was it a fair game? This is No. 44 on our 101 most memorable World Cup moments countdown.]]>
+				</description>
+				<pubDate>Sat, 08 Oct 2022 15:12:44 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/101-Most-Memorable-WC-Moments_44_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/101-Most-Memorable-WC-Moments_44_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

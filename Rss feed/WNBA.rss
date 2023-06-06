@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:39:34 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/wnba&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Phoenix Suns minority owner calls for Sarver's resignation]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/phoenix-suns-minority-owner-calls-for-sarvers-resignation</link>
+				<guid>https://www.foxsports.com/stories/nba/phoenix-suns-minority-owner-calls-for-sarvers-resignation</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[In a scathing letter to employees, Jahm Najafi called for Suns owner Robert Sarver to step down after the league's findings.]]>
+				</description>
+				<pubDate>Thu, 15 Sep 2022 19:44:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/sarver-9_13.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/128/72/sarver-9_13.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Aces spoil Sue Bird’s retirement party, topple Storm]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/aces-spoil-sue-birds-retirement-party-topple-storm</link>
+				<guid>https://www.foxsports.com/stories/wnba/aces-spoil-sue-birds-retirement-party-topple-storm</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The Aces spoiled the final regular-season home game for Sue Bird, beating the Storm 89-81 on Sunday.]]>
+				</description>
+				<pubDate>Sun, 07 Aug 2022 17:58:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/0807_suebird_horiz.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/0807_suebird_horiz.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Brittney Griner convicted by Russian judge, given 9-year sentence]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/brittney-griner-convicted-by-russian-judge-given-9-year-sentence</link>
+				<guid>https://www.foxsports.com/stories/wnba/brittney-griner-convicted-by-russian-judge-given-9-year-sentence</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The WNBA star remains in a Russian prison, as the U.S. attempts to agree on a deal to secure her freedom.]]>
+				</description>
+				<pubDate>Thu, 04 Aug 2022 09:00:16 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/griner-84.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/griner-84.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Title IX stories: College coaching icons reflect on legislation's legacy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/title-ix-stories-college-coaching-icons-reflect-on-legislations-legacy</link>
+				<guid>https://www.foxsports.com/stories/other/title-ix-stories-college-coaching-icons-reflect-on-legislations-legacy</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[On the 50th anniversary of Title IX, college coaching icons reflect on how the legislation transformed women's sports, Laken Litman writes.]]>
+				</description>
+				<pubDate>Thu, 23 Jun 2022 10:19:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.16.22_Title-IX-Longtime-college-coaches_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.16.22_Title-IX-Longtime-college-coaches_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA['Strong Like A Woman': Alex Morgan, Diana Taurasi, Billie Jean King & 97 other game-changing women]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/strong-like-a-woman-alex-morgan-diana-taurasi-billie-jean-king-97-other-game-changing-women</link>
+				<guid>https://www.foxsports.com/stories/other/strong-like-a-woman-alex-morgan-diana-taurasi-billie-jean-king-97-other-game-changing-women</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA["Strong Like A Woman," by Laken Litman, highlights 100 game-changing women in sports and celebrates the 50th anniversary of Title IX.]]>
+				</description>
+				<pubDate>Tue, 21 Jun 2022 06:58:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.06.22_Title-IX-Excerpt-from-Strong-Like-A-Woman_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.06.22_Title-IX-Excerpt-from-Strong-Like-A-Woman_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sue Bird to retire at the end of 2022 season]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/wnba-star-sue-bird-says-2022-will-be-her-final-season</link>
+				<guid>https://www.foxsports.com/stories/wnba/wnba-star-sue-bird-says-2022-will-be-her-final-season</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Bird is a four-time WNBA champion, 12-time All-Star and five-time Olympic medalist. She has spent her entire WNBA career with Seattle.]]>
+				</description>
+				<pubDate>Thu, 16 Jun 2022 10:19:50 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.16.22_Sue-Bird-is-retiring-at-end-of-season_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.16.22_Sue-Bird-is-retiring-at-end-of-season_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jimmy Butler, Miami's ceiling exposed in Game 4 loss to Celtics I THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5ada690d5000621</link>
+				<guid>https://www.foxsports.com/watch/play-5ada690d5000621</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Colin Cowherd says the Miami Heat has little margin for error going into Game 5 of the Eastern Conference Finals after losing soundly to the Boston Celtics by 20 points in Game 4. While he maintains Jayson Tatum's Celtics aren't talented enough to phone it in against Jimmy Butler, Colin shares why he still believes the Celtics have exposed Miami's ceiling.]]>
+				</description>
+				<pubDate>Tue, 31 May 2022 20:59:57 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5ada690d5000621--0523_ECF.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5ada690d5000621--0523_ECF.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Title IX stories: Becky Hammon feeling right at home in first head-coaching role]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/becky-hammon-feeling-right-at-home-in-first-head-coaching-role</link>
+				<guid>https://www.foxsports.com/stories/wnba/becky-hammon-feeling-right-at-home-in-first-head-coaching-role</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Yaron Weitzman recounts Becky Hammon's journey from WNBA player to San Antonio Spurs assistant to head coach of the Las Vegas Aces.]]>
+				</description>
+				<pubDate>Thu, 12 May 2022 12:29:33 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/05.03.22_Title-IX-Series_Becky-Hammon_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/05.03.22_Title-IX-Series_Becky-Hammon_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[WNBA odds: 2022 championship futures lines for every team]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/wnba-odds-2022-championship-futures-lines-for-every-team</link>
+				<guid>https://www.foxsports.com/stories/wnba/wnba-odds-2022-championship-futures-lines-for-every-team</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Can Sue Bird and Seattle storm to a title? Will Candace Parker keep Chicago sky-high? Check out this season's WNBA title odds.]]>
+				</description>
+				<pubDate>Thu, 12 May 2022 12:29:33 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/05.10.22_WNBA-odds-Every-teams-2022-championship-futures_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/05.10.22_WNBA-odds-Every-teams-2022-championship-futures_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[WNBA Draft: Rhyne Howard to Dream at No. 1, NaLyssa Smith to Fever]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/wnba-draft-rhyne-howard-to-dream-at-no-1-nalyssa-smith-to-fever</link>
+				<guid>https://www.foxsports.com/stories/wnba/wnba-draft-rhyne-howard-to-dream-at-no-1-nalyssa-smith-to-fever</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[A new crop of stars are set to enter the WNBA. Here are the top moments from the WNBA Draft and a list of all three rounds.]]>
+				</description>
+				<pubDate>Mon, 11 Apr 2022 18:16:27 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/04.11.22_WNBA-Draft-NaLyssa-Smith_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/04.11.22_WNBA-Draft-NaLyssa-Smith_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Becky Hammon's move to WNBA is missed opportunity for NBA]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/becky-hammons-move-to-wnba-is-missed-opportunity-for-nba</link>
+				<guid>https://www.foxsports.com/stories/wnba/becky-hammons-move-to-wnba-is-missed-opportunity-for-nba</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Becky Hammon deserved a top job in the NBA, but leading Las Vegas is a step in the right direction, Melissa Rohlin writes.]]>
+				</description>
+				<pubDate>Fri, 31 Dec 2021 18:25:38 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/12.31.21_becky-hammon-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/128/72/12.31.21_becky-hammon-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Crypto.com Arena? Many are already refusing to let 'Staples Center' go]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/staples-center-crypto-com-arena-los-angeles-lakers-la-clippers-los-angeles-kings-los-angeles-sparks</link>
+				<guid>https://www.foxsports.com/stories/nba/staples-center-crypto-com-arena-los-angeles-lakers-la-clippers-los-angeles-kings-los-angeles-sparks</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[The Staples Center will become Crypto.com Arena on Christmas Day. But most fans are unwelcoming of the unexpected change.]]>
+				</description>
+				<pubDate>Wed, 17 Nov 2021 16:12:06 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/11.17.21_No-More-Staples_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/128/72/11.17.21_No-More-Staples_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Candace Parker leads Chicago Sky to franchise's first WNBA championship]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/candace-parker-leads-chicago-sky-to-franchises-first-wnba-championship</link>
+				<guid>https://www.foxsports.com/stories/wnba/candace-parker-leads-chicago-sky-to-franchises-first-wnba-championship</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Candace Parker delivered for her city, bringing the Chicago Sky their first WNBA title with a win over Phoenix.]]>
+				</description>
+				<pubDate>Sun, 17 Oct 2021 15:55:28 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/10.17.21_Sky-High-chicago-wnba-champs-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/128/72/10.17.21_Sky-High-chicago-wnba-champs-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[WNBA playoff preview: Seattle Storm look to defend title against seven strong contenders]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/wnba-playoff-preview</link>
+				<guid>https://www.foxsports.com/stories/wnba/wnba-playoff-preview</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The WNBA playoffs begin Thursday, featuring an exciting format and a wealth of stars. Here's everything you need to know.]]>
+				</description>
+				<pubDate>Wed, 22 Sep 2021 18:12:21 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/9.22.21_WNBA-Playoff-Preview-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/9.22.21_WNBA-Playoff-Preview-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Who's the WNBA GOAT? Pamela McGee tells Shannon Sharpe her pick I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1945944643532</link>
+				<guid>https://www.foxsports.com/watch/1945944643532</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[Shannon Sharpe asks Pamela McGee who her male and female hooper GOATS are. 'The greatest female basketball player of all time is a tie between Cynthia Cooper and Cheryl Miller. They revolutionized the game,' says McGee, while going on to name Michael Jordan as the male GOAT.]]>
+				</description>
+				<pubDate>Tue, 14 Sep 2021 20:15:03 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/310/438/CSS_refresh_s2_thumbnail_3_(1)_350x197_1946516035705.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/310/438/128/72/CSS_refresh_s2_thumbnail_3_(1)_350x197_1946516035705.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Spurs coach Becky Hammon talks about her groundbreaking career, future goals]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/becky-hammon-interview-charlotte-wilder-portland-trail-blazers-san-antonio-spurs-gregg-popovich-team-usa</link>
+				<guid>https://www.foxsports.com/stories/nba/becky-hammon-interview-charlotte-wilder-portland-trail-blazers-san-antonio-spurs-gregg-popovich-team-usa</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[Becky Hammon is known as an NBA pioneer, but she really just wants to be viewed as a good coach, Charlotte Wilder writes.]]>
+				</description>
+				<pubDate>Fri, 13 Aug 2021 15:46:37 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/interview_with_becky16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/interview_with_becky16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Olympics recap: Team USA baseball, basketball, USWNT win on Day 7 of Tokyo Games]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/team-usa-baseball-basketball-uswnt-advance-day-7-tokyo-olympics</link>
+				<guid>https://www.foxsports.com/stories/olympics/team-usa-baseball-basketball-uswnt-advance-day-7-tokyo-olympics</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The U.S. is heating up at the Olympic Games, and Day 7 was another celebratory day for Team USA in Tokyo. Here's the latest.]]>
+				</description>
+				<pubDate>Fri, 30 Jul 2021 11:16:45 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.30.21_Olympics-Day-7-Highlights-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.30.21_Olympics-Day-7-Highlights-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top moments: 2020 Tokyo Olympics Opening Ceremony]]>
+				</title>
+				<link>https://www.foxsports.com/stories/olympics/2020-tokyo-olympics-opening-ceremony-naomi-osaka-parade-nations</link>
+				<guid>https://www.foxsports.com/stories/olympics/2020-tokyo-olympics-opening-ceremony-naomi-osaka-parade-nations</guid>
+				<category>olympics</category>
+				<description>
+				    <![CDATA[The Tokyo Olympics are underway, as the Opening Ceremony kicked things off in style Friday. Here are the top moments.]]>
+				</description>
+				<pubDate>Fri, 23 Jul 2021 12:10:51 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.23.21_Olympics-opening-ceremony_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.23.21_Olympics-opening-ceremony_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2021 WNBA All-Star Game: Top moments from Team USA vs. Team WNBA]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/2021-wnba-all-star-game-top-moments-from-team-wnba-vs-team-usa</link>
+				<guid>https://www.foxsports.com/stories/wnba/2021-wnba-all-star-game-top-moments-from-team-wnba-vs-team-usa</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[It's a star-studded event in Las Vegas as Team WNBA topped Team USA in the 2021 WNBA All-Star Game. Here are the top moments.]]>
+				</description>
+				<pubDate>Wed, 14 Jul 2021 18:44:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/440.1_Editorial_1500x2400_StoryCard_WNBA_AllStarGamenew.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/440.1_Editorial_1500x2400_StoryCard_WNBA_AllStarGamenew.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The sports world celebrates Fourth of July]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/fourth-of-july-celebrations-sports-world-july-4-2021</link>
+				<guid>https://www.foxsports.com/stories/other/fourth-of-july-celebrations-sports-world-july-4-2021</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Fire up the grill, and settle in for some fireworks. Here's how leagues, teams and athletes celebrated Independence Day!]]>
+				</description>
+				<pubDate>Sun, 04 Jul 2021 10:14:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.4.21_Sports-World-Celebrates-4th-of-July-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.4.21_Sports-World-Celebrates-4th-of-July-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Antoine Walker: CP3 has entered the Top 5 PG discussion, Paul George has earned a new level of respect ' THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1916776003952</link>
+				<guid>https://www.foxsports.com/watch/1916776003952</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[Antoine Walker joins Colin Cowherd to discuss Chris Paul leading the Phoenix Suns to an NBA Finals. Hear why Walker believes CP3 has enter the conversation as a top 5 all-time point guard, and why Paul George has earned a new level of respect after this year's performance in the playoffs.]]>
+				</description>
+				<pubDate>Thu, 01 Jul 2021 18:32:14 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/141/47/THUMBNAILSllll.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/141/47/128/72/THUMBNAILSllll.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The WNBA turns 25: Looking back at how the league has grown, what's to come]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/25th-anniversary-los-angeles-sparks-new-york-liberty-looking-back-and-forward</link>
+				<guid>https://www.foxsports.com/stories/wnba/25th-anniversary-los-angeles-sparks-new-york-liberty-looking-back-and-forward</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The Sparks and Liberty played the WNBA's first game 24 years ago. After a rematch Sunday, we look at how far the league has come.]]>
+				</description>
+				<pubDate>Mon, 21 Jun 2021 20:09:07 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/946249c5-crop.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/946249c5-crop.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sports world commemorates Juneteenth]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/sports-world-honors-commemorates-celebrates-juneteenth-nfl-mlb-nba-wnba</link>
+				<guid>https://www.foxsports.com/stories/nfl/sports-world-honors-commemorates-celebrates-juneteenth-nfl-mlb-nba-wnba</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The sports world honored the Juneteenth holiday with powerful messages across social media.]]>
+				</description>
+				<pubDate>Sat, 19 Jun 2021 13:43:26 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/6.19.21_Juneteenth-wide.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/6.19.21_Juneteenth-wide.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sports world honors U.S. military on Memorial Day 2021]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/memorial-day-2021-sports-world-honors-united-states-military</link>
+				<guid>https://www.foxsports.com/stories/mlb/memorial-day-2021-sports-world-honors-united-states-military</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The sports world pulled out all the stops to honor the U.S. military on Memorial Day 2021.]]>
+				</description>
+				<pubDate>Mon, 31 May 2021 11:22:15 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/memorial-5_31.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/memorial-5_31.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Nick Wright: If Clippers lose Game 3, Kawhi or PG-13 are gone next year ' FIRST THINGS FIRST]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1902526531588</link>
+				<guid>https://www.foxsports.com/watch/1902526531588</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[The Los Angeles Clippers will face the Dallas Mavericks for Game 3 of their playoff series, a game that Nick Wright thinks might be the most important game in Clippers' franchise history. Nick tells Chris Broussard and the rest of the First Things First crew what he believes what the future holds for this Los Angeles team if they go down 0-3 in this series.]]>
+				</description>
+				<pubDate>Fri, 28 May 2021 14:36:26 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/887/707/0528_Clippers.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/887/707/128/72/0528_Clippers.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sports world remembers George Floyd one year after his death]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/george-floyd-anniversary-sports-world-reaction</link>
+				<guid>https://www.foxsports.com/stories/nba/george-floyd-anniversary-sports-world-reaction</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[On the one-year anniversary of George Floyd's murder, leagues, teams and athletes shared tributes on social media.]]>
+				</description>
+				<pubDate>Tue, 25 May 2021 16:44:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/05252021_GEORGE_FLOYD_PI.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/05252021_GEORGE_FLOYD_PI.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sabrina Ionescu is living up to her No. 1 overall pick billing this season]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/sabrina-ionescu-wnba-new-york-liberty-oregon-kobe-bryant</link>
+				<guid>https://www.foxsports.com/stories/wnba/sabrina-ionescu-wnba-new-york-liberty-oregon-kobe-bryant</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The WNBA – and the Big Apple – has a new superstar on its hands in New York Liberty guard Sabrina Ionescu.]]>
+				</description>
+				<pubDate>Sun, 23 May 2021 17:10:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/SabrinaIonescu.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/SabrinaIonescu.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Webber, Pierce, Bosh headline 2021 Basketball Hall of Fame class]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/2021-basketball-hall-of-fame-class-chris-webber-paul-pierce-chris-bosh-ben-wallace-yolanda-griffith-lauren-jackosn</link>
+				<guid>https://www.foxsports.com/stories/nba/2021-basketball-hall-of-fame-class-chris-webber-paul-pierce-chris-bosh-ben-wallace-yolanda-griffith-lauren-jackosn</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[The 2021 Basketball Hall of Fame class was unveiled Sunday, with several heavy-hitters in both the NBA and WNBA making the cut.]]>
+				</description>
+				<pubDate>Sun, 16 May 2021 11:36:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/05162021_NBA_PI.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/05162021_NBA_PI.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Top Moments from WNBA's Opening Night]]>
+				</title>
+				<link>https://www.foxsports.com/stories/wnba/wnba-2021-season-begins-opening-night</link>
+				<guid>https://www.foxsports.com/stories/wnba/wnba-2021-season-begins-opening-night</guid>
+				<category>wnba</category>
+				<description>
+				    <![CDATA[The WNBA is back! Here are the top moments from Friday's opening night of the 2021 season.]]>
+				</description>
+				<pubDate>Fri, 14 May 2021 21:47:36 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/wnba-wide-051421.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/wnba-wide-051421.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The special bond between Hall of Fame Inductees Kobe Bryant and Tamika Catchings]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/kobe-bryant-tamika-catchings-hall-of-fame-special-bond</link>
+				<guid>https://www.foxsports.com/stories/nba/kobe-bryant-tamika-catchings-hall-of-fame-special-bond</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[For Tamika Catchings to be part of the same Hall of Fame class as Kobe Bryant is poetic, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Fri, 14 May 2021 14:42:45 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/Hall-of-Fame.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/Hall-of-Fame.png" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

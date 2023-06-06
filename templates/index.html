@@ -1,0 +1,311 @@
+{% include 'header.html' %}
+<main>
+    <!--   Weekly-News start -->
+
+    <!-- <div class="weekly-news-area pt-50">
+        <div class="container">
+           <div class="weekly-wrapper"> -->
+                <!-- section Tittle -->
+                <!-- <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>Top News</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="weekly-news-active dot-style d-flex dot-style">
+                            {% for i in five_all_headlines %}                      
+                                <div class="weekly-single">
+                                    <div class="weekly-img">
+                                        <img src={{i.media}} alt="" height="300px">
+                                    </div>
+                                    <div class="weekly-caption">
+                                        <span class="color1">{{i.category}}</span>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div> 
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+           </div>
+        </div>
+    </div>     
+     -->
+    
+
+    <!-- End Weekly-News -->
+
+    <!-- Trending Area Start -->
+    <div class="trending-area fix">
+        <div class="container">
+            <div class="trending-main">
+                <!-- Trending Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="trending-tittle">
+                            <strong>Trending now</strong>
+                            <!-- <p>Rem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                            <div class="trending-animated">
+                                <ul id="js-news" class="js-hidden">
+                                    <li class="news-item">{{trending_top.title}}</li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8">
+                        <!-- Trending Top -->
+                        <div class="trending-top mb-30">
+                            <div class="trend-top-img">
+                                <img src={{trending_top.media}} alt="">
+                                <div class="trend-top-cap">
+                                    <span>{{trending_top.category}}</span>
+                                    <h2><a href={% url 'blog' trending_top.blog_url %}>{{trending_top.title}}</a></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Trending Bottom -->
+                        <div class="trending-bottom">
+                            <div class="row">
+                                {% for i in trending_bottom %}                                
+                                    <div class="col-lg-4">
+                                        <div class="single-bottom mb-35">
+                                        <div class="trend-bottom-img mb-30">
+                                            <img src={{i.media}} alt="">
+                                        </div>
+                                        <div class="trend-bottom-cap">
+                                            <span class="color1">{{i.category}}</span>
+                                            <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                        </div>                                    
+                                        </div>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Riht content -->
+                    <div class="col-lg-4">
+                        {% for i in riht_content %}
+                            <div class="trand-right-single d-flex">
+                                <div class="trand-right-img">
+                                    <img src={{i.media}} alt="" height="100px">
+                                </div>
+                                <div class="trand-right-cap">
+                                    <span class="color1">{{i.category}}</span>
+                                    <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Trending Area End -->
+    <!--   Weekly-News start -->
+    <div class="weekly-news-area pt-50">
+        <div class="container">
+           <div class="weekly-wrapper">
+                <!-- section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>Olympics</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    {% for i in olympics %}
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="weekly-news-active dot-style d-flex dot-style">
+                            
+                                <div class="weekly-single">
+                                    <div class="weekly-img">
+                                            <img src={{i.media}} alt="">
+                                    </div>
+                                    <div class="weekly-caption">
+                                        <span class="color1">{{i.category}}</span>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div>
+                            
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div>
+           </div>
+        </div>
+    </div>           
+    <!-- End Weekly-News -->
+
+    <!--   Weekly2-News start -->
+    <div class="wekely2-news-area  weekly2-pading gray-bg">
+        <div class="container">
+            <div class="weekly2-wrapper">
+                <!-- section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>Soccer</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    {% for i in soccer %}
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="weekly2-news-active dot-style d-flex dot-style">
+                           
+                                <div class="weekly2-single">
+                                    <div class="weekly2-img" style="width: 100%;">
+                                        <img src={{i.media}} alt="" style="width: inherit !important;">
+                                    </div>
+                                    <div class="weekly2-caption">
+                                        <span class="color1">{{i.category}}</span>
+                                        <p>{{i.publish_date}}</p>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div> 
+                         
+                        </div>
+                    </div>
+                    {% endfor %}
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>           
+    <!-- End Weekly-News -->
+
+
+    <!--   Weekly3-News start -->
+    <div class="wekely2-news-area  weekly2-pading white-bg">
+        <div class="container">
+            <div class="weekly2-wrapper">
+                <!-- section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>NHL</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    {% for i in nhl %}
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="weekly2-news-active dot-style d-flex dot-style">
+                           
+                                <div class="weekly2-single">
+                                    <div class="weekly2-img" style="width: 100%;">
+                                        <img src={{i.media}} alt="" style="width: inherit !important;">
+                                    </div>
+                                    <div class="weekly2-caption">
+                                        <span class="color1">{{i.category}}</span>
+                                        <p>{{i.publish_date}}</p>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div> 
+                         
+                        </div>
+                    </div>
+                    {% endfor %}
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>           
+    <!-- End Weekly-News -->
+
+    <!--   Weekly4-News start -->
+    <div class="wekely2-news-area  weekly2-pading gray-bg">
+        <div class="container">
+            <div class="weekly2-wrapper">
+                <!-- section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>NBA</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    {% for i in nba %}
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="weekly2-news-active dot-style d-flex dot-style">
+                           
+                                <div class="weekly2-single">
+                                    <div class="weekly2-img" style="width: 100%;">
+                                        <img src={{i.media}} alt="" style="width: inherit !important;">
+                                    </div>
+                                    <div class="weekly2-caption">
+                                        <span class="color1">{{i.category}}</span>
+                                        <p>{{i.publish_date}}</p>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div> 
+                         
+                        </div>
+                    </div>
+                    {% endfor %}
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>           
+    <!-- End Weekly-News -->
+
+
+    <!--  Recent Articles start -->
+    <div class="weekly-news-area pt-50">
+        <div class="container">
+           <div class="recent-wrapper">
+                <!-- section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle mb-30">
+                            <h3>MLB</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    {% for i in mlb %}
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="recent-active dot-style d-flex dot-style">
+                            
+                                <div class="single-recent mb-100">
+                                    <div class="weekly2-img" style="width: 100%;">
+                                        <img src={{i.media}} alt="" style="width: inherit !important;">
+                                    </div>
+                                    <div class="what-cap">
+                                        <span class="color1">{{i.category}}</span>
+                                        <h4><a href={% url 'blog' i.blog_url %}>{{i.title}}</a></h4>
+                                    </div>
+                                </div>
+                           
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div>
+           </div>
+        </div>
+    </div>
+    <!--Recent Articles End -->
+
+    </main>
+{% include 'footer.html' %}

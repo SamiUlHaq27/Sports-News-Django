@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:36:13 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/wcbk&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[UConn’s Paige Bueckers suffers torn ACL, will miss upcoming season]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/uconns-paige-bueckers-suffers-torn-acl-will-miss-upcoming-season</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/uconns-paige-bueckers-suffers-torn-acl-will-miss-upcoming-season</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Paige Bueckers is now sidelined for the season after missing 19 games with a separate knee injury last year.]]>
+				</description>
+				<pubDate>Wed, 03 Aug 2022 13:20:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.3.22_PaigeBueckersTears_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.3.22_PaigeBueckersTears_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Title IX stories: College coaching icons reflect on legislation's legacy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/title-ix-stories-college-coaching-icons-reflect-on-legislations-legacy</link>
+				<guid>https://www.foxsports.com/stories/other/title-ix-stories-college-coaching-icons-reflect-on-legislations-legacy</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[On the 50th anniversary of Title IX, college coaching icons reflect on how the legislation transformed women's sports, Laken Litman writes.]]>
+				</description>
+				<pubDate>Thu, 23 Jun 2022 10:19:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.16.22_Title-IX-Longtime-college-coaches_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.16.22_Title-IX-Longtime-college-coaches_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[RJ Young on the logistics of new NIL Guidelines for college sports I THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5a781544200174e</link>
+				<guid>https://www.foxsports.com/watch/play-5a781544200174e</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[RJ Young, host of the No. 1 Ranked Show, joins Joy Taylor to discuss the newest changes to the Name, Image and Likeness guidelines impacting college athletes. Now that Boosters have been limited from contacted athletes or their families in recruitment efforts, Joy proposes a suggestion for how to take the situation out of boosters and athletes hands. Young expounds on Joy's suggestion, and explains how these new guidelines could be regulated to better suit the college athletes.]]>
+				</description>
+				<pubDate>Thu, 12 May 2022 18:59:54 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5a781544200174e--0512_RJ1.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5a781544200174e--0512_RJ1.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Women's national championship: South Carolina cements itself as powerhouse]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/womens-national-championship-south-carolina-cements-itself-as-powerhouse</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/womens-national-championship-south-carolina-cements-itself-as-powerhouse</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[South Carolina beat UConn to win a national title that felt like a changing of the guard in the women's game, Laken Litman writes.]]>
+				</description>
+				<pubDate>Sun, 03 Apr 2022 21:42:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/04.03.22_March-Madness_Takeaways-01_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/04.03.22_March-Madness_Takeaways-01_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Women's national championship: South Carolina tops UConn]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/womens-national-championship-south-carolina-tops-uconn</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/womens-national-championship-south-carolina-tops-uconn</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[No. 1 South Carolina defeated No. 2 UConn to win the 2022 NCAA Women's Basketball Tournament. Here are the top moments.]]>
+				</description>
+				<pubDate>Sun, 03 Apr 2022 19:22:16 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/4.2.22_NCAA-Womens-Basketball-Tournament_Top-Plays_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/4.2.22_NCAA-Womens-Basketball-Tournament_Top-Plays_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women's Tournament odds: How to bet national title game, lines]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/odds-how-to-bet-womens-title-game</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/odds-how-to-bet-womens-title-game</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Check out the NCAA women's tournament title game lines, from the point spread to the moneyline and over/under.]]>
+				</description>
+				<pubDate>Sun, 03 Apr 2022 17:18:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/04.02.22_Odds-How-to-bet-UConn-South-Carolina-womens-title-game_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/04.02.22_Odds-How-to-bet-UConn-South-Carolina-womens-title-game_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Women's Final Four: South Carolina, UConn advance to title game]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/womens-final-four-south-carolina-uconn-advance-to-title-game</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/womens-final-four-south-carolina-uconn-advance-to-title-game</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[South Carolina and Uconn came out victorious on Friday night to advance to the national title game. Here are the top moments.]]>
+				</description>
+				<pubDate>Fri, 01 Apr 2022 22:14:20 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.31.22_NCAA-Womens-Basketball-Tournament_Top-Plays_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.31.22_NCAA-Womens-Basketball-Tournament_Top-Plays_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women's Tournament: UConn's OT thriller sets stage for Final Four]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-uconns-ot-thriller-sets-stage-for-final-four</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-uconns-ot-thriller-sets-stage-for-final-four</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[UConn heads to its 14th straight Final Four, where the Huskies join Stanford, Louisville and South Carolina, Laken Litman writes.]]>
+				</description>
+				<pubDate>Tue, 29 Mar 2022 08:07:58 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.29.22_Second-weekend-final-four-reax_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.29.22_Second-weekend-final-four-reax_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Women's Elite Eight: UConn and Louisville advance to Final Four]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/womens-elite-eight-uconn-and-louisville-advance-to-final-four</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/womens-elite-eight-uconn-and-louisville-advance-to-final-four</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Louisville and UConn are headed to the Final Four after the final two games of the Elite Eight wrapped on Monday.]]>
+				</description>
+				<pubDate>Mon, 28 Mar 2022 20:18:06 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/3.26.22_March-Madness_Top-Moments_NC-State-UConn-Louisville-Michigan_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/3.26.22_March-Madness_Top-Moments_NC-State-UConn-Louisville-Michigan_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women's Tournament: South Carolina, Stanford cruise to Final Four]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-south-carolina-stanford-cruise-to-final-four</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-south-carolina-stanford-cruise-to-final-four</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The women's Elite Eight tipped off Sunday — here are the top moments.]]>
+				</description>
+				<pubDate>Sun, 27 Mar 2022 20:38:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/3.26.22_March-Madness_Top-Moments_Stanford-South-Carolina-Texas-Creighton_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/3.26.22_March-Madness_Top-Moments_Stanford-South-Carolina-Texas-Creighton_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women’s Tournament Top Moments: UConn, Michigan advance]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-uconn-michigan-advance</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-uconn-michigan-advance</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The women's Sweet 16 concluded Saturday with UConn, NC State, Louisville and Michigan advancing. Here are the top moments.]]>
+				</description>
+				<pubDate>Sat, 26 Mar 2022 18:02:58 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.24.22_March-Madness_Top-Moments-02_NC-State-Louisville-Indiana-UConn_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.24.22_March-Madness_Top-Moments-02_NC-State-Louisville-Indiana-UConn_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women’s Tournament Top Moments: South Carolina, Stanford win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-top-moments-south-carolina-stanford-move-on</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-top-moments-south-carolina-stanford-move-on</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The Sweet 16 of the women's tournament kicked off with South Carolina, Stanford, Texas and Creighton moving on. Here are the top moments.]]>
+				</description>
+				<pubDate>Fri, 25 Mar 2022 21:57:21 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.24.22_March-Madness_Top-Moments-02_South-Carolina-Stanford-Texas-UNC_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.24.22_March-Madness_Top-Moments-02_South-Carolina-Stanford-Texas-UNC_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women's Tournament odds: Title lines for every Sweet 16 team]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-odds-title-lines-for-every-sweet-16-team</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-tournament-odds-title-lines-for-every-sweet-16-team</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The first week of March Madness was full of great matchups. Read here for updated odds for each women's team ahead of the Sweet 16.]]>
+				</description>
+				<pubDate>Tue, 22 Mar 2022 13:40:42 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.14.22_Womens-CBB-Title-odds-for-every-team-in-the-tournament_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.14.22_Womens-CBB-Title-odds-for-every-team-in-the-tournament_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women's Tournament Top Moments: UConn avoids upset]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-uconn-avoids-upset</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-uconn-avoids-upset</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[UConn avoided an upset, Arizona fell and NC State cruised in the NCAA Women's Tournament on Monday. Here are the top moments!]]>
+				</description>
+				<pubDate>Mon, 21 Mar 2022 21:16:41 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/3.20.22_NCAA-Womens-Basketball-Tournament_Top-Plays_-NC-State-UConn-LSU-Michigan_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/3.20.22_NCAA-Womens-Basketball-Tournament_Top-Plays_-NC-State-UConn-LSU-Michigan_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women's Tournament Top Moments: Baylor, Iowa upset]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-baylor-iowa-upset</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-baylor-iowa-upset</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Creighton and South Dakota grabbed upset wins in the second round of the NCAA Women's Tournament. Here are the top moments.]]>
+				</description>
+				<pubDate>Sun, 20 Mar 2022 19:54:51 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/3.19.22_March-Madness_South-Carolina-Stanford-Louisville-NC-State_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/3.19.22_March-Madness_South-Carolina-Stanford-Louisville-NC-State_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women's Tournament Top Moments: Belmont upsets Oregon]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-nc-state-uconn-ksu-roll</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-tournament-top-moments-nc-state-uconn-ksu-roll</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The final day of women's first-round play saw Belmont, Princeton and 'Nova come up with huge wins. Here are the top moments.]]>
+				</description>
+				<pubDate>Sat, 19 Mar 2022 21:40:57 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.18.22_March-Madness_womens-Top-Moments_CBB-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.18.22_March-Madness_womens-Top-Moments_CBB-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women’s Tournament Top Moments: Fran slam!]]>
+				</title>
+				<link>https://www.foxsports.com/stories/college-basketball/2022-ncaa-womens-tournament-top-moments-fran-slam</link>
+				<guid>https://www.foxsports.com/stories/college-basketball/2022-ncaa-womens-tournament-top-moments-fran-slam</guid>
+				<category>college-basketball</category>
+				<description>
+				    <![CDATA[Three No. 1 seeds all advanced with ease as the 2022 NCAA Women's Tournament got underway. Check out the top moments!]]>
+				</description>
+				<pubDate>Fri, 18 Mar 2022 21:15:52 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.17.22_March-Madness_Top-Moments-02_South-Carolina-Iowa-Louisville-Stanford_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.17.22_March-Madness_Top-Moments-02_South-Carolina-Iowa-Louisville-Stanford_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Purdue star Jaden Ivey and his mom, Niele, shooting for titles]]>
+				</title>
+				<link>https://www.foxsports.com/stories/college-basketball/purdue-star-jaden-ivey-and-his-mom-niele-shooting-for-titles</link>
+				<guid>https://www.foxsports.com/stories/college-basketball/purdue-star-jaden-ivey-and-his-mom-niele-shooting-for-titles</guid>
+				<category>college-basketball</category>
+				<description>
+				    <![CDATA[Laken Litman tells the story of Jaden and Niele Ivey as the Purdue star and Notre Dame coach are both shooting for national titles.]]>
+				</description>
+				<pubDate>Fri, 18 Mar 2022 07:59:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.17.22_Jaden-Niele-Ivey_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.17.22_Jaden-Niele-Ivey_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women’s Basketball Tournament: First Four Top Moments, Day 2]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-basketball-tournament-first-four-top-moments-day-2</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-basketball-tournament-first-four-top-moments-day-2</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The women's tournament is underway with Day 2 of the First Four. Here are the top moments!]]>
+				</description>
+				<pubDate>Thu, 17 Mar 2022 20:37:06 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.17.22_March-Madness_Top-Moments-Mount-Saint-Marys-Longwood-and-Florida-State-Missouri-State_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.17.22_March-Madness_Top-Moments-Mount-Saint-Marys-Longwood-and-Florida-State-Missouri-State_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[March Madness 2022: Get ready for the Caitlin Clark takeover]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/march-madness-2022-get-ready-for-the-caitlin-clark-takeover</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/march-madness-2022-get-ready-for-the-caitlin-clark-takeover</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Iowa star Caitlin Clark has the No. 2 seed Hawkeyes in line for a deep run in the NCAA women's tournament, Laken Litman writes.]]>
+				</description>
+				<pubDate>Thu, 17 Mar 2022 06:03:16 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/3.16.22_Caitlin-Clark_CBB-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/3.16.22_Caitlin-Clark_CBB-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Women’s Basketball Tournament: First Four Top Moments, Day 1]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-basketball-tournament-first-four-top-moments-day-1</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-womens-basketball-tournament-first-four-top-moments-day-1</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Howard knocked off Incarnate Word and Dayton dominated Depaul. Here are the top moments from Wednesday's First Four matchups.]]>
+				</description>
+				<pubDate>Wed, 16 Mar 2022 20:13:19 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.15.22_March-Madness_Top-Moments-02_Incarnate-Word-Howard-DePaul-Dayton_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.15.22_March-Madness_Top-Moments-02_Incarnate-Word-Howard-DePaul-Dayton_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NCAA Tournament: 10 key questions for women's bracket]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/ncaa-tournament-10-key-questions-for-womens-bracket</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/ncaa-tournament-10-key-questions-for-womens-bracket</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Is this South Carolina's year? Is Caitlin Clark about to take over March? Laken Litman breaks down the women's tournament bracket.]]>
+				</description>
+				<pubDate>Sun, 13 Mar 2022 21:34:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.13.22_March-Madness_Observations_Womens-NCAA-Bracket_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.13.22_March-Madness_Observations_Womens-NCAA-Bracket_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 NCAA Women's Basketball Tournament bracket revealed]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-basketball-tournament-bracket-revealed</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/2022-ncaa-womens-basketball-tournament-bracket-revealed</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The NCAA Women's Tournament bracket has been revealed. Here's a complete look at the bracket and where each team is headed.]]>
+				</description>
+				<pubDate>Sun, 13 Mar 2022 19:04:30 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.12.22_NCAA-womens-brackets_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.12.22_NCAA-womens-brackets_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UConn Huskies hoist the trophy after winning the Women's Big East title over Villanova 70-40]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-585b2d7ca001582</link>
+				<guid>https://www.foxsports.com/watch/play-585b2d7ca001582</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[The No. 6 UConn Huskies are now back-to-back Women's Big East champions after they beat the Villanova Wildcats 70-40. It's the Huskies 20th Big East title.]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 03:53:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-585b2d7ca001582--UCONN.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-585b2d7ca001582--UCONN.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UConn star Paige Bueckers cleared to return Friday]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/uconn-star-paige-bueckers-cleared-to-return-friday</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/uconn-star-paige-bueckers-cleared-to-return-friday</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Out since December with a knee injury, UConn star Paige Bueckers has been cleared to return to action on Friday.]]>
+				</description>
+				<pubDate>Thu, 24 Feb 2022 17:22:51 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/bueckers-2_24.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/bueckers-2_24.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UConn's 169-game conference winning streak was snapped in it's 72-69 loss to Villanova]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2001519683868</link>
+				<guid>https://www.foxsports.com/watch/2001519683868</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The UConn Huskies' 169-game conference winning streak was snapped in its 72-69 home loss to the unranked Villanova Wildcats.]]>
+				</description>
+				<pubDate>Thu, 10 Feb 2022 02:47:03 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/62/939/villanova_wins__362838.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/62/939/128/72/villanova_wins__362838.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Caitlin Clark hits multiple 3-pointers from the logo, putting up 46 points and 10 assists in a losing effort against Michigan]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2000295491743</link>
+				<guid>https://www.foxsports.com/watch/2000295491743</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[Caitlin Clark hits multiple 3-pointers from the logo, putting up 46 points and 10 assists in a losing effort for the Iowa Hawkeyes against the Michigan Wolverines.]]>
+				</description>
+				<pubDate>Mon, 07 Feb 2022 02:15:27 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/943/447/Clark__278692.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/943/447/128/72/Clark__278692.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Tennessee-UConn: Azzi Fudd's 25-point explosion leads Huskies past Vols]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/azzi-fudds-25-point-explosion-leads-no-10-uconn-past-no-7-tennessee</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/azzi-fudds-25-point-explosion-leads-no-10-uconn-past-no-7-tennessee</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[In her first career start, freshman guard Azzi Fudd erupted for 25 points to lead No. 10 UConn past No. 7 Tennessee.]]>
+				</description>
+				<pubDate>Sun, 06 Feb 2022 13:36:46 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.6.22_Social-Media-Reaction-to-Azzi-Fudds-Big-Game_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.6.22_Social-Media-Reaction-to-Azzi-Fudds-Big-Game_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[No. 10 UConn beats No. 7 Tennessee 75-56 behind 25 points by Azzi Fudd]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2000243779690</link>
+				<guid>https://www.foxsports.com/watch/2000243779690</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The UConn Huskies beat the visiting Tennessee Lady Volunteers 75-56, led by Azzi Fudd's 25 points.]]>
+				</description>
+				<pubDate>Sun, 06 Feb 2022 19:20:53 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/894/123/azzi_fudd.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/894/123/128/72/azzi_fudd.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UConn-Tennessee: Women's Basketball By The Numbers]]>
+				</title>
+				<link>https://www.foxsports.com/stories/womens-college-basketball/uconn-tennessee-by-the-numbers</link>
+				<guid>https://www.foxsports.com/stories/womens-college-basketball/uconn-tennessee-by-the-numbers</guid>
+				<category>womens-college-basketball</category>
+				<description>
+				    <![CDATA[The No. 7-ranked Tennessee Lady Vols take on the No. 10-ranked UConn Huskies on Sunday. Here are the numbers to know heading into the game.]]>
+				</description>
+				<pubDate>Sat, 05 Feb 2022 15:55:26 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/2.5.22_By-the-Numbers_Tennessee-UConn_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/2.5.22_By-the-Numbers_Tennessee-UConn_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:37:42 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/mlb&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Dodgers' Brusdar Graterol throws out Wil Myers at home to prevent a run]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f67b15a8000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f67b15a8000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[San Diego Padres' Trent Grisham attempted a safety squeeze but Los Angeles Dodgers' Brusdar Graterol threw out Wil Myers at home, preventing a run from scoring.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 03:19:27 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f67b15a8000711--snap-1665630760490.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f67b15a8000711--snap-1665630760490.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 MLB Playoffs: Braves win Game 2 pitchers' duel to even NLDS]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-braves-win-game-2-pitchers-duel-to-even-nlds</link>
+				<guid>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-braves-win-game-2-pitchers-duel-to-even-nlds</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Braves won a Game 2 pitchers' duel behind Kyle Wright's strong outing and some timely hitting against the Phillies, Deesha Thosar writes.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 20:07:58 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/braves1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/braves1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA['We gotta keep battling' - Matt Olson after Braves victory, tying series with Phillies at 1-1]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f677ad24000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f677ad24000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA['We gotta keep battling' - Matt Olson gave a motivational postgame interview with Ken Rosenthal after the Atlanta Braves' win and tie series 1-1 against the Philadelphia Phillies. ]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 02:43:45 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f677ad24000711--25970871917.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f677ad24000711--25970871917.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Division Series top plays: Braves top Phillies; Padres-Dodgers]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/mlb-division-series-top-plays-braves-top-phillies-padres-dodgers</link>
+				<guid>https://www.foxsports.com/stories/mlb/mlb-division-series-top-plays-braves-top-phillies-padres-dodgers</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Braves look to avoid a 2-0 hole against the Phillies on Wednesday, while the Dodgers try to go up 2-0 against the Padres.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 19:29:08 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.12.22_MLB-Top-Plays_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.12.22_MLB-Top-Plays_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Braves' Austin Riley makes incredible diving grab in foul terriroty against Phillies]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f674cffa000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f674cffa000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Atlanta Braves' Austin Riley made an incredible catch to preserve a 3-0 lead against the Philadelphia Phillies.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 02:21:00 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f674cffa000711--25970488750.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f674cffa000711--25970488750.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Trea Turner blasts a solo home run to bring Dodgers to a 3-3 tie with Padres]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f673b1a2000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f673b1a2000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Los Angeles Dodgers are tied with the San Diego Padres at 3-3 after Trea Turner blasted a solo home run off Yu Darvish.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:51:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f673b1a2000711--25970336250.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f673b1a2000711--25970336250.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Braves score three runs in sixth inning behind RBI singles by Matt Olson, Austin Riley and Travis d'Arnaud]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6722758000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f6722758000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Atlanta Braves scrored three runs with two-out hits from Matt Olson, Austin Riley and Travis d'Arnaud in the sixth inning to put the Braves on the board against the Philadelphia Phillies.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:45:04 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6722758000711--snap-1665625495172.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6722758000711--snap-1665625495172.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Freddie Freeman and Max Muncy both take Yu Darvish deep to give Dodgers a 2-1 lead over Padres]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6714693000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f6714693000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Los Angeles Dodgers took a 2-1 lead over the San Diego Padres after Freddie Freeman and Max Muncy each hit solo home runs off Yu Darvish.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:27:26 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6714693000b87--snap-1665624432733.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6714693000b87--snap-1665624432733.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Braves' Dansby Swanson makes an unreal diving catch against Phillies]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66fe241000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f66fe241000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Atlanta Braves' Dansby Swanson made an unreal diving catch against the Philadelphia Phillies in the top of the sixth inning.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 01:14:38 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66fe241000b87--25969821575.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66fe241000b87--25969821575.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Manny Machado cranks a solo home run to give the Padres a 1-0 lead over the Dodgers]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f66dd620000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f66dd620000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Manny Machado cranks a solo home run to give the San Diego Padres a 1-0 lead over the Los Angeles Dodgers.]]>
+				</description>
+				<pubDate>Thu, 13 Oct 2022 00:48:37 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f66dd620000b87--snap-1665622072233.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f66dd620000b87--snap-1665622072233.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Division Series teams release 26-man rosters]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/mlb-division-series-teams-release-26-man-rosters</link>
+				<guid>https://www.foxsports.com/stories/mlb/mlb-division-series-teams-release-26-man-rosters</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[MLB's remaining eight playoff teams have released their division series rosters. Here's a look at which players are playing.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 16:09:01 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/AcunaYordan.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/AcunaYordan.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Phillies-Braves NLDS Game 2 delayed, still set for Wednesday]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/phillies-braves-nlds-game-2-delayed-still-set-for-wednesday</link>
+				<guid>https://www.foxsports.com/stories/mlb/phillies-braves-nlds-game-2-delayed-still-set-for-wednesday</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Game 2 between the Phillies and Braves has been delayed.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 15:23:41 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/NLDS.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/NLDS.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA['There's a Michael Jordan quality to Clayton Kershaw' — Alex Rodriguez explains | THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f65da1f2000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f65da1f2000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Alex Rodriguez joins Colin Cowherd. A-Rod shares his thoughts on Los Angeles Dodgers Clayton Kershaw's legacy and compares him to Michael Jordan over the years. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 22:15:10 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f65da1f2000b87--herd_kershaw2-1665612550286.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f65da1f2000b87--herd_kershaw2-1665612550286.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Phillies and Braves NLDS game 2: Ken Rosenthal provides updated start time]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f657b999000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f657b999000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ken Rosenthal gave an updated start time of the NLDS  between the Philadelphia Phillies and the Atlanta Braves for game two. Start time is tentative for a 7:30-7:45pm EST.    ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 21:14:51 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f657b999000b87--snap-1665607543721.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f657b999000b87--snap-1665607543721.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB playoff odds: Best Game 2 bets for division round]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/odds-2022-division-round-game-2-best-bets</link>
+				<guid>https://www.foxsports.com/stories/mlb/odds-2022-division-round-game-2-best-bets</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[FOX Sports MLB Betting Analyst Edward Egros aka The Professor, is here to guide you through the MLB Playoffs with his best bets.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 09:07:27 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.10.22_MLBBestBets_Divisional_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.10.22_MLBBestBets_Divisional_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Cringey Dragon promo Kicks off Yankees GM 1 match vs. Guardians | THE CARTON SHOW]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f631ebbb000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f631ebbb000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Last night's MLB playoffs featured some real nail biters, but the show-stealer was TBS's awkward attempt to promote the HBO series House Of The Dragon, where a dragon appeared to hover above Yankee stadium. Craig lays out why this promo was a big flop. ]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 14:55:08 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f631ebbb000b87--1012_MLB-1665585909739.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f631ebbb000b87--1012_MLB-1665585909739.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 MLB Playoffs: Dodgers' unheralded relievers come through in Game 1 win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-dodgers-unheralded-relief-crew-delivers-in-game-1-win</link>
+				<guid>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-dodgers-unheralded-relief-crew-delivers-in-game-1-win</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The superteam Dodgers are turning to an uncertain, unknown group to pitch the later innings. It worked in Game 1 against San Diego, Pedro Moura wrties.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 00:35:17 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/rel2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/rel2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Playoffs: Houston Astros vs. Seattle Mariners ALDS Game 1 Recap | Flippin' Bats]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6087b3e000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f6087b3e000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ben Verlander and Alex Curry react to the Seattle Mariners' Game one loss in the ALDS against the Houston Astros.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 07:20:24 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6087b3e000b87--astros-1665559074902.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6087b3e000b87--astros-1665559074902.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 MLB Playoffs: Trea Turner, Gavin Lux deliver for Dodgers in Game 1]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-trea-turner-gavin-lux-deliver-for-dodgers-in-game-1</link>
+				<guid>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-trea-turner-gavin-lux-deliver-for-dodgers-in-game-1</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[On offense and on defense, the Dodgers' middle infielders led the way to a victory over the Padres in Game 1, Rowan Kavner writes.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 00:16:05 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/lux2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/lux2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Playoffs: Atlanta Braves vs. Philadelphia Phillies NLDS Game 1 Recap | Flippin' Bats]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f60396af000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f60396af000040</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ben Verlander and Alex Curry breakdown the Philadelphia Phillies' win over the Atlanta Braves in game 1 of the NLDS.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 07:14:50 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6043eab0014ab--yanks-1665557029151.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6043eab0014ab--yanks-1665557029151.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Astros' Yordan Alvarez headlines the Top 5 Players from Day 1 of the ALDS/NLDS |Flippin_Bats]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f6088068000711</link>
+				<guid>https://www.foxsports.com/watch/play-5f6088068000711</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ben Verlander gives his list for the Top 5 players from day 1 of the Divisional Series including Los Angeles Dodgers' Trea Turner and Houston Astros' Yordan Alvarez.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 07:13:10 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f6088068000711--top_5-1665558729285.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f6088068000711--top_5-1665558729285.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Playoffs: New York Yankees vs. Cleveland Guardians ALDS Game 1 Recap | Flippin' Bats]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f60bdb0c000b87</link>
+				<guid>https://www.foxsports.com/watch/play-5f60bdb0c000b87</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ben Verlander and Alex Curry react to the New York Yankees' Game one win in the ALDS against the Cleveland Guardians.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 07:03:51 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f60bdb0c000b87--yanks-1665558126966.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f60bdb0c000b87--yanks-1665558126966.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Playoffs: Los Angeles Dodgers vs. San Diego Padres NLDS Game 1 Recap | Flippin' Bats]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f60324da000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f60324da000040</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Ben Verlander and Alex Curry react to the Los Angeles Dodgers' Game one win in the NLDS against the San Diego Padres.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 05:48:53 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f60324da000040--dodgers-1665552517683.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f60324da000040--dodgers-1665552517683.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MLB Divisional Series top plays: Alvarez's walk-off HR leads Astros to win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/mlb-divisional-series-top-plays-alvarezs-walk-off-hr-leads-astros-to-win</link>
+				<guid>https://www.foxsports.com/stories/mlb/mlb-divisional-series-top-plays-alvarezs-walk-off-hr-leads-astros-to-win</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The AL and NL Divisional Series got underway on Tuesday with the Phillies, Astros, Yankees and Dodgers all victorious. Check out the top plays!]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 22:21:51 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/10.10.22_MLB-Top-Plays_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/10.10.22_MLB-Top-Plays_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Trea Turner reflects on the Dodgers NLDS game one win]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f602204d000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f602204d000040</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Trea Turner reflects on the Los Angeles Dodgers NLDS game one win against the San Diego Padres in a post game interview with Tom Verducci.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 05:12:12 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f602204d000040--25954468278.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f602204d000040--25954468278.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 MLB Playoffs: Yankees bullpen comes through, seals Game 1 victory]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-yankees-bullpen-comes-through-seals-game-1-victory</link>
+				<guid>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-yankees-bullpen-comes-through-seals-game-1-victory</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Yankees' bullpen came into the postseason with injuries and absences but got through the Guardians unscathed in Game 1, Jake Mintz writes.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 21:29:13 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/pen1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/pen1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Padres cut the lead down to two after a bang bang play at the plate]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5fce44f000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f5fce44f000040</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[San Diego Padres cut the Los Angeles Dodgers lead down to two after a bang bang play at the plate.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 04:21:51 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5fce44f000040--snap-1665548181103.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5fce44f000040--snap-1665548181103.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 MLB Playoffs: Gerrit Cole sets tone in Yankees' Game 1 ALDS win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-gerrit-cole-sets-tone-in-yankees-game-1-alds-win</link>
+				<guid>https://www.foxsports.com/stories/mlb/2022-mlb-playoffs-gerrit-cole-sets-tone-in-yankees-game-1-alds-win</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Gerrit Cole began his playoff redemption story with a strong outing Tuesday to put the Yankees up 1-0 on the Guardians in the ALDS, Deesha Thosar writes.]]>
+				</description>
+				<pubDate>Tue, 11 Oct 2022 21:02:35 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/283fe708-cole2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/128/72/283fe708-cole2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Trea Turner solo home run puts the Dodgers on top 1-0]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5f09b3d0014ab</link>
+				<guid>https://www.foxsports.com/watch/play-5f5f09b3d0014ab</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Los Angeles Dodgers' Trea Turner launches a solo home run to take a 1-0 lead over the San Diego Padres.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 02:02:31 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5f09b3d0014ab--snap-1665540098195.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5f09b3d0014ab--snap-1665540098195.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Anthony Rizzo hits a two-run home run to bring the Yankees to a 4-1 lead over the Guardians]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5f5eec5f2000040</link>
+				<guid>https://www.foxsports.com/watch/play-5f5eec5f2000040</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Anthony Rizzo hits a two-run home run to bring the New York Yankees to a 4-1 lead over the Cleveland Guardians in the sixth inning.]]>
+				</description>
+				<pubDate>Wed, 12 Oct 2022 01:42:12 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5f5eec5f2000040--snap-1665538838242.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5f5eec5f2000040--snap-1665538838242.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

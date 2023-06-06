@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:38:51 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/nhl&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[12 longest active playoff droughts in NFL, NBA, MLB, NHL]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/12-longest-active-playoff-droughts-in-nfl-nba-mlb-nhl</link>
+				<guid>https://www.foxsports.com/stories/mlb/12-longest-active-playoff-droughts-in-nfl-nba-mlb-nhl</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[The Mariners no longer own the longest streak without a playoff appearance among the four major sports leagues.]]>
+				</description>
+				<pubDate>Sat, 01 Oct 2022 06:30:23 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/09.30.22_Longest-Playoff-Droughts-in-Sports_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/128/72/09.30.22_Longest-Playoff-Droughts-in-Sports_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Quiet period in sports? It depends where you look]]>
+				</title>
+				<link>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</link>
+				<guid>https://www.foxsports.com/stories/mlb/quiet-period-in-sports-it-depends-where-you-look</guid>
+				<category>mlb</category>
+				<description>
+				    <![CDATA[Aside from the MLB All-Star Game, it seems quiet in sports. You have to know where to look, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 18 Jul 2022 13:40:11 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.18.22_EuroSport_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.18.22_EuroSport_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Canadiens take Juraj Slafkovsky with first pick in NHL draft]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/canadiens-take-juraj-slafkovsky-with-first-pick-in-nhl-draft</link>
+				<guid>https://www.foxsports.com/stories/nhl/canadiens-take-juraj-slafkovsky-with-first-pick-in-nhl-draft</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[Juraj Slafkovsky surpassed Marian Gaborik as the highest-drafted player from Slovakia after going No. 1 on Thursday.]]>
+				</description>
+				<pubDate>Thu, 07 Jul 2022 17:19:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/canadiens-77.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/canadiens-77.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL odds: Every team's 2022-23 Stanley Cup title futures]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/nhl-odds-every-teams-2022-23-stanley-cup-title-futures</link>
+				<guid>https://www.foxsports.com/stories/nhl/nhl-odds-every-teams-2022-23-stanley-cup-title-futures</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[With the Stanley Cup Final in the books, we take a look at FOX Bet's odds for who will hoist the trophy after the 2023 season.]]>
+				</description>
+				<pubDate>Sun, 03 Jul 2022 20:51:57 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.26.2022_How-to-bet-2022-2023-stanley-cup-odds_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.26.2022_How-to-bet-2022-2023-stanley-cup-odds_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sports odds: How Stan Kroenke's run of titles paid off for bettors]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/sports-odds-how-kroenkes-run-of-titles-paid-off-for-bettors</link>
+				<guid>https://www.foxsports.com/stories/nhl/sports-odds-how-kroenkes-run-of-titles-paid-off-for-bettors</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[Looking for Stan Kroenke? Check the championship trophy ceremony for a professional sports team.]]>
+				</description>
+				<pubDate>Tue, 28 Jun 2022 15:10:50 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/6.28.22_Stan-Kroenke-has-greatest-run-as-team-owner-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/6.28.22_Stan-Kroenke-has-greatest-run-as-team-owner-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL Stanley Cup Final 2022 odds: Results, picks]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/odds-stanley-cup-final-lines-pick</link>
+				<guid>https://www.foxsports.com/stories/nhl/odds-stanley-cup-final-lines-pick</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[Here are the results for the Stanley Cup Final between Tampa Bay and Colorado.]]>
+				</description>
+				<pubDate>Sun, 26 Jun 2022 20:32:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.11.22_How-to-Bet-Stanley-Cup-Finals_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.11.22_How-to-Bet-Stanley-Cup-Finals_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Avalanche dethrone Lightning to win Stanley Cup for 3rd time]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/avalanche-dethrone-lightning-to-win-stanley-cup-for-3rd-time</link>
+				<guid>https://www.foxsports.com/stories/nhl/avalanche-dethrone-lightning-to-win-stanley-cup-for-3rd-time</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Avalanche won their third Stanley Cup in franchise history, dethroning the two-time defending champion Lightning in the process.]]>
+				</description>
+				<pubDate>Sun, 26 Jun 2022 20:18:40 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/6.27.22_AvalancheDethrone-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/6.27.22_AvalancheDethrone-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Michael Rubin selling ownership stake in Philadelphia 76ers, New Jersey Devils]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/michael-rubin-selling-ownership-stake-in-philadelphia-76ers-new-jersey-devils</link>
+				<guid>https://www.foxsports.com/stories/nba/michael-rubin-selling-ownership-stake-in-philadelphia-76ers-new-jersey-devils</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[Michael Rubin is giving up his part-ownership of the Sixers and Devils to focus on his role at Fanatics. Yaron Weitzman shares what it means.]]>
+				</description>
+				<pubDate>Wed, 22 Jun 2022 06:51:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.20.22_Michael-Rubin-selling-Sixers-shares_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.20.22_Michael-Rubin-selling-Sixers-shares_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final 2022: Lightning, Avs set for huge showdown]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/stanley-cup-final-2022-lightning-avalanche-set-for-huge-showdown</link>
+				<guid>https://www.foxsports.com/stories/nhl/stanley-cup-final-2022-lightning-avalanche-set-for-huge-showdown</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The 2022 Stanley Cup Final will be a heavyweight battle. Here are the questions that will shape who wins the Stanley Cup.]]>
+				</description>
+				<pubDate>Tue, 14 Jun 2022 08:04:44 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.13.22_StanleyCupPreview_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.13.22_StanleyCupPreview_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL odds: Conference semifinals odds, results, picks]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/odds-conference-semifinals</link>
+				<guid>https://www.foxsports.com/stories/nhl/odds-conference-semifinals</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[Here's a look at the point spreads, moneylines and over/unders for the NHL conference semifinals.]]>
+				</description>
+				<pubDate>Mon, 30 May 2022 19:48:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/4.30.22_How-to-Bet-Stanley-Cup-Playoffs_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/4.30.22_How-to-Bet-Stanley-Cup-Playoffs_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL odds: Lines, picks, results for Stanley Cup playoffs]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/odds-lines-for-stanley-cup</link>
+				<guid>https://www.foxsports.com/stories/nhl/odds-lines-for-stanley-cup</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[FOX Bet's AJ Devine breaks down the Stanley Cup playoffs, and picks a dark horse to hoist the Cup.]]>
+				</description>
+				<pubDate>Sun, 15 May 2022 22:09:50 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/4.30.22_How-to-Bet-Stanley-Cup-Playoffs_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/4.30.22_How-to-Bet-Stanley-Cup-Playoffs_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL odds: Favorites ice competition in historic weekend]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/odds-favorites-go-22-0-over-weekend</link>
+				<guid>https://www.foxsports.com/stories/nhl/odds-favorites-go-22-0-over-weekend</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[NHL bettors who played the favorites cashed in big this past weekend. Read about the rare occurrence and thoughts from oddsmakers.]]>
+				</description>
+				<pubDate>Mon, 18 Apr 2022 16:37:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/4.18.22_NHL-Favorites-Undefeated-Over-the-Weekend_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/04/128/72/4.18.22_NHL-Favorites-Undefeated-Over-the-Weekend_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL Odds: Lines, betting on who skates away with Hart Trophy]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/odds-lines-betting-on-who-wins-hart-trophy</link>
+				<guid>https://www.foxsports.com/stories/nhl/odds-lines-betting-on-who-wins-hart-trophy</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[Now that football is over, it's time to take a look at the NHL! Let's jump into the odds to see who will win this year's Hart Trophy.]]>
+				</description>
+				<pubDate>Thu, 24 Feb 2022 13:43:38 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/02.24.22_Odds-for-Hart-Trophy_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/02.24.22_Odds-for-Hart-Trophy_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL odds: How to bet hockey games, lines for Stanley Cup]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/nhl-odds-how-to-bet-hockey-games-lines-for-stanley-cup</link>
+				<guid>https://www.foxsports.com/stories/nhl/nhl-odds-how-to-bet-hockey-games-lines-for-stanley-cup</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Super Bowl has come and gone, so it's time to wager on the NHL! Here's a look at how to bet on NHL games, and Stanley Cup odds.]]>
+				</description>
+				<pubDate>Mon, 21 Feb 2022 15:43:52 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/02.21.22_How-to-Bet-on-the-NHL_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/128/72/02.21.22_How-to-Bet-on-the-NHL_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[COVID-19 updates: Record 96 NFL players test positive]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/covid-19-hits-several-nfl-and-nba-teams-across-the-united-states</link>
+				<guid>https://www.foxsports.com/stories/nfl/covid-19-hits-several-nfl-and-nba-teams-across-the-united-states</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[The NFL reportedly had a record 96 players test positive for COVID-19 on Monday. Here's the latest.]]>
+				</description>
+				<pubDate>Tue, 28 Dec 2021 15:06:20 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/12.22.21_COVID-Tracker-update_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/128/72/12.22.21_COVID-Tracker-update_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[COVID-19's impact on sports: Is this our new normal?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/covid-19s-impact-on-sports-is-this-our-new-normal</link>
+				<guid>https://www.foxsports.com/stories/nfl/covid-19s-impact-on-sports-is-this-our-new-normal</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[COVID-19 is once again impacting the sports world, leaving the long-term picture unclear, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 20 Dec 2021 14:00:26 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/815_Newsletter_1920x1080_StoryCard_COVID.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/128/72/815_Newsletter_1920x1080_StoryCard_COVID.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Crypto.com Arena? Many are already refusing to let 'Staples Center' go]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/staples-center-crypto-com-arena-los-angeles-lakers-la-clippers-los-angeles-kings-los-angeles-sparks</link>
+				<guid>https://www.foxsports.com/stories/nba/staples-center-crypto-com-arena-los-angeles-lakers-la-clippers-los-angeles-kings-los-angeles-sparks</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[The Staples Center will become Crypto.com Arena on Christmas Day. But most fans are unwelcoming of the unexpected change.]]>
+				</description>
+				<pubDate>Wed, 17 Nov 2021 16:12:06 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/11.17.21_No-More-Staples_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/128/72/11.17.21_No-More-Staples_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NHL 2021-22 Season Preview: Kraken released, Lightning hoping to strike thrice]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/nhl-2021-22-season-preview-kraken-released-lightning-hoping-to-strike-thrice</link>
+				<guid>https://www.foxsports.com/stories/nhl/nhl-2021-22-season-preview-kraken-released-lightning-hoping-to-strike-thrice</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[As we preview the 2021-22 NHL season, all eyes are on Seattle's new franchise and Tampa Bay's bid for a three-peat.]]>
+				</description>
+				<pubDate>Mon, 11 Oct 2021 08:10:12 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/10.10.21_NHL-Season-Preview-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/128/72/10.10.21_NHL-Season-Preview-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[In wake of NHL expansion draft, Seattle Kraken have cap space to address needs]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/seattle-kraken-nhl-expansion-draft-what-next</link>
+				<guid>https://www.foxsports.com/stories/nhl/seattle-kraken-nhl-expansion-draft-what-next</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Seattle Kraken have themselves a roster, but the new NHL franchise still has work to do ahead of its maiden voyage.]]>
+				</description>
+				<pubDate>Thu, 22 Jul 2021 18:39:49 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/07.22.21_Whats-Next-For-The-Kraken_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/07.22.21_Whats-Next-For-The-Kraken_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Seattle Kraken's roster will come to life with Wednesday's NHL expansion draft]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/seattle-kraken-nhl-expansion-draft-what-to-know</link>
+				<guid>https://www.foxsports.com/stories/nhl/seattle-kraken-nhl-expansion-draft-what-to-know</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Seattle Kraken will officially add their first players during Wednesday's NHL expansion draft. Here's how it works.]]>
+				</description>
+				<pubDate>Wed, 21 Jul 2021 07:38:10 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.19.21_-NHL-Expansion-Draft_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.19.21_-NHL-Expansion-Draft_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Top moments from Lightning clinching Stanley Cup title]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-5</link>
+				<guid>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-5</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Lightning defeated the Canadiens in Game 5 to claim their second consecutive Stanley Cup title. Here are the top moments.]]>
+				</description>
+				<pubDate>Wed, 07 Jul 2021 18:16:50 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/GettyImages-1327563395new.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/GettyImages-1327563395new.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Top moments from Lightning-Canadiens Game 4]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-4</link>
+				<guid>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-4</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Canadiens stayed alive in the Stanley Cup Final by beating the Lightning 3-2 in OT in Game 4. Here are the top moments.]]>
+				</description>
+				<pubDate>Mon, 05 Jul 2021 20:24:55 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/habs-wide-070521.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/habs-wide-070521.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The sports world celebrates Fourth of July]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/fourth-of-july-celebrations-sports-world-july-4-2021</link>
+				<guid>https://www.foxsports.com/stories/other/fourth-of-july-celebrations-sports-world-july-4-2021</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Fire up the grill, and settle in for some fireworks. Here's how leagues, teams and athletes celebrated Independence Day!]]>
+				</description>
+				<pubDate>Sun, 04 Jul 2021 10:14:25 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.4.21_Sports-World-Celebrates-4th-of-July-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.4.21_Sports-World-Celebrates-4th-of-July-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Top moments from Lightning vs. Canadiens Game 3]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/montreal-canadiens-tampa-bay-lightning-game-3-top-moments-stanley-cup-final</link>
+				<guid>https://www.foxsports.com/stories/nhl/montreal-canadiens-tampa-bay-lightning-game-3-top-moments-stanley-cup-final</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Tampa Bay Lightning are one win away from repeating as champions after a convincing Game 3 win over the Canadiens.]]>
+				</description>
+				<pubDate>Fri, 02 Jul 2021 19:02:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/Lightning.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/Lightning.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Can the Montreal Canadiens end a 28-year drought?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/montreal-canadiens-28-year-drought-stanley-cup-finals</link>
+				<guid>https://www.foxsports.com/stories/nhl/montreal-canadiens-28-year-drought-stanley-cup-finals</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[It has been 28 years since a Canadian team won the Stanley Cup, Martin Rogers writes. Can the Canadiens end that streak?]]>
+				</description>
+				<pubDate>Fri, 02 Jul 2021 15:27:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/GettyImages-1326012369new.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/GettyImages-1326012369new.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Top moments from Canadiens vs. Lightning Game 2]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/montreal-canadiens-tampa-bay-lightning-game-2-top-moments-stanley-cup-final</link>
+				<guid>https://www.foxsports.com/stories/nhl/montreal-canadiens-tampa-bay-lightning-game-2-top-moments-stanley-cup-final</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Lightning and Canadiens battled it out in Game 2 of the Stanley Cup Final. Here are the top moments of Tampa Bay's 3-1 win.]]>
+				</description>
+				<pubDate>Wed, 30 Jun 2021 18:03:35 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/GettyImages-1326012369new.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/GettyImages-1326012369new.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Herd Hierarchy: Colin Cowherd picks his top 10 sports sidekicks]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/colin-cowherd-top-10-sidekicks-scottie-pippen-kobe-bryant-dwyane-wade-jerry-rice</link>
+				<guid>https://www.foxsports.com/stories/nba/colin-cowherd-top-10-sidekicks-scottie-pippen-kobe-bryant-dwyane-wade-jerry-rice</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[What is a Batman without a Robin? From Pippen to Kobe, Colin Cowherd ranks the 10 greatest sports sidekicks of all time.]]>
+				</description>
+				<pubDate>Wed, 30 Jun 2021 05:32:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/The-Herd_KobeJerryMark_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/The-Herd_KobeJerryMark_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stanley Cup Final: Top moments from Montreal Canadiens vs. Tampa Bay Lightning Game 1]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-1</link>
+				<guid>https://www.foxsports.com/stories/nhl/stanley-cup-final-top-moments-montreal-canadiens-tampa-bay-lightning-game-1</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[The Tampa Bay Lightning were impressive in Game 1 of the Stanley Cup Final, beating Montreal 5-1. Here are the top moments.]]>
+				</description>
+				<pubDate>Mon, 28 Jun 2021 21:03:34 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/cup-wide-2-062821.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/cup-wide-2-062821.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Everything you need to know: Canadiens look to upset Lightning in 2021 Stanley Cup Final]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/tampa-bay-lightning-montreal-canadiens-stanley-cup-final-2021-preview-schedule</link>
+				<guid>https://www.foxsports.com/stories/nhl/tampa-bay-lightning-montreal-canadiens-stanley-cup-final-2021-preview-schedule</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[It's the underdog Canadiens against the reigning champion Lightning when the Stanley Cup Final begins Monday.]]>
+				</description>
+				<pubDate>Sun, 27 Jun 2021 16:24:13 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/Stanley_Cup_Finals_Preview_16x9-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/Stanley_Cup_Finals_Preview_16x9-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[New York Islanders' Nassau Coliseum is the last barn in major American sports]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nhl/nhl-new-york-islanders-nassau-coliseum-barn-stanley-cup-playoffs</link>
+				<guid>https://www.foxsports.com/stories/nhl/nhl-new-york-islanders-nassau-coliseum-barn-stanley-cup-playoffs</guid>
+				<category>nhl</category>
+				<description>
+				    <![CDATA[When the New York Islanders' captivating post-season run ends, so too will the NHL's connection to storied Nassau Coliseum.]]>
+				</description>
+				<pubDate>Thu, 17 Jun 2021 10:50:08 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/isles-old-barn-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/06/128/72/isles-old-barn-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

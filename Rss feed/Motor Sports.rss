@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:37:22 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/indycar,fs/formula-1&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Jimmie Johnson on his interest in Coke 600 - Indy 500 double]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5ee9a25a5000e7b</link>
+				<guid>https://www.foxsports.com/watch/play-5ee9a25a5000e7b</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Jimmie Johnson announced Monday he wouldn’t race full time in 2023 and expressed some interest in an Indy 500-Coke 600 double. Bob Pockrass asks him Tuesday about whether he has any manufacturer restrictions and any concerns about the Next Gen car. What he said:]]>
+				</description>
+				<pubDate>Tue, 27 Sep 2022 20:09:59 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5ee9a25a5000e7b--snap-1664309350358.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5ee9a25a5000e7b--snap-1664309350358.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jimmie Johnson isn't racing full-time but says "my options are open"]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nascar/jimmie-johnson-isnt-racing-full-time-but-says-my-options-are-open</link>
+				<guid>https://www.foxsports.com/stories/nascar/jimmie-johnson-isnt-racing-full-time-but-says-my-options-are-open</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Johnson has enjoyed the freedom to pick and choose where he races. His next pick could include a return to NASCAR, Bob Pockrass writes.]]>
+				</description>
+				<pubDate>Tue, 27 Sep 2022 08:43:36 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/GettyImages-1240822848.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/128/72/GettyImages-1240822848.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Could we see Kyle Busch in the 2023 Indy 500?]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5e75649ca000042</link>
+				<guid>https://www.foxsports.com/watch/play-5e75649ca000042</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[What Kyle Busch said — now that he will be a Chevrolet driver — on potentially racing in the Indianapolis 500]]>
+				</description>
+				<pubDate>Tue, 13 Sep 2022 17:54:13 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5e75649ca000042--snap-1663091571529.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5e75649ca000042--snap-1663091571529.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kimi Räikkönen day ends early after wreck in Stage 2 at Watkins Glen]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5db98d9b700177c</link>
+				<guid>https://www.foxsports.com/watch/play-5db98d9b700177c</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Kimi Räikkönen makes contact with several drivers resulting in Räikkönen's Cup debut coming to a an end in Stage 2 of Sunday's Cup race at Watkins Glen]]>
+				</description>
+				<pubDate>Sun, 21 Aug 2022 23:22:31 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5db98d9b700177c--25020893645.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5db98d9b700177c--25020893645.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Who is Indy 500 winner Marcus Ericsson?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nascar/who-is-indy-500-winner-marcus-ericsson</link>
+				<guid>https://www.foxsports.com/stories/nascar/who-is-indy-500-winner-marcus-ericsson</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Bob Pockrass chatted with Indy 500 winner Marcus Ericsson about how he got this far and what's next.]]>
+				</description>
+				<pubDate>Tue, 31 May 2022 14:08:00 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/5.31.22_QandA-with-Marcus-Ericsson-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/5.31.22_QandA-with-Marcus-Ericsson-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Swedish driver Ericsson gives Ganassi another Indy 500 win]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/swedish-driver-ericsson-gives-ganassi-another-indy-500-win</link>
+				<guid>https://www.foxsports.com/stories/motor/swedish-driver-ericsson-gives-ganassi-another-indy-500-win</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Marcus Ericsson had to leave Formula One to become a global superstar — a goal achieved Sunday when he won the Indianapolis 500.]]>
+				</description>
+				<pubDate>Sun, 29 May 2022 13:20:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/indy-wide-052922.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/indy-wide-052922.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[IndyCar odds: How to bet Indy 500, lines]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indycar-odds-how-to-bet-indy-500</link>
+				<guid>https://www.foxsports.com/stories/motor/indycar-odds-how-to-bet-indy-500</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Here are the pre-race odds at FOX Bet for Sunday's Indy 500, the 'Greatest Spectacle in racing'.]]>
+				</description>
+				<pubDate>Sun, 29 May 2022 06:57:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/05.23.22_How-to-Bet-Indy-500_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/05.23.22_How-to-Bet-Indy-500_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Formula 1 setting new bar in sports innovation]]>
+				</title>
+				<link>https://www.foxsports.com/stories/other/formula-1-setting-new-bar-in-sports-innovation</link>
+				<guid>https://www.foxsports.com/stories/other/formula-1-setting-new-bar-in-sports-innovation</guid>
+				<category>other</category>
+				<description>
+				    <![CDATA[Every league looks at how to spruce things up for the modern fan, and F1 is showing that it works, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Mon, 09 May 2022 13:56:41 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/05.09.22_F1Popularity_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/05.09.22_F1Popularity_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Lewis Hamilton's historic dominance of F1 truly unprecedented]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/lewis-hamiltons-historic-dominance-of-f1-truly-unprecedented</link>
+				<guid>https://www.foxsports.com/stories/motor/lewis-hamiltons-historic-dominance-of-f1-truly-unprecedented</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Lewis Hamilton's dominance of F1 is even more impressive than what MJ, Tiger or Ali accomplished. RJ Young explains why.]]>
+				</description>
+				<pubDate>Fri, 06 May 2022 10:22:32 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/HamiltonWide.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/128/72/HamiltonWide.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Titus O'Neil & The Miz visit the Indy 500]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1903377475621</link>
+				<guid>https://www.foxsports.com/watch/1903377475621</guid>
+				<category>wwe</category>
+				<description>
+				    <![CDATA[Titus O’Neil & The Miz visit the Indy 500]]>
+				</description>
+				<pubDate>Mon, 31 May 2021 15:00:00 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/675/219/DSC03212--b85f202e2ec2ca3c6087a02807d9177a_350x197_1903381571570.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/675/219/128/72/DSC03212--b85f202e2ec2ca3c6087a02807d9177a_350x197_1903381571570.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Sports world remembers George Floyd one year after his death]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nba/george-floyd-anniversary-sports-world-reaction</link>
+				<guid>https://www.foxsports.com/stories/nba/george-floyd-anniversary-sports-world-reaction</guid>
+				<category>nba</category>
+				<description>
+				    <![CDATA[On the one-year anniversary of George Floyd's murder, leagues, teams and athletes shared tributes on social media.]]>
+				</description>
+				<pubDate>Tue, 25 May 2021 16:44:02 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/05252021_GEORGE_FLOYD_PI.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/05/128/72/05252021_GEORGE_FLOYD_PI.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[LaVar Arrington: Colts won Carson Wentz trade; Indy has more talent & a more complete team ' FIRST THINGS FIRST]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1863744579993</link>
+				<guid>https://www.foxsports.com/watch/1863744579993</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[LaVar Arrington and Greg Jennings dive into the news of the Philadelphia Eagles trading Carson Wentz to the Indianapolis Colts. LaVar feels the Colts won the trade as Indy has more talent & is a more complete team as a whole.]]>
+				</description>
+				<pubDate>Fri, 19 Feb 2021 17:15:42 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/766/347/wentzftf.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/766/347/128/72/wentzftf.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hamilton Honors Boseman in Belgium]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/hamilton-honors-boseman-in-belgium</link>
+				<guid>https://www.foxsports.com/stories/motor/hamilton-honors-boseman-in-belgium</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[F1 superstar Lewis Hamilton paid his respects to Chadwick Boseman the best way he knew possible: by breaking records.]]>
+				</description>
+				<pubDate>Sat, 29 Aug 2020 09:26:12 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/GettyImages-1269511720.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/128/72/GettyImages-1269511720.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Indy Interest]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nascar/indy-interest</link>
+				<guid>https://www.foxsports.com/stories/nascar/indy-interest</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Conditions are ripe for more NASCAR drivers to delve into the world of IndyCar, writes Bob Pockrass.]]>
+				</description>
+				<pubDate>Thu, 20 Aug 2020 07:26:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/GettyImages-1165761316.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/128/72/GettyImages-1165761316.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Mario Andretti Joins 'Off Track']]>
+				</title>
+				<link>https://www.foxsports.com/stories/nascar/mario-andretti-joins-off-track</link>
+				<guid>https://www.foxsports.com/stories/nascar/mario-andretti-joins-off-track</guid>
+				<category>nascar</category>
+				<description>
+				    <![CDATA[Racing legend Mario Andretti sat down with Jamie Little to take a look back at his illustrious Formula 1 and NASCAR career.]]>
+				</description>
+				<pubDate>Wed, 19 Aug 2020 11:17:58 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/andretti.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/128/72/andretti.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hamilton Loses Tire, Wins British GP]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/hamilton-loses-tire-wins-british-gp</link>
+				<guid>https://www.foxsports.com/stories/motor/hamilton-loses-tire-wins-british-gp</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Lewis Hamilton lost a tire on the final lap of the British GP, sending sparks flying in a dramatic finish.]]>
+				</description>
+				<pubDate>Sun, 02 Aug 2020 11:26:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/08022020_LEWIS_HAMILTON_PI.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/08/128/72/08022020_LEWIS_HAMILTON_PI.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Formula 1 cancels races in Azerbaijan, Singapore, Japan]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/formula-1-cancels-races-in-azerbaijan-singapore-japan</link>
+				<guid>https://www.foxsports.com/stories/motor/formula-1-cancels-races-in-azerbaijan-singapore-japan</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Formula One races in Azerbaijan, Singapore and Japan have been canceled because of issues arising from the coronavirus pandemic]]>
+				</description>
+				<pubDate>Fri, 12 Jun 2020 04:55:55 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/59943bce477647688c45d022516cd223-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/59943bce477647688c45d022516cd223-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hamilton a big sporting voice in Black Lives Matter movement]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/hamilton-a-big-sporting-voice-in-black-lives-matter-movement</link>
+				<guid>https://www.foxsports.com/stories/motor/hamilton-a-big-sporting-voice-in-black-lives-matter-movement</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Formula One champion Lewis Hamilton has been campaigning passionately against racial injustice in the aftermath of the death of George Floyd]]>
+				</description>
+				<pubDate>Mon, 08 Jun 2020 09:05:11 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/59943bce477647688c45d022516cd223.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/59943bce477647688c45d022516cd223.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[IndyCar gets through well-screened, delayed opener in Texas]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indycar-gets-through-well-screened-delayed-opener-in-texas</link>
+				<guid>https://www.foxsports.com/stories/motor/indycar-gets-through-well-screened-delayed-opener-in-texas</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[There was plenty of uncertainty for IndyCar after more than eight months without a race]]>
+				</description>
+				<pubDate>Sun, 07 Jun 2020 17:03:11 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/6c2d5c4606924b52b6aa6e1c33659676.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/6c2d5c4606924b52b6aa6e1c33659676.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Back on track: IndyCar delayed debut all-in-one Texas affair]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/back-on-track-indycar-delayed-debut-all-in-one-texas-affair</link>
+				<guid>https://www.foxsports.com/stories/motor/back-on-track-indycar-delayed-debut-all-in-one-texas-affair</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[IndyCar drivers are feeling a little more normal since it is finally time to race again]]>
+				</description>
+				<pubDate>Fri, 05 Jun 2020 16:03:10 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/92d4b62c874a49e78c1c63a165a891d5.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/92d4b62c874a49e78c1c63a165a891d5.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[IndyCar drivers uncertain how aeroscreen will work at Texas]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indycar-drivers-uncertain-how-aeroscreen-will-work-at-texas</link>
+				<guid>https://www.foxsports.com/stories/motor/indycar-drivers-uncertain-how-aeroscreen-will-work-at-texas</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Some IndyCar drivers are nervous heading into Saturday's season-opening race at Texas]]>
+				</description>
+				<pubDate>Fri, 05 Jun 2020 02:26:09 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/955bd86d14ad4533af888aeca5d70074.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/955bd86d14ad4533af888aeca5d70074.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[AUTO RACING: Auto Racing Glance]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/auto-racing-auto-racing-glance</link>
+				<guid>https://www.foxsports.com/stories/motor/auto-racing-auto-racing-glance</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Kevin Harvick will look to maintain his consistency when NASCAR's Cup Series moves to Atlanta Motor Speedway this weekend]]>
+				</description>
+				<pubDate>Wed, 03 Jun 2020 15:31:10 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/68326717e1bf45a9b49dbe978dd7f3f4.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/68326717e1bf45a9b49dbe978dd7f3f4.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[F1 says racing will continue if driver tests positive]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/f1-says-racing-will-continue-if-driver-tests-positive</link>
+				<guid>https://www.foxsports.com/stories/motor/f1-says-racing-will-continue-if-driver-tests-positive</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Formula One CEO Chase Carey says races won’t be canceled if a driver tests positive for the coronavirus or if a team withdraws]]>
+				</description>
+				<pubDate>Wed, 03 Jun 2020 05:54:10 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/009e8d75b607445c9f9c11588da1abea.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/009e8d75b607445c9f9c11588da1abea.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[IndyCar restart at Texas before another month to race again]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indycar-restart-at-texas-before-another-month-to-race-again</link>
+				<guid>https://www.foxsports.com/stories/motor/indycar-restart-at-texas-before-another-month-to-race-again</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[IndyCar drivers were already in sunny Florida to start their season around spring break]]>
+				</description>
+				<pubDate>Tue, 02 Jun 2020 19:53:09 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/915d2057124e45609013051137970703.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/915d2057124e45609013051137970703.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[F1 teams limited to a $145 million budget cap from next year]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/f1-teams-limited-to-a-145-million-budget-cap-from-next-year</link>
+				<guid>https://www.foxsports.com/stories/motor/f1-teams-limited-to-a-145-million-budget-cap-from-next-year</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[F1 teams limited to a $145 million budget cap from next year]]>
+				</description>
+				<pubDate>Thu, 28 May 2020 00:17:08 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/52e9ad67-c2b9a4df514e4321b600731db651f157.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/52e9ad67-c2b9a4df514e4321b600731db651f157.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Keselowski wins 600 to extend Johnson's losing streak]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/keselowski-wins-600-to-extend-johnsons-losing-streak</link>
+				<guid>https://www.foxsports.com/stories/motor/keselowski-wins-600-to-extend-johnsons-losing-streak</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[Keselowski wins 600 to extend Johnson's losing streak]]>
+				</description>
+				<pubDate>Mon, 25 May 2020 02:08:12 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/aed2b9df59184bb8a6a5ec758c70873e.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/aed2b9df59184bb8a6a5ec758c70873e.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Postponed Indy 500 puts short-track drivers in spotlight]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/postponed-indy-500-puts-short-track-drivers-in-spotlight</link>
+				<guid>https://www.foxsports.com/stories/motor/postponed-indy-500-puts-short-track-drivers-in-spotlight</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[The roaring engines and flying dirt pellets briefly brought Gas City I-69 Speedway back to life]]>
+				</description>
+				<pubDate>Sun, 24 May 2020 20:24:12 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/15ab8cad455e4374b9f773b0bcd5677a.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/15ab8cad455e4374b9f773b0bcd5677a.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NASCAR all alone on motorsports biggest day of racing]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/nascar-all-alone-on-motorsports-biggest-day-of-racing</link>
+				<guid>https://www.foxsports.com/stories/motor/nascar-all-alone-on-motorsports-biggest-day-of-racing</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[The Monaco Grand Prix has been canceled]]>
+				</description>
+				<pubDate>Sat, 23 May 2020 15:00:09 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/96abb9ef25e24c77b55416cf1397048c.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/96abb9ef25e24c77b55416cf1397048c.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Indy 500 winners pick the greatest drivers, race and more]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indy-500-winners-pick-the-greatest-drivers-race-and-more</link>
+				<guid>https://www.foxsports.com/stories/motor/indy-500-winners-pick-the-greatest-drivers-race-and-more</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[A 2016 survey of Indianapolis 500 winners found a host of interesting choices]]>
+				</description>
+				<pubDate>Sat, 23 May 2020 12:03:08 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/8b1a713a69f94ecdbbfa2f1bfc01da5a.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/8b1a713a69f94ecdbbfa2f1bfc01da5a.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Indy 500 winners pick their favorite 'Spectacle' of all time]]>
+				</title>
+				<link>https://www.foxsports.com/stories/motor/indy-500-winners-pick-their-favorite-spectacle-of-all-time</link>
+				<guid>https://www.foxsports.com/stories/motor/indy-500-winners-pick-their-favorite-spectacle-of-all-time</guid>
+				<category>motor</category>
+				<description>
+				    <![CDATA[The Associated Press has updated its survey of living Indianapolis 500 winners and their pick as the greatest race in the long history of the event]]>
+				</description>
+				<pubDate>Sat, 23 May 2020 12:02:08 -0400</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/f5b70c86793f403f950ef75234dd4e40.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/06/128/72/f5b70c86793f403f950ef75234dd4e40.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

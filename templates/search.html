@@ -1,0 +1,12 @@
+{% include 'header.html' %}
+
+{% for i in search1 %}
+<h1>{{forloop.counter}}</h1>
+<a href={% url 'blog' i.blog_url %}><p>{{i.title}}</p></a>
+{% endfor %}
+{% for i in search2 %}
+<h1>{{forloop.counter}}</h1>
+<a href={% url 'blog' i.blog_url %}><p>{{i.title}}</p></a>
+{% endfor %}
+
+{% include 'footer.html' %}

@@ -1,0 +1,469 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:35:11 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/usfl&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Browns DE and USFL DPOY Chris Odom suffers torn ACL]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/browns-chris-odom-usfl-star-suffers-season-ending-knee-injury</link>
+				<guid>https://www.foxsports.com/stories/nfl/browns-chris-odom-usfl-star-suffers-season-ending-knee-injury</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Browns defensive end Chris Odom, the former USFL Defensive Player of the Year, suffered a season-ending knee injury Saturday.]]>
+				</description>
+				<pubDate>Sun, 28 Aug 2022 14:26:51 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/odom16.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/odom16.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL signings from USFL tracker: Here's who made 53-man rosters]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/tracker-nfl-signings-from-usfl-players</link>
+				<guid>https://www.foxsports.com/stories/usfl/tracker-nfl-signings-from-usfl-players</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The USFL has seen a number of players sign with NFL teams. We've got the latest here!]]>
+				</description>
+				<pubDate>Wed, 24 Aug 2022 14:08:24 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.24.22_USFL-NFL-Player-Tracker-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.24.22_USFL-NFL-Player-Tracker-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Cowboys WR KaVontae Turpin drawing Deion Sanders comparisons]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/cowboys-wr-kavontae-turpin-drawing-deion-sanders-comparisons</link>
+				<guid>https://www.foxsports.com/stories/nfl/cowboys-wr-kavontae-turpin-drawing-deion-sanders-comparisons</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[KaVontae Turpin drew "Prime Time" comparisons after his performance in the Cowboys' preseason win over the Chargers.]]>
+				</description>
+				<pubDate>Mon, 22 Aug 2022 14:52:20 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.22.22_KaVontae-Turpin-Reax_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.22.22_KaVontae-Turpin-Reax_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Cowboys' Turpin, fresh off USFL MVP, stars on special teams]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/cowboys-turpin-fresh-off-usfl-mvp-stars-on-special-teams</link>
+				<guid>https://www.foxsports.com/stories/nfl/cowboys-turpin-fresh-off-usfl-mvp-stars-on-special-teams</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[USFL MVP KaVontae Turpin dazzled for the Cowboys on Saturday, torching the Chargers for two special-teams touchdowns.]]>
+				</description>
+				<pubDate>Sat, 20 Aug 2022 21:58:12 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.21.22_KaVontae-Turpin-shines-for-Cowboys_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.21.22_KaVontae-Turpin-shines-for-Cowboys_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[MVP KaVontae Turpin, QB Kyle Sloter among 21 USFL players in NFL camps]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/mvp-kavontae-turpin-qb-kyle-sloter-among-21-usfl-players-in-nfl-camps</link>
+				<guid>https://www.foxsports.com/stories/nfl/mvp-kavontae-turpin-qb-kyle-sloter-among-21-usfl-players-in-nfl-camps</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[NFL teams have signed 21 USFL stars and counting, including MVP KaVontae Turpin, Eric D. Williams writes.]]>
+				</description>
+				<pubDate>Mon, 08 Aug 2022 18:06:34 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/7.28.22_USFLtoNFL_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/7.28.22_USFLtoNFL_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hall of Fame Game: USFL star Kyle Sloter gets NFL shot with Jaguars]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/hall-of-fame-game-usfl-star-kyle-sloter-gets-nfl-shot-with-jaguars</link>
+				<guid>https://www.foxsports.com/stories/nfl/hall-of-fame-game-usfl-star-kyle-sloter-gets-nfl-shot-with-jaguars</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[New Orleans Breakers QB Kyle Sloter returns to Canton, with a backup spot for the Jaguars on the line, writes Eric D. Williams.]]>
+				</description>
+				<pubDate>Thu, 04 Aug 2022 09:57:10 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/8.4.22_KyleSloterGetsHisChance_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/8.4.22_KyleSloterGetsHisChance_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jerry Jones: 'No urgency' about Cowboys' WR injuries]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/jerry-jones-no-urgency-about-cowboys-wr-injuries</link>
+				<guid>https://www.foxsports.com/stories/nfl/jerry-jones-no-urgency-about-cowboys-wr-injuries</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Cowboys owner/GM Jerry Jones isn't in a rush to find an external replacement for James Washington, but he should be, David Helman writes.]]>
+				</description>
+				<pubDate>Tue, 02 Aug 2022 17:37:26 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.02.22_Cowboys-WRs_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.02.22_Cowboys-WRs_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Dallas Cowboys sign USFL MVP KaVontae Turpin|Season Highlights]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5ceb9d9b0000ee8</link>
+				<guid>https://www.foxsports.com/watch/play-5ceb9d9b0000ee8</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check KaVontae Turpin's season highlights for the New Jersey Generals as the Dallas Cowboys sign him for the upcoming NFL season.]]>
+				</description>
+				<pubDate>Thu, 28 Jul 2022 17:49:32 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5ceb9d9b0000ee8--turpin-1658961480842.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5ceb9d9b0000ee8--turpin-1658961480842.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Dallas Cowboys sign USFL MVP KaVontae Turpin]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/dallas-cowboys-sign-usfl-mvp-kavontae-turpin</link>
+				<guid>https://www.foxsports.com/stories/nfl/dallas-cowboys-sign-usfl-mvp-kavontae-turpin</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Needing receiver help, the Dallas Cowboys added USFL MVP KaVontae Turpin to their roster Thursday. David Helman examines the fit.]]>
+				</description>
+				<pubDate>Thu, 28 Jul 2022 10:47:37 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.28.22_Cowboys-have-signed-USFL-MVP-Kavontae-Turpin_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.28.22_Cowboys-have-signed-USFL-MVP-Kavontae-Turpin_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 Birmingham Stallions' Victor Bolden season highlights | USFL]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5ccb3502200097e</link>
+				<guid>https://www.foxsports.com/watch/play-5ccb3502200097e</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out the top highlights from Birmingham Stallions’ Victor Bolden in the 2022 season after signing a deal with Arizona Cardinals.]]>
+				</description>
+				<pubDate>Sun, 24 Jul 2022 01:43:01 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5ccb3502200097e--bold-1658621151787.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5ccb3502200097e--bold-1658621151787.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL signings from USFL: Rams ink Luis Perez, Cards get Victor Bolden]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/nfl-signings-from-usfl-rams-ink-luis-perez-cards-get-victor-bolden</link>
+				<guid>https://www.foxsports.com/stories/nfl/nfl-signings-from-usfl-rams-ink-luis-perez-cards-get-victor-bolden</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[In the weeks following the end of the inaugural USFL season, a handful of standout players have signed with NFL teams.]]>
+				</description>
+				<pubDate>Sat, 23 Jul 2022 16:58:53 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/7.23.22_USFL-to-NFL-Roundup_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/7.23.22_USFL-to-NFL-Roundup_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[2022 New Jersey Generals QB Luis Perez season highlights | USFL]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5cca53cd00012a3</link>
+				<guid>https://www.foxsports.com/watch/play-5cca53cd00012a3</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out the top highlights from New Jersey Generals' QB Luis Perez as he signs a deal with the Los Angeles Rams.]]>
+				</description>
+				<pubDate>Sat, 23 Jul 2022 21:55:01 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5cca53cd00012a3--luis_rams-1658612014223.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5cca53cd00012a3--luis_rams-1658612014223.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL: Top 10 offensive plays of the season | USFL]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5cc9f65900012a3</link>
+				<guid>https://www.foxsports.com/watch/play-5cc9f65900012a3</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out the top 10 plays of the season, featuring the likes of Ryan O'Malley of the Michigan Panthers, J'Mar Smith of the Birmingham Stallions, Anthony Ratliff-Williams of the Houston Gamblers, Marlon Williams of the Birmingham Stallions, Jonathan Adams of the New Orleans Breakers, Osirus Mitchell of the Birmingham Stallions, Matt Colburn II of the Philadelphia Stars, Reggie Corbin of the Michigan Panthers, Kyle Sloter of the New Orleans Breakers, and Teo Redding of the Houston Gamblers. ]]>
+				</description>
+				<pubDate>Sat, 23 Jul 2022 21:50:27 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5cc9f65900012a3--top_10_usfl-1658608377512.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5cc9f65900012a3--top_10_usfl-1658608377512.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL's Best MIC'D UP moments from the 2022 season | USFL]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c99fcc3e0002e1</link>
+				<guid>https://www.foxsports.com/watch/play-5c99fcc3e0002e1</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out the best MIC’D UP moments from the 2022 season, including the best trash talk, biggest hits and hilarious moments from the Birmingham Stallions, New Orleans Breakers, Tampa Bay Bandits, Houston Gamblers, New Jersey Generals, Michigan Panthers, Pittsburgh Maulers and Philadelphia Stars!
+]]>
+				</description>
+				<pubDate>Mon, 18 Jul 2022 02:16:12 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c99fcc3e0002e1--USFLthumb-1658105175251.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c99fcc3e0002e1--USFLthumb-1658105175251.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Washington dips into USFL to sign corners Stribling, Neal]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/washington-dips-into-usfl-sign-corners-stribling-neal</link>
+				<guid>https://www.foxsports.com/stories/usfl/washington-dips-into-usfl-sign-corners-stribling-neal</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The Washington Commanders have signed two defensive backs out of the USFL, Channing Stribling and DeJuan Neal.]]>
+				</description>
+				<pubDate>Fri, 15 Jul 2022 14:23:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/stribling-wide-071522.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/stribling-wide-071522.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL first season recap: Everything you need to know and missed]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c58195e5000f36</link>
+				<guid>https://www.foxsports.com/watch/play-5c58195e5000f36</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Joel Klatt recaps the inaugural USFL season from all the new innovations like sky and ref cam, player and coach awards, and the thrilling USFL championship game between the Birmingham Stallions and the Philadelphia Stars.]]>
+				</description>
+				<pubDate>Sun, 10 Jul 2022 13:58:30 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c58195e5000f36--usflthumb.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c58195e5000f36--usflthumb.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Birmingham Stallions' emotional celebration after winning the USFL Championship | United By Football]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c570184d000f36</link>
+				<guid>https://www.foxsports.com/watch/play-5c570184d000f36</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Go behind-the-scenes of the USFL Championship and watch the emotional celebration of the Birmingham Stallions' win over the Philadelphia Stars.]]>
+				</description>
+				<pubDate>Sat, 09 Jul 2022 23:15:38 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c570184d000f36--cele.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c570184d000f36--cele.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Case Cookus' heart-wrenching injury in the USFL Championship | United By Football]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c5711afc0000db</link>
+				<guid>https://www.foxsports.com/watch/play-5c5711afc0000db</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Go behind-the-scenes of the Philadelphia Stars' Case Cookus' leg injury in the USFL Championship against the Birmingham Stallions.]]>
+				</description>
+				<pubDate>Sat, 09 Jul 2022 22:20:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c5711afc0000db--cook.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c5711afc0000db--cook.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ex-USFL linebacker Christian Sam signs deal with Cowboys]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/usfl-lb-christian-sam-signs-deal-with-cowboys</link>
+				<guid>https://www.foxsports.com/stories/usfl/usfl-lb-christian-sam-signs-deal-with-cowboys</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Former New Orleans Breakers linebacker Christian Sam has signed a contract with the Dallas Cowboys.]]>
+				</description>
+				<pubDate>Fri, 08 Jul 2022 15:52:18 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/sam-cowboys-wide-070822.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/sam-cowboys-wide-070822.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Philadelphia's Mazzi Wilkins comes up with the pick and huge return to set up a Case Cookus rushing td]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5be31b9f00006a3</link>
+				<guid>https://www.foxsports.com/watch/play-5be31b9f00006a3</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Philadelphia Stars Cornerback Mazzi Wilkins comes up with the pick and huge return to set up the Case Cookus QB rush and  touchdown.]]>
+				</description>
+				<pubDate>Thu, 07 Jul 2022 12:05:58 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5be31b9f00006a3--Cookus_Rush_TD.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5be31b9f00006a3--Cookus_Rush_TD.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL’s inaugural season was a triumph, and it returns in 2023]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/usfls-inaugural-season-was-a-triumph-and-it-returns-in-2023</link>
+				<guid>https://www.foxsports.com/stories/usfl/usfls-inaugural-season-was-a-triumph-and-it-returns-in-2023</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The USFL featured hundreds of talented players and nearly as many thrilling moments in an inaugural season worth celebrating, RJ Young writes.]]>
+				</description>
+				<pubDate>Wed, 06 Jul 2022 06:24:16 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.05.22_USFLWrap_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.05.22_USFLWrap_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL 2022 odds: Stallions winning season earns bettors big bucks]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/usfl-2022-odds-stallions-winning-season-earns-bettors-big-bucks</link>
+				<guid>https://www.foxsports.com/stories/usfl/usfl-2022-odds-stallions-winning-season-earns-bettors-big-bucks</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The Birmingham Stallions are the USFL champions! Read about their dominant season from a betting perspective.]]>
+				</description>
+				<pubDate>Tue, 05 Jul 2022 11:20:06 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.4.22_USFL-Odds-Stallions-season-from-a-gambling-perspective_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.4.22_USFL-Odds-Stallions-season-from-a-gambling-perspective_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL Championship Game odds: Betting results, closing lines]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/usfl-championship-game-odds-betting-results-closing-lines</link>
+				<guid>https://www.foxsports.com/stories/usfl/usfl-championship-game-odds-betting-results-closing-lines</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Everything you need to know about how the betting options played out for the USFL title game.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 18:21:47 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/06.25.22_How-to-Bet-USFL-Championship-Game_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/06.25.22_How-to-Bet-USFL-Championship-Game_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stallions' Alex McGough, Scooby Wright help seal USFL title | SPEAK FOR YOURSELF]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c2da67450000db</link>
+				<guid>https://www.foxsports.com/watch/play-5c2da67450000db</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Marcellus Wiley and Emmanuel Acho share their top plays of the USFL Championship, including Birmingham Stallions QB Alex McGough's late first-down conversion in the fourth quarter and LB Scooby Wright's pick-six to seal the title over the Philadelphia Stars.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 21:32:17 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c2da67450000db--sft.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c2da67450000db--sft.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL championship: Check out every TD scored from Stallions vs. Stars matchup]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c28676e60000db</link>
+				<guid>https://www.foxsports.com/watch/play-5c28676e60000db</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out every touchdown that was scored in the USFL championship game between the Philadelphia Stars and the Birmingham Stallions, featuring Bo Scarbrough, Jordan Suell, Marlon Williams, Devin Gray, Victor Bolden Jr., Scooby Wright, and Chris Rowland. 
+]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 19:17:07 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c28676e60000db--cook_case.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c28676e60000db--cook_case.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL championship: The 10 top plays from Stallions vs. Stars classic]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c2864090000b1a</link>
+				<guid>https://www.foxsports.com/watch/play-5c2864090000b1a</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Check out the top plays from the USFL Birmingham Stallions vs. Philadelphia Stars championship game, featuring Dexter Williams, Case Cookus, J'Marr Smith, Bobby Holly,Bo Scarbrough, Jordan Suell,Devin Gray, Marlon Williams, K.J. Costello, Chris Rowland, and Scooby Wright. ]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 19:09:03 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c2864090000b1a--super.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c2864090000b1a--super.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Bo Scarbrough, Scooby Wright highlight top USFL Championship plays | UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c2bc5d740000db</link>
+				<guid>https://www.foxsports.com/watch/play-5c2bc5d740000db</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[Skip Bayless and Shannon Sharpe break down their top plays of the USFL Championship, including Birmingham Stallions RB Bo Scarbrough's 36-yard TD run, QB Alex McGough's TD pass to MVP Victor Bolden Jr., LB Scooby Wright's pick-six, and Philadelphia Stars QB Case Cookus's acrobatic TD to Jordan Suell.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 16:17:28 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c2bc5d740000db--stallions.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c2bc5d740000db--stallions.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Birmingham Stallions take the USFL Championship Title | FIRST THINGS FIRST]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5c2b5c913000b1a</link>
+				<guid>https://www.foxsports.com/watch/play-5c2b5c913000b1a</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The inaugural USFL season came to a thrilling end as the Birmingham Stallions managed to hold on to a 33-30 lead over the Philadelphia Stars, coming away with the championship. Nick Wright, Chris Broussard and Kevin Wildes share the best moments from the USFL Title game.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 14:53:57 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5c2b5c913000b1a--0704_USFL.jpeg" expression="full" type="image/jpeg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5c2b5c913000b1a--0704_USFL.jpeg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[USFL Championship: Stallions top Stars in thriller, 33-30]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/usfl-championship-stallions-top-stars-in-thriller</link>
+				<guid>https://www.foxsports.com/stories/usfl/usfl-championship-stallions-top-stars-in-thriller</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[The Birmingham Stallions are the USFL Champions after outlasting the Philadelphia Stars Sunday night in Canton, Ohio.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 00:46:21 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/6.29.22_USFL-championship_Top-Plays_stars-Stallions_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/128/72/6.29.22_USFL-championship_Top-Plays_stars-Stallions_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Scooby Wright lets 'Shark Dog' loose, lifts Stallions to title]]>
+				</title>
+				<link>https://www.foxsports.com/stories/usfl/scooby-wright-lets-shark-dog-loose-lifts-stallions-to-title</link>
+				<guid>https://www.foxsports.com/stories/usfl/scooby-wright-lets-shark-dog-loose-lifts-stallions-to-title</guid>
+				<category>usfl</category>
+				<description>
+				    <![CDATA[No player sunk his teeth into the USFL quite like Scooby Wright, who fittingly made the title-winning play, RJ Young writes.]]>
+				</description>
+				<pubDate>Mon, 04 Jul 2022 00:34:04 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/07.3.22_USFLWinner_Horizontal.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/07.3.22_USFLWinner_Horizontal.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>

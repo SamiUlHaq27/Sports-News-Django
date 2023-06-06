@@ -1,0 +1,467 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    	<channel>
+		<title>FOX Sports Digital</title>
+		<link>https://www.foxsports.com</link>
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>https://b.fssta.com/uploads/application/fscom/fox-sports-logo-black.png</url>
+			<link>https://www.foxsports.com</link>
+		</image>
+		<pubDate>Thu, 13 Oct 2022 03:38:19 +0000</pubDate>
+		<ttl>180</ttl>
+		<language>en-us</language>
+		<atom:link href="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;tags=fs/ufc&amp;size=30" rel="self" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://foxsports.superfeedr.com"/>
+					<item>
+				<title>
+					<![CDATA[Leon Edwards' KO of Kamaru Usman shocks Skip, Shannon]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/leon-edwards-knocks-out-kamaru-usman-greatest-ever-undisputed</link>
+				<guid>https://www.foxsports.com/stories/ufc/leon-edwards-knocks-out-kamaru-usman-greatest-ever-undisputed</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Leon Edwards shocked the sports world on Saturday. Skip and Shannon try to wrap their minds around his KO of Kamaru Usman.]]>
+				</description>
+				<pubDate>Mon, 22 Aug 2022 15:27:43 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.22.22_Usman-Edwards-KO-reactions_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.22.22_Usman-Edwards-KO-reactions_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Leon Edwards snatches Kamaru Usman's UFC Title with last-minute KO | UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5dbfbce2900177c</link>
+				<guid>https://www.foxsports.com/watch/play-5dbfbce2900177c</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Skip Bayless and Shannon Sharpe share their reactions to the mind-blowing UFC Title match between British fighter Leon Edwards and Nigerian-American Kamaru Usman. Usman appeared to be running away with the match early on, but Edwards rallied with a last minute kick to Usman's head, knocking the fighter out cold and securing the welterweight title. Skip and Shannon reveal the simple mistake that cost Usman this fight, and decide if this was the greatest comeback in UFC history.]]>
+				</description>
+				<pubDate>Mon, 22 Aug 2022 16:25:29 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5dbfbce2900177c--0822_UFC-1661185412841.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5dbfbce2900177c--0822_UFC-1661185412841.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Leon Edwards stuns Kamaru Usman with head kick KO]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/leon-edwards-stuns-kamaru-usman-with-head-kick-ko</link>
+				<guid>https://www.foxsports.com/stories/ufc/leon-edwards-stuns-kamaru-usman-with-head-kick-ko</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[It was the kick heard 'round the world, as Leon Edwards knocked out Kamaru Usman in dramatic fashion at UFC 278.]]>
+				</description>
+				<pubDate>Sat, 20 Aug 2022 22:26:26 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/KO-wide-082022.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/KO-wide-082022.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Were Tom Brady and Rob Gronkowski nearly Raiders?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/nfl/tom-brady-rob-gronkowski-could-have-been-raiders</link>
+				<guid>https://www.foxsports.com/stories/nfl/tom-brady-rob-gronkowski-could-have-been-raiders</guid>
+				<category>nfl</category>
+				<description>
+				    <![CDATA[Dana White claims Tom Brady and "Gronk" almost made their way to Las Vegas, but former coach Jon Gruden nixed the deal.]]>
+				</description>
+				<pubDate>Sat, 20 Aug 2022 20:31:41 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/08.20.22_Gronk-and-Brady-couldve-been-Raiders_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/08/128/72/08.20.22_Gronk-and-Brady-couldve-been-Raiders_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UFC 276: Volkanovski tops Holloway, Cerrone calls it quits]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/ufc-276-volkanovski-tops-holloway-cerrone-calls-it-quits</link>
+				<guid>https://www.foxsports.com/stories/ufc/ufc-276-volkanovski-tops-holloway-cerrone-calls-it-quits</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Alexander Volkanovski defeated Max Holloway for the third time, and Donald Cerrone retired after his defeat at UFC 276.]]>
+				</description>
+				<pubDate>Sat, 02 Jul 2022 22:31:01 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/ufc-wide-070222.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/128/72/ufc-wide-070222.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman: "I put something on [Jorge] Masvidal he'll never forget" I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-587ac44e0001582</link>
+				<guid>https://www.foxsports.com/watch/play-587ac44e0001582</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman talks with Shannon Sharpe about his fight with Jorge Masvidal. “I put something on Masvidal he’ll never forget.”]]>
+				</description>
+				<pubDate>Sat, 12 Mar 2022 01:58:44 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-587ac44e0001582--CSS_x_UsmanMasvidal_Thumbnail.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-587ac44e0001582--CSS_x_UsmanMasvidal_Thumbnail.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman thinks the UFC should pay fighters more I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2011571779582</link>
+				<guid>https://www.foxsports.com/watch/2011571779582</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman talks with Shannon Sharpe about UFC fighters getting paid more. “If you give me $100M today, I’ll take it. But my next fight I’ll want $250M…Could we have a bigger slice of the pie? Absolutely.”]]>
+				</description>
+				<pubDate>Thu, 10 Mar 2022 21:57:49 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/433/350/CSS_Kamaru_UFC_Paying_Fighters_3_350x197_2011570243981.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/433/350/128/72/CSS_Kamaru_UFC_Paying_Fighters_3_350x197_2011570243981.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Francis Ngannou is the baddest man on the planet I Ep. 43 I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2011101251859</link>
+				<guid>https://www.foxsports.com/watch/2011101251859</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman lets Shannon know what he thinks of Francis Ngannou. “He's proven that he's the baddest man on the planet. Francis is always going to be worth more than he's getting.”]]>
+				</description>
+				<pubDate>Wed, 09 Mar 2022 20:07:19 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/1008/627/0308_CSS_Kamaru_on_Francis_350x197_2011113539731.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/1008/627/128/72/0308_CSS_Kamaru_on_Francis_350x197_2011113539731.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman on fighting Conor McGregor: 'The offer is there' ' Ep. 43 ' Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2010793539564</link>
+				<guid>https://www.foxsports.com/watch/2010793539564</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman tells Shannon Sharpe that if Conor McGregor wants to fight, the offer is there. "The offer is there. I gave him a chance, he was barking. He tweets a lot, we call them Twitter fingers."]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 23:47:02 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/715/158/mcgregor.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/715/158/128/72/mcgregor.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman would demand big payday to fight Jake Paul]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/kamaru-usman-would-demand-big-payday-to-fight-jake-paul</link>
+				<guid>https://www.foxsports.com/stories/ufc/kamaru-usman-would-demand-big-payday-to-fight-jake-paul</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman says he would fight Jake Paul, but only if the money was right. "Write me a check for $100 million," he said.]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 15:29:31 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/03.08.22_Club-Shay-Shay-UFC-fighter-Kamaru-Usman_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/128/72/03.08.22_Club-Shay-Shay-UFC-fighter-Kamaru-Usman_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jon Jones & Francis Ngannou is a fight Usman wants to see I Ep. 43 I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2010742851724</link>
+				<guid>https://www.foxsports.com/watch/2010742851724</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman tells Shannon that he wants to see Jon Jones and Francis Ngannou fight. “Imma tell you right now, Franics Ngannou is a tall glass of milk for anybody to drink.”]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 21:53:35 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/666/835/0308_CSS_Jon_Jones_350x197_2010781251600.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/666/835/128/72/0308_CSS_Jon_Jones_350x197_2010781251600.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman wants a trilogy fight with Colby Covington I Ep. 43 I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2010731075568</link>
+				<guid>https://www.foxsports.com/watch/2010731075568</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman tells Shannon Sharpe that he wants a 3rd fight with Colby Covington. “He’s proven that he's one of the best in the division.”]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 21:19:00 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/655/598/CSS_x_UsmanColby_Thumbnail_site_350x197_2010734659907.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/655/598/128/72/CSS_x_UsmanColby_Thumbnail_site_350x197_2010734659907.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Kamaru Usman on fighting Jake Paul: 'Write me a check for $100M, and I'll be there to kick your a** next week' I EP. 43 I Club Shay Shay]]>
+				</title>
+				<link>https://www.foxsports.com/watch/play-5859d3118000da9</link>
+				<guid>https://www.foxsports.com/watch/play-5859d3118000da9</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Kamaru Usman tells Shannon Sharpe that he would fight Jake and Logan Paul. “Write me a check for $100M, Jake Paul, and I’ll be there to kick your a** next week.”]]>
+				</description>
+				<pubDate>Tue, 08 Mar 2022 04:01:17 +0000</pubDate>
+								<media:content url="https://static-media.fox.com/ms/stg1/sports/play-5859d3118000da9--jakelogan.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/static-media.fox.com/ms/stg1/sports/128/72/play-5859d3118000da9--jakelogan.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Dana White previews UFC 272, talks Conor McGregor's return I THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/2008721475530</link>
+				<guid>https://www.foxsports.com/watch/2008721475530</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[UFC President Dana White joins Colin Cowherd to preview UFC 272 between Colby Covington and Jorge Masvidal. Dana also discusses the change of Conor McGregor and Nate Diaz complete their trilogy.]]>
+				</description>
+				<pubDate>Wed, 02 Mar 2022 21:22:06 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/787/82/DanaWhite_HERD0302_350x197_2008731715557.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/787/82/128/72/DanaWhite_HERD0302_350x197_2008731715557.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UFC 269 results: Julianna Peña stuns Amanda Nunes, Oliveira defeats Poirier]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/ufc-269-results-julianna-pena-stuns-nunes-oliveira-defeats-poirier</link>
+				<guid>https://www.foxsports.com/stories/ufc/ufc-269-results-julianna-pena-stuns-nunes-oliveira-defeats-poirier</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Julianna Peña stunned Amanda Nunes and Charles Oliveira stopped Dustin Poirier. Here's how social media reacted to UFC 269.]]>
+				</description>
+				<pubDate>Sat, 11 Dec 2021 21:58:53 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/nunes-pena.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/128/72/nunes-pena.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Amanda Nunes aims to continue run as most dominant athlete in sports]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/amanda-nunes-looks-to-continue-her-dominant-run-in-the-octagon-at-ufc-269</link>
+				<guid>https://www.foxsports.com/stories/ufc/amanda-nunes-looks-to-continue-her-dominant-run-in-the-octagon-at-ufc-269</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Amanda Nunes looks to continue her amazing run when she defends her bantamweight belt at UFC 269, Martin Rogers writes.]]>
+				</description>
+				<pubDate>Fri, 10 Dec 2021 16:00:45 -0800</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/795_Newsletter_1920x1080_StoryCard_UFC_AmandaNunes.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/128/72/795_Newsletter_1920x1080_StoryCard_UFC_AmandaNunes.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Saturday night fights: Anthony Joshua's heavyweight title bout, UFC 266 take center stage]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/saturday-night-fights-anthony-joshua-heavyweight-title-bout-ufc-266-take-center-stage</link>
+				<guid>https://www.foxsports.com/stories/ufc/saturday-night-fights-anthony-joshua-heavyweight-title-bout-ufc-266-take-center-stage</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[It was a wild day of combat sports, beginning with Anthony Joshua's stunning loss and wrapping up with a wild day at UFC 266.]]>
+				</description>
+				<pubDate>Sat, 25 Sep 2021 22:38:09 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/9.25.21_Saturday-Night-Fights-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/128/72/9.25.21_Saturday-Night-Fights-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA["Tommy Fury might be the next step" — Skip Bayless reacts to Jake Paul declining Tyron Woodley a rematch I UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1945826883925</link>
+				<guid>https://www.foxsports.com/watch/1945826883925</guid>
+				<category>boxing</category>
+				<description>
+				    <![CDATA[There will be no rematch between Jake Paul and Tyron Woodley. Paul kept it honest when he told reporters, QUOTE 'I'm leaving Tyron in the past. He didn't live up to the bet -- he didn't get the tattoo. So, the rematch just doesn't make sense anymore.' Potential next opponents for Paul now range from Tyson Fury's half-brother Tommy Fury to 46-year-old UFC legend Anderson Silva. Hear what Skip Bayless and Shannon Sharpe have to say about Jake declining a rematch, and who would be a good next opponent.]]>
+				</description>
+				<pubDate>Tue, 14 Sep 2021 15:31:13 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/198/127/jakepaul.png" expression="full" type="image/png" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/198/127/128/72/jakepaul.png" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[One-on-one with Oscar De La Hoya: Are celebrity fights good for the sport of boxing?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/boxing/oscar-de-la-hoya-vitor-belfort-jake-paul-tyron-woodley-conor-mcgregor-boxing-martin-rogers-newsletter</link>
+				<guid>https://www.foxsports.com/stories/boxing/oscar-de-la-hoya-vitor-belfort-jake-paul-tyron-woodley-conor-mcgregor-boxing-martin-rogers-newsletter</guid>
+				<category>boxing</category>
+				<description>
+				    <![CDATA[Martin Rogers talks with Oscar De La Hoya about the current state of boxing, which is in a strange and fascinating place.]]>
+				</description>
+				<pubDate>Tue, 31 Aug 2021 17:16:03 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.31.21_celebrity-boxing_EDIT-16x9-1.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.31.21_celebrity-boxing_EDIT-16x9-1.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Skip Bayless: Jake Paul dominated this Tyron Woodley fight slowly but surely; I was impressed by what I saw I UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1939913795869</link>
+				<guid>https://www.foxsports.com/watch/1939913795869</guid>
+				<category>boxing</category>
+				<description>
+				    <![CDATA[Jake Paul beat Tyron Woodley by split decision in their boxing match last night in Woodley’s hometown of Cleveland. The former UFC fighter was already looking for a rematch afterward, and the Youtube sensation agreed under one condition: that Woodley gets the 'I love Jake Paul' tattoo they bet before the fight. Paul improved his professional record to 4-and-0 with the victory, much to the chagrin of Woodley’s fans on social media. Skip Bayless reacts to Paul's victory and explains why he was impressed by it.]]>
+				</description>
+				<pubDate>Mon, 30 Aug 2021 15:21:42 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/702/987/0830_UND.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/702/987/128/72/0830_UND.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Social media reacts to Jake Paul's victory over Tyron Woodley]]>
+				</title>
+				<link>https://www.foxsports.com/stories/boxing/jake-paul-vs-tyron-woodley-split-decision-social-media-reacts</link>
+				<guid>https://www.foxsports.com/stories/boxing/jake-paul-vs-tyron-woodley-split-decision-social-media-reacts</guid>
+				<category>boxing</category>
+				<description>
+				    <![CDATA[Jake Paul took down Tyron Woodley to improve his boxing record to 4-0. Here's the best of how social media responded.]]>
+				</description>
+				<pubDate>Sun, 29 Aug 2021 21:46:56 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/08.29.21_Jake-Paul-Tyron-Woodley-fight_Social-reax_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/08.29.21_Jake-Paul-Tyron-Woodley-fight_Social-reax_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Keith Jardine's journey from the UFC octagon to the director’s chair]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/keith-jardine-ufc-mma-film-director-martin-rogers</link>
+				<guid>https://www.foxsports.com/stories/ufc/keith-jardine-ufc-mma-film-director-martin-rogers</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Keith Jardine is embarking upon the latest chapter of a career far away from the world of fighting. Martin Rogers has the story.]]>
+				</description>
+				<pubDate>Thu, 26 Aug 2021 16:55:23 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/8.26.21_Keith-Jardine-UFC-movie-director_EDIT-16x9-2.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/08/128/72/8.26.21_Keith-Jardine-UFC-movie-director_EDIT-16x9-2.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Jake Paul: I'm the money fight for Conor McGregor, talks upcoming Tyron Woodley match I THE HERD]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1925352515848</link>
+				<guid>https://www.foxsports.com/watch/1925352515848</guid>
+				<category>boxing</category>
+				<description>
+				    <![CDATA[Jake Paul joins Colin Cowherd to discuss his upcoming boxing match against Tyron Woodley. Plus, hear why Jake believes he's the money fight for UFC superstar Conor McGregor.]]>
+				</description>
+				<pubDate>Fri, 23 Jul 2021 19:05:42 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/128/251/THUMBNAILSlll.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/128/251/128/72/THUMBNAILSlll.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Why Conor McGregor simply can't back it up anymore]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/conor-mcgregor-ufc-dustin-poirier-trash-talk</link>
+				<guid>https://www.foxsports.com/stories/ufc/conor-mcgregor-ufc-dustin-poirier-trash-talk</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Conor McGregor’s light, which was once brighter than any in the combat sports world, has dimmed drastically. Martin Rogers has the story.]]>
+				</description>
+				<pubDate>Tue, 13 Jul 2021 16:13:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/436_Newsletter_1920x1080_UFC_Conor.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/436_Newsletter_1920x1080_UFC_Conor.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Shannon Sharpe: I agree with Khabib, Conor McGregor is no longer what he once was ' UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1921014339646</link>
+				<guid>https://www.foxsports.com/watch/1921014339646</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[There's certainly no love lost between Khabib Nurmagomedov and Conor McGregor. After McGregor's latest loss to Dustin Poirier, Khabib said, 'When money and fame come, these two things show who you are. And what has [McGregor] done? …With him, no, I don't believe [he'll return to the top]. Conor has good age [32], but what happened with his mind, legs -- this guy is finished, but he's good for promotion.' Hear what Skip Bayless and Shannon Sharpe have to say about Khabib's comments towards McGregor.]]>
+				</description>
+				<pubDate>Tue, 13 Jul 2021 15:11:54 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/87/39/THUMBNAILSlll.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/87/39/128/72/THUMBNAILSlll.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Are Conor McGregor's best days behind him after ghastly UFC 264 loss?]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/conor-mcgregor-dustin-poirier-264-fight-tko-leg-injury-surgery-comeback</link>
+				<guid>https://www.foxsports.com/stories/ufc/conor-mcgregor-dustin-poirier-264-fight-tko-leg-injury-surgery-comeback</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[On Saturday, Conor McGregor suffered his fourth loss in five fights. Are his glory days officially a thing of the past?]]>
+				</description>
+				<pubDate>Mon, 12 Jul 2021 12:17:30 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/7.12.21_Con-Artist-16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/7.12.21_Con-Artist-16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Skip Bayless: Conor McGregor would've had under 0% odds of winning if the fight continued without a doctor's stoppage I UNDISPUTED]]>
+				</title>
+				<link>https://www.foxsports.com/watch/1920560707543</link>
+				<guid>https://www.foxsports.com/watch/1920560707543</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Conor McGregor and Dustin Poirier’s trilogy fight ended in a shocking way on Saturday night. At the end of the first round, McGregor stepped back and broke his lower leg right above his ankle. Poirier was announced the winner via TKO from a doctor’s stoppage. Skip Bayless explains why he would've given McGregor 'less than 0% chance of winning if the fight continued.']]>
+				</description>
+				<pubDate>Mon, 12 Jul 2021 15:08:33 +0000</pubDate>
+								<media:content url="https://fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/678/430/0712_UND.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/678/430/128/72/0712_UND.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Social media reacts after Conor McGregor suffers leg injury in loss to Dustin Poirier]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/ufc-264-conor-mcgregor-dustin-poirier-top-moments</link>
+				<guid>https://www.foxsports.com/stories/ufc/ufc-264-conor-mcgregor-dustin-poirier-top-moments</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Dustin Poirier beat Conor McGregor again on Saturday, this time via TKO after the ex-champ suffered a gruesome leg injury.]]>
+				</description>
+				<pubDate>Sat, 10 Jul 2021 22:13:29 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/430.2_Editorial_1920x1080_StoryCard_UFC_McGregorPoirier.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/430.2_Editorial_1920x1080_StoryCard_UFC_McGregorPoirier.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[UFC 264: How to bet Conor McGregor vs. Dustin Poirier 3]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/ufc-264-how-to-bet-conor-mcgregor-vs-dustin-poirier-3</link>
+				<guid>https://www.foxsports.com/stories/ufc/ufc-264-how-to-bet-conor-mcgregor-vs-dustin-poirier-3</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Tonight, the trilogy between Conor McGregor and Dustin Poirier will be settled. Sammy P tells you where to put your dollars.]]>
+				</description>
+				<pubDate>Sat, 10 Jul 2021 13:02:59 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/Conor-McGregor-vs-Dustin-Poirier-Betting-Preview_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/Conor-McGregor-vs-Dustin-Poirier-Betting-Preview_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Conor McGregor revives trash-talking ways leading up to trilogy bout with Dustin Poirier]]>
+				</title>
+				<link>https://www.foxsports.com/stories/ufc/conor-mcgregor-dustin-poirier-ufc-264-manny-pacquiao-fight</link>
+				<guid>https://www.foxsports.com/stories/ufc/conor-mcgregor-dustin-poirier-ufc-264-manny-pacquiao-fight</guid>
+				<category>ufc</category>
+				<description>
+				    <![CDATA[Conor McGregor is ditching the niceties before his trilogy bout with Dustin Poirier. Will his vintage approach equal victory?]]>
+				</description>
+				<pubDate>Sat, 10 Jul 2021 09:57:46 -0700</pubDate>
+								<media:content url="https://statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/4.5.21_7.8.21_UFC-264_Poirier-v-McGregor_16x9.jpg" expression="full" type="image/jpg" width="1167" height="656">
+										<media:thumbnail url="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/07/128/72/4.5.21_7.8.21_UFC-264_Poirier-v-McGregor_16x9.jpg" width="128" height="72"/>
+														</media:content>
+							</item>
+			</channel>
+</rss>
